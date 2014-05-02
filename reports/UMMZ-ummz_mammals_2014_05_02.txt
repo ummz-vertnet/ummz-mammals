@@ -1,0 +1,329 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for April, 2014, generated on 2014/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 323
+Number of records retrieved in searches: 7347
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 20
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 9
+	Country: China ; Times: 1
+	Country: Colombia ; Times: 5
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 5
+	Country: India ; Times: 3
+	Country: Italy ; Times: 1
+	Country: Madagascar ; Times: 45
+	Country: Mexico ; Times: 13
+	Country: United States ; Times: 208
+	Country: Unknown ; Times: 6
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 24
+	Date: 2014-04-02 ; Times: 2
+	Date: 2014-04-03 ; Times: 5
+	Date: 2014-04-04 ; Times: 7
+	Date: 2014-04-05 ; Times: 1
+	Date: 2014-04-06 ; Times: 11
+	Date: 2014-04-07 ; Times: 52
+	Date: 2014-04-08 ; Times: 14
+	Date: 2014-04-09 ; Times: 13
+	Date: 2014-04-10 ; Times: 4
+	Date: 2014-04-11 ; Times: 6
+	Date: 2014-04-12 ; Times: 4
+	Date: 2014-04-14 ; Times: 29
+	Date: 2014-04-15 ; Times: 29
+	Date: 2014-04-16 ; Times: 11
+	Date: 2014-04-17 ; Times: 12
+	Date: 2014-04-18 ; Times: 5
+	Date: 2014-04-19 ; Times: 1
+	Date: 2014-04-20 ; Times: 17
+	Date: 2014-04-21 ; Times: 2
+	Date: 2014-04-22 ; Times: 8
+	Date: 2014-04-23 ; Times: 17
+	Date: 2014-04-24 ; Times: 14
+	Date: 2014-04-25 ; Times: 22
+	Date: 2014-04-26 ; Times: 3
+	Date: 2014-04-28 ; Times: 3
+	Date: 2014-04-29 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "akodon mollis" ; Times: 2
+	Query: "class:Mammalia Furipterus horrens" ; Times: 2
+	Query: "taiwan institutioncode:ummz" ; Times: 1
+	Query: "1265" ; Times: 1
+	Query: "Hydropotes inermis" ; Times: 1
+	Query: ""occultus" "mammalia"" ; Times: 2
+	Query: "country:"guatemala" institutioncode:ummz" ; Times: 1
+	Query: ""Mustela nivalis" type:specimen" ; Times: 1
+	Query: "blarinella ummz" ; Times: 1
+	Query: "specificepithet:europaeus genus:lepus" ; Times: 1
+	Query: ""bison bison"" ; Times: 1
+	Query: "cincinnati museum center" ; Times: 1
+	Query: "noctilio albiventris" ; Times: 4
+	Query: "akodon latebricola" ; Times: 2
+	Query: "Otopteropus" ; Times: 1
+	Query: "pteropus hypomelanus" ; Times: 1
+	Query: "genus:choloepus" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "pecari tajacu" ; Times: 2
+	Query: "pseudoryzomys simplex" ; Times: 1
+	Query: "Ochotona princeps utah" ; Times: 1
+	Query: "country:"italy" institutioncode:ummz" ; Times: 1
+	Query: "country:"ecuador" institutioncode:ummz" ; Times: 1
+	Query: "sus scrofa" ; Times: 15
+	Query: "Chaetodipus siccus" ; Times: 2
+	Query: "specificepithet:fulvus genus:Lemur" ; Times: 36
+	Query: "conepatus" ; Times: 1
+	Query: "Micronycteris microtis" ; Times: 1
+	Query: "Taurotragus oryx type:specimen" ; Times: 2
+	Query: ""sus scrofa"" ; Times: 1
+	Query: ""Neovison vison" type:specimen" ; Times: 1
+	Query: "alouatta AND peru" ; Times: 1
+	Query: "sus scrofa type:specimen country:"United States"" ; Times: 1
+	Query: "nephelomys" ; Times: 1
+	Query: "scalopus aquaticus illinois" ; Times: 1
+	Query: "mustela frenata county:"king" stateprovince:"washington"" ; Times: 1
+	Query: "capra hircus" ; Times: 6
+	Query: "country:"zimbabwe" institutioncode:ummz" ; Times: 1
+	Query: ""Tamias bulleri"" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "tarsius" ; Times: 2
+	Query: "sus scrofa country:"United States"" ; Times: 1
+	Query: "Loxodonta" ; Times: 1
+	Query: "pecari tajacu mexico" ; Times: 2
+	Query: "specificepithet:fischeri genus:Haplonycteris" ; Times: 9
+	Query: "Mustela nigripes" ; Times: 3
+	Query: "specificepithet:fulvus genus:Lemur year >= 1900 year <= 2000" ; Times: 5
+	Query: "Bassariscus and Texas mappable:1" ; Times: 1
+	Query: "tachyglossus aculeatus" ; Times: 1
+	Query: "Geomys personatus" ; Times: 1
+	Query: "xenomys nelsoni" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "brachylagus" ; Times: 1
+	Query: "Cynomys gunnisoni" ; Times: 1
+	Query: "Zapus princeps distance(location,geopoint(34.37971258046215,-106.051025390625))<554256" ; Times: 2
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: ""Mustela erminea" type:specimen" ; Times: 2
+	Query: "specificepithet:scrofa institutioncode:utep OR institutioncode:CRCM OR institutioncode:hsu OR institutioncode:lacm OR institutioncode:msb OR institutioncode:mvz OR institutioncode:uam OR institutioncode:ummz OR institutioncode:nysm OR institutioncode:psm OR institutioncode:amnh OR institutioncode:cas OR institutioncode:uczm OR institutioncode:ucmp OR institutioncode:fmnh OR institutioncode:ku OR institutioncode:sbmnh OR institutioncode:cuml OR institutioncode:lsumz OR institutioncode:ubcbbm OR institutioncode:mcz OR institutioncode:rom OR institutioncode:tcwc OR institutioncode:nmnh OR institutioncode:dmns OR institutioncode:ccber OR institutioncode:isu OR institutioncode:flmnh" ; Times: 1
+	Query: "stateprovince:"texas" genus:bassariscus mappable:1" ; Times: 2
+	Query: "Ochotona princeps stateprovince:"oregon"" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus" ; Times: 3
+	Query: "recordedby:lacey" ; Times: 3
+	Query: "stateprovince:"texas" genus:bassariscus" ; Times: 1
+	Query: "sorex UM" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "peromyscus institutioncode:UMMZ" ; Times: 1
+	Query: "type:specimen specificepithet:alleni genus:Sigmodon" ; Times: 2
+	Query: "callicebus" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 3
+	Query: "Otopteropus cartilagonodus" ; Times: 2
+	Query: "stateprovince:"Michigan" specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "type:specimen specificepithet:ochrognathus genus:sigmodon" ; Times: 1
+	Query: "didelphis marsupialis caucae" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 1
+	Query: "genus:manis" ; Times: 8
+	Query: "Haplonycteris fischeri" ; Times: 3
+	Query: "genus:Thomomys institutioncode:ummz" ; Times: 13
+	Query: "specificepithet:scrofa genus:Sus (sus scrofa)" ; Times: 1
+	Query: "tylomys" ; Times: 1
+	Query: "Ateles geoffroyi vellerosus" ; Times: 2
+	Query: "panthera leo" ; Times: 1
+	Query: "Peromyscus mayensis" ; Times: 2
+	Query: "country:"panama" institutioncode:ummz" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+	Query: "country:"United States" specificepithet:catus genus:felis" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "Heterocephalus" ; Times: 6
+	Query: "Northern Michigan University" ; Times: 2
+	Query: "country:"zambia" institutioncode:ummz" ; Times: 1
+	Query: "mus sp" ; Times: 1
+	Query: "country:"spain" institutioncode:ummz" ; Times: 1
+	Query: "gerbillus henleyi" ; Times: 4
+	Query: "Bassariscus Texas" ; Times: 3
+	Query: "country:"france" institutioncode:ummz" ; Times: 1
+	Query: "type:specimen specificepithet:floridana genus:Neotoma" ; Times: 2
+	Query: "Ochotona princeps stateprovince:"washington"" ; Times: 2
+	Query: "Bassariscus Texas mappable:1" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "lepus europaeus" ; Times: 3
+	Query: "genus:Ctenomys institutioncode:ummz" ; Times: 1
+	Query: "Myodes gapperi stateprovince:"Michigan"" ; Times: 2
+	Query: "Tarsius syrichta" ; Times: 5
+	Query: "genus:Thomomys institutioncode:ummz year <= 1990" ; Times: 2
+	Query: "Zapus princeps distance(location,geopoint(34.37971258046215,-106.051025390625))<483529" ; Times: 1
+	Query: "country:"honduras" institutioncode:ummz" ; Times: 1
+	Query: "Thallomys" ; Times: 1
+	Query: "specificepithet:fulvus genus:lemur year >= 1900 year <= 2000" ; Times: 4
+	Query: "Myodes gapperi county:"Marquette" stateprovince:"Michigan"" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "lontra" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "recordedBy:Lacey" ; Times: 3
+	Query: "country:"brazil" institutioncode:ummz" ; Times: 1
+	Query: "gerbillus" ; Times: 3
+	Query: "specificepithet:scrofa genus:Sus" ; Times: 4
+	Query: "specificepithet:scrofa genus:Sus class:Mammalia" ; Times: 3
+	Query: "country:"south africa" institutioncode:ummz" ; Times: 1
+	Query: "habromys" ; Times: 1
+	Query: "country:"United States" specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "type:specimen genus:Bison" ; Times: 2
+	Query: "genus:Homo institutioncode:ummz" ; Times: 1
+	Query: "ant" ; Times: 2
+	Query: "Peromyscus fraterculus country:"United States"" ; Times: 2
+	Query: "chiroptera type:specimen county:"Grant"" ; Times: 1
+	Query: "country:"United States" specificepithet:europaeus genus:lepus" ; Times: 3
+	Query: "UMMZ Mammals 62507" ; Times: 1
+	Query: "type:specimen genus:isthmomys" ; Times: 1
+	Query: "Bassariscus stateprovince:"Texas" mappable:1" ; Times: 2
+	Query: "country:"Colombia" genus:Marmosa" ; Times: 2
+	Query: "michigan carnivora" ; Times: 1
+	Query: "recordedby:Lacey" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "type:specimen specificepithet:leucotis genus:sigmodon" ; Times: 1
+	Query: "type:specimen (Bailey) year >= 1945 year <= 1959" ; Times: 2
+	Query: "genus:tylomys institutioncode:ummz" ; Times: 1
+	Query: "Zapus princeps distance(location,geopoint(34.37971258046215,-106.051025390625))<443990" ; Times: 2
+	Query: "texas bassariscus mappable:1" ; Times: 1
+	Query: "spermophilus washingtoni" ; Times: 3
+	Query: "Angola mammalia" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "blarina brevicauda illinois" ; Times: 1
+	Query: "Sigmodon type:specimen" ; Times: 1
+	Query: "bassariscus stateprovince:"texas" mappable:1" ; Times: 1
+	Query: "type:specimen country:"India" class:Mammalia" ; Times: 3
+	Query: "type:specimen country:"United States" specificepithet:europaeus genus:lepus" ; Times: 1
+	Query: "paleo records" ; Times: 1
+	Query: "Lutreolina" ; Times: 1
+	Query: "genus:Geomys institutioncode:ummz" ; Times: 1
+	Query: "Alouatta palliata mexicana" ; Times: 3
+	Query: "carnivora institutioncode:ummz" ; Times: 1
+	Query: "genus:sus specificepithet:scrofa institutioncode:ummz" ; Times: 1
+	Query: ""microtus pinetorum" Michigan "Microtus pinetorum"" ; Times: 2
+	Query: ""Microtus pinetorum"" ; Times: 1
+	Query: "hydropotes" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 433 download events in this period)
+Total number of records downloaded: 184211 (out of 2276166 records downloaded for all resources in this period)
+Total number of unique records downloaded: 128006
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: China ; Times: 4
+	Country: Colombia ; Times: 4
+	Country: Czechia ; Times: 1
+	Country: Germany ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: United States ; Times: 41
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-04-01 ; Times: 6
+	Date: 2014-04-02 ; Times: 4
+	Date: 2014-04-03 ; Times: 1
+	Date: 2014-04-04 ; Times: 2
+	Date: 2014-04-06 ; Times: 1
+	Date: 2014-04-07 ; Times: 4
+	Date: 2014-04-08 ; Times: 3
+	Date: 2014-04-09 ; Times: 1
+	Date: 2014-04-10 ; Times: 2
+	Date: 2014-04-11 ; Times: 1
+	Date: 2014-04-12 ; Times: 1
+	Date: 2014-04-15 ; Times: 8
+	Date: 2014-04-16 ; Times: 4
+	Date: 2014-04-17 ; Times: 2
+	Date: 2014-04-18 ; Times: 3
+	Date: 2014-04-20 ; Times: 2
+	Date: 2014-04-21 ; Times: 1
+	Date: 2014-04-22 ; Times: 6
+	Date: 2014-04-23 ; Times: 6
+	Date: 2014-04-24 ; Times: 2
+	Date: 2014-04-25 ; Times: 2
+	Date: 2014-04-26 ; Times: 3
+	Date: 2014-04-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "habromys" ; Times: 1
+	Query: "mustela erminea type:specimen stateprovince:"alaska"" ; Times: 1
+	Query: "class:Mammalia Furipterus horrens" ; Times: 1
+	Query: "genus:manis" ; Times: 1
+	Query: "Haplonycteris fischeri" ; Times: 1
+	Query: "Microtus pennsylvanicus stateprovince:"New York"" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "country:"United States" specificepithet:europaeus genus:lepus" ; Times: 1
+	Query: ""Mustela nivalis" type:specimen" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 2
+	Query: "Bassariscus and Texas mappable:1" ; Times: 1
+	Query: "country:"Colombia" mappable:1" ; Times: 1
+	Query: "specificepithet:fischeri genus:Haplonycteris" ; Times: 3
+	Query: "specificepithet:scrofa genus:Sus" ; Times: 1
+	Query: "country:"United States" specificepithet:catus genus:felis" ; Times: 1
+	Query: "country:"United States" specificepithet:coypus genus:Myocastor" ; Times: 1
+	Query: "country:"Colombia" genus:Marmosa" ; Times: 1
+	Query: "chiroptera grant new mexico" ; Times: 1
+	Query: "tachyglossus aculeatus" ; Times: 1
+	Query: "Geomys personatus" ; Times: 1
+	Query: "country:"United States" specificepithet:rattus genus:rattus" ; Times: 1
+	Query: "Zapus hudsonius stateprovince:"New York"" ; Times: 1
+	Query: ""Mustela erminea" type:specimen" ; Times: 2
+	Query: "Odocoileus" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "chiroptera grant county new mexico" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 1
+	Query: "sus scrofa" ; Times: 3
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "Angola mammalia" ; Times: 1
+	Query: "peromyscus californicus" ; Times: 1
+	Query: "Tarsius syrichta" ; Times: 1
+	Query: "akodon mollis" ; Times: 1
+	Query: "genus:Thomomys institutioncode:ummz year <= 1990" ; Times: 3
+	Query: "Chiroptera type:specimen county:"grant" stateprovince:"new mexico" year <= 2013" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "type:specimen specificepithet:fulviventer genus:sigmodon" ; Times: 1
+	Query: "Thallomys" ; Times: 1
+	Query: "male : 3232 recordnumber sex" ; Times: 1
+	Query: "University of Michigan Museum Zoology" ; Times: 1
+	Query: "puma concolor colorado" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: ""Neovison vison" type:specimen" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"New York"" ; Times: 1
+	Query: "genus:Thomomys institutioncode:ummz" ; Times: 3
+	Query: "Chaetodipus" ; Times: 4
+	Query: "Rausch type:specimen" ; Times: 1
+	Query: "Otopteropus cartilagonodus" ; Times: 1
+	Query: "type:specimen genus:isthmomys" ; Times: 1
+	Query: "carnivora institutioncode:ummz" ; Times: 1
+	Query: "Napaeozapus insignis stateprovince:"New York"" ; Times: 1
+	Query: "dactylomys" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 323
+Total number of records retrieved from searches: 7347
+Number of download events that retrieved data from the resource: 272
+Total number of records downloaded: 313671
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 323
+Total number of records retrieved from searches: 7347
+Number of download events that retrieved data from the resource: 408
+Total number of records downloaded: 544992
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
