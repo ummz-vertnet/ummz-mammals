@@ -1,0 +1,478 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for July, 2014, generated on 2014/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 378
+Number of records retrieved in searches: 6466
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 5
+	Country: Brazil ; Times: 8
+	Country: Canada ; Times: 3
+	Country: Chile ; Times: 2
+	Country: Colombia ; Times: 24
+	Country: Costa Rica ; Times: 4
+	Country: Finland ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 7
+	Country: Guatemala ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 56
+	Country: South Africa ; Times: 6
+	Country: Spain ; Times: 3
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: United States ; Times: 244
+	Country: Unknown ; Times: 5
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 6
+	Date: 2014-07-02 ; Times: 6
+	Date: 2014-07-03 ; Times: 31
+	Date: 2014-07-04 ; Times: 3
+	Date: 2014-07-06 ; Times: 10
+	Date: 2014-07-07 ; Times: 9
+	Date: 2014-07-08 ; Times: 19
+	Date: 2014-07-09 ; Times: 21
+	Date: 2014-07-10 ; Times: 24
+	Date: 2014-07-11 ; Times: 7
+	Date: 2014-07-12 ; Times: 2
+	Date: 2014-07-13 ; Times: 6
+	Date: 2014-07-14 ; Times: 4
+	Date: 2014-07-15 ; Times: 10
+	Date: 2014-07-16 ; Times: 6
+	Date: 2014-07-17 ; Times: 13
+	Date: 2014-07-18 ; Times: 41
+	Date: 2014-07-19 ; Times: 8
+	Date: 2014-07-20 ; Times: 6
+	Date: 2014-07-21 ; Times: 7
+	Date: 2014-07-22 ; Times: 7
+	Date: 2014-07-23 ; Times: 14
+	Date: 2014-07-24 ; Times: 9
+	Date: 2014-07-25 ; Times: 5
+	Date: 2014-07-26 ; Times: 7
+	Date: 2014-07-27 ; Times: 3
+	Date: 2014-07-28 ; Times: 32
+	Date: 2014-07-29 ; Times: 11
+	Date: 2014-07-31 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"michigan" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "UMMZ 161616" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:lotor genus:procyon" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "cynomys ludovicianus" ; Times: 1
+	Query: "stateprovince:"iowa" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "catalognumber:172084 institutioncode:ummz" ; Times: 1
+	Query: "Leptoceros" ; Times: 1
+	Query: "stateprovince:"south dakota" specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "puma concolor distance(location,geopoint(30.20211367909724,-98.294677734375))<276970" ; Times: 2
+	Query: "Ochotona princeps oregon" ; Times: 1
+	Query: "ursus arctos institutioncode:ummz" ; Times: 1
+	Query: "felis manul" ; Times: 1
+	Query: "stateprovince:"South Dakota" specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "class:Mammalia Aepyceros melampus" ; Times: 1
+	Query: "UMMZ 161535" ; Times: 1
+	Query: ""Sciurus niger" type:specimen (skeleton) year >= 1950 year <= 2014" ; Times: 1
+	Query: "ellobius" ; Times: 1
+	Query: "sylvilagus transitionalis" ; Times: 1
+	Query: "pecari tajacu" ; Times: 5
+	Query: "sciurus niger rufiventer year >= 1902 year <= 1955" ; Times: 6
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "country:"Canada" specificepithet:palustris genus:Sorex institutioncode:UMMZ" ; Times: 1
+	Query: "sus scrofa" ; Times: 6
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Sylvilagus aquaticus" ; Times: 1
+	Query: "aphrastus" ; Times: 1
+	Query: "Dasyuridae" ; Times: 1
+	Query: "class:Mammalia Spilogale gracilis" ; Times: 2
+	Query: "apomys (leyte)" ; Times: 2
+	Query: "stateprovince:"North Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 2
+	Query: "ochotona princeps distance(location,geopoint(40.53050177574321,-109.852294921875))<100000" ; Times: 1
+	Query: "micrura" ; Times: 1
+	Query: "Lontra canadensis lataxina" ; Times: 1
+	Query: "Setonix" ; Times: 2
+	Query: "Macropus" ; Times: 1
+	Query: "Lepus othus stateprovince:"Alaska"" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:mephitis genus:mephitis" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "chiroderma trinitatum" ; Times: 1
+	Query: "procyon lotor stateprovince:"washington"" ; Times: 1
+	Query: "Mustela nivalis" ; Times: 3
+	Query: "leopoldamys" ; Times: 3
+	Query: "burti arizona" ; Times: 1
+	Query: "sundamys" ; Times: 1
+	Query: "graphiurus" ; Times: 1
+	Query: "Ursus americanus country:"Mexico" year >= 1950 year <= 2014" ; Times: 1
+	Query: "panthera onca" ; Times: 5
+	Query: "rhinosciurus" ; Times: 1
+	Query: "Tamias durangae type:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:centralis genus:Cabassous institutioncode:UMMZ" ; Times: 2
+	Query: "Macrotus waterhousii stateprovince:"Tamaulipas" country:"Mexico" year >= 1700 year <= 2014" ; Times: 1
+	Query: "sylvilagus cunicularius" ; Times: 1
+	Query: "Molossops" ; Times: 3
+	Query: "Tamias ruficaudus type:specimen mappable:1" ; Times: 1
+	Query: "specificepithet:ermina genus:mustela" ; Times: 1
+	Query: "tapirus" ; Times: 2
+	Query: "dipodomys ingens distance(location,geopoint(36.582617544493765,-120.8108139038086))<100000" ; Times: 2
+	Query: "county:"inyo" stateprovince:"california" specificepithet:palustris genus:sorex" ; Times: 1
+	Query: "Eptesicus andinus year >= 1700 year <= 2014" ; Times: 1
+	Query: "guatemala san marcos mammals" ; Times: 1
+	Query: "cynomys gunnisoni type:specimen genus:cynomys year >= 1930 year <= 2014" ; Times: 1
+	Query: "guatemala solola mammals" ; Times: 1
+	Query: "caluromys derbianus" ; Times: 4
+	Query: "tremarctos ornatus institutioncode:ummz" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:vison genus:mustela" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:lotor genus:procyon" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "Macrotus waterhousii country:"Mexico" year >= 1700 year <= 2014" ; Times: 2
+	Query: "Chiroptera Bahamas Long institutioncode:UMMZ" ; Times: 1
+	Query: "panthera mappable:1" ; Times: 1
+	Query: "Monophyllus redmani" ; Times: 1
+	Query: ""Caluromys derbianus"" ; Times: 3
+	Query: "stateprovince:"Minnesota" specificepithet:taxus genus:Taxidea" ; Times: 2
+	Query: "cynomys gunnisoni type:specimen year >= 1930 year <= 2014" ; Times: 1
+	Query: "Chiroptera New Providence institutioncode:UMMZ" ; Times: 1
+	Query: "furipteridae" ; Times: 1
+	Query: "catalognumber:178424 institutioncode:ummz" ; Times: 2
+	Query: "sundamys muelleri" ; Times: 1
+	Query: "sus" ; Times: 2
+	Query: "stateprovince:"north dakota" specificepithet:erminea genus:mustela" ; Times: 1
+	Query: "sturnira tildae" ; Times: 1
+	Query: "Tragelaphus angasii country:"SOUTH AFRICA" (Tragelaphus angasii)" ; Times: 1
+	Query: "acomys" ; Times: 3
+	Query: "brachylagus" ; Times: 3
+	Query: "philander country:"Brazil"" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Mammalia AND (UMMZ) tissue:1" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 4
+	Query: "Myotis septentrionalis stateprovince:"Michigan"" ; Times: 1
+	Query: "Cricetus" ; Times: 1
+	Query: "Finland" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Louisiana"" ; Times: 1
+	Query: "ursus maritimus institutioncode:ummz" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:mephitis genus:mephitis" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:mephitis genus:mephitis" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:mephitis genus:mephitis" ; Times: 1
+	Query: "rheomys costa rica" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Mammalia AND (not UMMZ) tissue:1" ; Times: 1
+	Query: "institutioncode:UMMZ mammals year >= 2008 year <= 2014" ; Times: 3
+	Query: "prometheomys" ; Times: 2
+	Query: "Mammalia Molossus molossus stateprovince:"Veracruz" country:"Mexico" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Molossus sinaloae country:"Mexico" year >= 1700 year <= 2014" ; Times: 1
+	Query: "Leptailurus serval institutioncode:UMMZ" ; Times: 1
+	Query: "stateprovince:"Minnesota" specificepithet:americana genus:Martes" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:lotor genus:procyon" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "Rheomys thomasi" ; Times: 1
+	Query: "stateprovince:"ohio" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "Chiroptera Bahamas" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"West Virginia"" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "stateprovince:"South Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "reithrodontomys montanus" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "sphiggurus mexicanus country:"mexico"" ; Times: 1
+	Query: "stateprovince:"indiana" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "stateprovince:"south dakota" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "apple" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:americana genus:Martes" ; Times: 1
+	Query: "stateprovince:"south dakota" specificepithet:lotor genus:procyon" ; Times: 2
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "UMMZ 125381" ; Times: 3
+	Query: "peromyscus maniculatus Michigan type:specimen (bairdii gracilis) year >= 1800 year <= 1970" ; Times: 7
+	Query: "puma concolor distance(location,geopoint(30.20211367909724,-98.294677734375))<299159" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:pennanti genus:martes" ; Times: 1
+	Query: "stateprovince:"indiana" specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "Cryptotis alticola country:"Mexico" year >= 1700 year <= 2014" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 6
+	Query: "Mustela frenata country:"Mexico"" ; Times: 2
+	Query: "trichechus manatus" ; Times: 1
+	Query: "UMMZ 125374" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:canadensis genus:lontra" ; Times: 1
+	Query: "country:"Venezuela" genus:Cabassous" ; Times: 4
+	Query: "stateprovince:"south dakota" specificepithet:mephitis genus:mephitis" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:erminea genus:mustela" ; Times: 1
+	Query: "stateprovince:"wisconsin" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "NEOTOMA CINEREA OREGON" ; Times: 1
+	Query: "leopoldamys sabanus" ; Times: 1
+	Query: "dryomys" ; Times: 2
+	Query: "catalognumber:174828 institutioncode:ummz" ; Times: 2
+	Query: "stateprovince:"Ohio" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "orca mappable:1" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 16
+	Query: "mustela nigripes" ; Times: 1
+	Query: "stateprovince:"indiana" specificepithet:lotor genus:procyon" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Missouri"" ; Times: 1
+	Query: "Neotoma cinerea stateprovince:"California"" ; Times: 1
+	Query: "UMMZ 125390" ; Times: 5
+	Query: "peromyscus maniculatus Michigan type:specimen ( gracilis) year >= 1800 year <= 1970" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "stateprovince:"Michigan" class:Mammalia tissue:1" ; Times: 3
+	Query: "stateprovince:"North Dakota" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "genus:Balaenoptera" ; Times: 1
+	Query: "kerivoula" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: "Tamias rufus type:specimen mappable:1" ; Times: 1
+	Query: "apomys (negros)" ; Times: 2
+	Query: "dipodomys ingens" ; Times: 1
+	Query: "thyropteridae" ; Times: 1
+	Query: "Trichechus manatus manatus" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "Ceratotherium simum country:"SOUTH AFRICA" (Ceratotherium simum)" ; Times: 2
+	Query: "stateprovince:"minnesota" specificepithet:americana genus:martes" ; Times: 1
+	Query: "Cerdocyon thous" ; Times: 1
+	Query: "orcinus orca mappable:1" ; Times: 1
+	Query: "Cynopterus brachyotis" ; Times: 1
+	Query: "homo" ; Times: 2
+	Query: "catopuma" ; Times: 2
+	Query: ""Caluromys "" ; Times: 1
+	Query: "class:Mammalia Spilogale" ; Times: 1
+	Query: "oecomys costa rica" ; Times: 1
+	Query: "catalognumber:168014 institutioncode:ummz" ; Times: 1
+	Query: "hyperacrius" ; Times: 1
+	Query: "Erophylla country:"Bahamas"" ; Times: 2
+	Query: "thomasomys type:specimen" ; Times: 1
+	Query: "rhinolophus tissue:1" ; Times: 2
+	Query: ""Tamias rufus" type:specimen mappable:1" ; Times: 1
+	Query: "Aepyceros melampus Aepyceros melampus" ; Times: 2
+	Query: "Profelis aurata" ; Times: 4
+	Query: "stateprovince:"Indiana" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "maxomys" ; Times: 2
+	Query: "stateprovince:"michigan" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "peromyscus maniculatus bairdii Michigan type:specimen year >= 1800 year <= 1970" ; Times: 3
+	Query: "Michigan Myotis septentrionalis" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "berylmys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Kentucky"" ; Times: 1
+	Query: "gorilla" ; Times: 2
+	Query: "Peromyscus leucopus stateprovince:"Kansas"" ; Times: 1
+	Query: "caracal caracal institutioncode:UMMZ" ; Times: 1
+	Query: "Marmosops incanus" ; Times: 1
+	Query: "stateprovince:"north dakota" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "Tamias canipes type:specimen mappable:1" ; Times: 1
+	Query: "Dendrolagus" ; Times: 1
+	Query: "stateprovince:"ohio" specificepithet:nivalis genus:mustela" ; Times: 1
+	Query: "Tayassu pecari country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"south dakota" specificepithet:erminea genus:mustela" ; Times: 1
+	Query: "Geomys attwateri" ; Times: 2
+	Query: "stateprovince:"puebla" country:"mexico" class:mammalia" ; Times: 2
+	Query: "Tapirus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:nivalis genus:Mustela" ; Times: 3
+	Query: "ochotona oregon" ; Times: 1
+	Query: "ursus americanus institutioncode:ummz" ; Times: 1
+	Query: "ectophylla alba" ; Times: 3
+	Query: "ochotona princeps distance(location,geopoint(36.8092847020594,-117.48779296875))<100000" ; Times: 3
+	Query: "Prionailurus institutioncode:ummz" ; Times: 4
+	Query: "catalognumber:178426 institutioncode:ummz" ; Times: 2
+	Query: "stateprovince:"north dakota" specificepithet:lotor genus:procyon" ; Times: 1
+	Query: "geomys personatus distance(location,geopoint(28.69058765425071,-98.10791015625))<100000" ; Times: 1
+	Query: "Ursus americanus country:"Mexico"" ; Times: 1
+	Query: "equus" ; Times: 3
+	Query: "peromyscus maniculatus Michigan type:specimen (bairdii OR gracilis) year >= 1800 year <= 1930" ; Times: 13
+	Query: "(ocuilapa)" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Rhynchocyon chrysopygus" ; Times: 4
+	Query: "Tamias bulleri type:specimen mappable:1" ; Times: 1
+	Query: "zygodontomys costa rica" ; Times: 1
+	Query: "melogale" ; Times: 1
+	Query: "stateprovince:"iowa" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "USNM alouatta" ; Times: 4
+	Query: "Eptesicus gaumeri gaumeri year >= 1700 year <= 2014" ; Times: 1
+	Query: "orcinus mappable:1" ; Times: 1
+	Query: "potos flavus" ; Times: 3
+	Query: "apomys" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "genus:Cabassous institutioncode:UMMZ" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 119 (out of 437 download events in this period)
+Total number of records downloaded: 42685 (out of 2823564 records downloaded for all resources in this period)
+Total number of unique records downloaded: 36445
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Chile ; Times: 18
+	Country: Colombia ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 19
+	Country: South Africa ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 72
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-07-01 ; Times: 2
+	Date: 2014-07-02 ; Times: 1
+	Date: 2014-07-03 ; Times: 10
+	Date: 2014-07-06 ; Times: 4
+	Date: 2014-07-07 ; Times: 2
+	Date: 2014-07-08 ; Times: 1
+	Date: 2014-07-09 ; Times: 3
+	Date: 2014-07-10 ; Times: 9
+	Date: 2014-07-12 ; Times: 9
+	Date: 2014-07-13 ; Times: 1
+	Date: 2014-07-14 ; Times: 1
+	Date: 2014-07-15 ; Times: 14
+	Date: 2014-07-16 ; Times: 3
+	Date: 2014-07-17 ; Times: 4
+	Date: 2014-07-18 ; Times: 3
+	Date: 2014-07-19 ; Times: 19
+	Date: 2014-07-20 ; Times: 3
+	Date: 2014-07-21 ; Times: 5
+	Date: 2014-07-22 ; Times: 3
+	Date: 2014-07-24 ; Times: 3
+	Date: 2014-07-25 ; Times: 4
+	Date: 2014-07-28 ; Times: 3
+	Date: 2014-07-30 ; Times: 1
+	Date: 2014-07-31 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "stateprovince:"michigan" specificepithet:frenata genus:mustela" ; Times: 1
+	Query: "country:"suriname"" ; Times: 1
+	Query: "stateprovince:"iowa" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "Leptoceros" ; Times: 1
+	Query: "Peromyscus eremicus" ; Times: 1
+	Query: "Tamias amoenus type:specimen mappable:1" ; Times: 1
+	Query: "stateprovince:"South Dakota" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "Mustela frenata country:"Mexico"" ; Times: 1
+	Query: "country:"Peru"" ; Times: 1
+	Query: "country:"Brazil"" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "stateprovince:"North Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "stateprovince:"iowa" specificepithet:mephitis genus:mephitis" ; Times: 1
+	Query: "Macropus" ; Times: 1
+	Query: "Tragelaphus angasii country:"SOUTH AFRICA" (Tragelaphus angasii)" ; Times: 1
+	Query: "country:"Bolivia"" ; Times: 1
+	Query: "country:"Guyana" year <= 2014" ; Times: 1
+	Query: "graphiurus" ; Times: 1
+	Query: "Rheomys thomasi" ; Times: 1
+	Query: "country:"paraguay"" ; Times: 1
+	Query: "Tamias bulleri type:specimen mappable:1" ; Times: 1
+	Query: "Tamias ruficaudus type:specimen mappable:1" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "mormoopidae" ; Times: 1
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "Rattus rattus" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:gulo genus:gulo" ; Times: 1
+	Query: "stateprovince:"Minnesota" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "cynomys gunnisoni type:specimen year >= 1930 year <= 2014" ; Times: 1
+	Query: "Tamias senex type:specimen mappable:1" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "furipteridae" ; Times: 1
+	Query: "Tamias merriami type:specimen mappable:1" ; Times: 1
+	Query: "country:"uruguay"" ; Times: 1
+	Query: "country:"Colombia" year <= 2014" ; Times: 1
+	Query: ""Tamias sonomae" type:specimen mappable:1" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "zalophus californianus" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 1
+	Query: "Tamias obscurus type:specimen mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Louisiana"" ; Times: 1
+	Query: "Peromyscus boylii Peromyscus boylii type:specimen" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:mephitis genus:mephitis" ; Times: 1
+	Query: "stateprovince:"Minnesota" specificepithet:americana genus:Martes" ; Times: 1
+	Query: "stateprovince:"minnesota" specificepithet:erminea genus:mustela" ; Times: 1
+	Query: "Tamias durangae type:specimen mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"West Virginia"" ; Times: 1
+	Query: "stateprovince:"South Dakota" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "sphiggurus mexicanus country:"mexico"" ; Times: 1
+	Query: "stateprovince:"indiana" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:americana genus:Martes" ; Times: 1
+	Query: "cynomys ludovicianus distance(location,geopoint(30.44867367928756,-98.63525390625))<391802" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 2
+	Query: "stateprovince:"michigan" specificepithet:canadensis genus:lontra" ; Times: 1
+	Query: "Tamias alpinus type:specimen mappable:1" ; Times: 1
+	Query: "institutioncode:UMMZ year >= 2008 year <= 2014" ; Times: 1
+	Query: ""Tamias sibiricus" type:specimen mappable:1" ; Times: 1
+	Query: ""Tamias speciosus" type:specimen mappable:1" ; Times: 1
+	Query: "Oryzomys palustris" ; Times: 1
+	Query: "Tamias panamintinus type:specimen mappable:1" ; Times: 1
+	Query: "stateprovince:"Ohio" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: ""Tamias umbrinus" type:specimen mappable:1" ; Times: 1
+	Query: "Tamias quadrivittatus type:specimen mappable:1" ; Times: 1
+	Query: "natalidae" ; Times: 1
+	Query: "peromyscus maniculatus Michigan type:specimen (bairdii OR gracilis) year >= 1800 year <= 1930" ; Times: 1
+	Query: "phyllostomidae" ; Times: 1
+	Query: "stateprovince:"New Mexico" genus:myotis year >= 1950 year <= 2013 mappable:1" ; Times: 1
+	Query: "stateprovince:"North Dakota" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "kerivoula" ; Times: 1
+	Query: "country:"chile"" ; Times: 1
+	Query: ""Tamias striatus" type:specimen mappable:1" ; Times: 1
+	Query: "thyropteridae" ; Times: 1
+	Query: "stateprovince:"New Mexico" genus:myotis year >= 1970 year <= 2014 mappable:1" ; Times: 1
+	Query: "stateprovince:"nebraska" specificepithet:taxus genus:Taxidea" ; Times: 1
+	Query: "Tamias dorsalis type:specimen mappable:1" ; Times: 1
+	Query: "vespertilionidae" ; Times: 1
+	Query: "sturnira tildae" ; Times: 2
+	Query: "country:"Ecuador" year <= 2014" ; Times: 1
+	Query: "geomys personatus distance(location,geopoint(28.69058765425071,-98.10791015625))<177239" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:pennanti genus:martes" ; Times: 1
+	Query: "country:"argentina"" ; Times: 1
+	Query: "rhinolophus tissue:1" ; Times: 1
+	Query: ""Tamias rufus" type:specimen mappable:1" ; Times: 1
+	Query: "stateprovince:"Oklahoma"" ; Times: 1
+	Query: "stateprovince:"Indiana" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "molossidae" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Virginia"" ; Times: 1
+	Query: "canis lupus mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Missouri"" ; Times: 1
+	Query: ""Tamias townsendii" type:specimen mappable:1" ; Times: 1
+	Query: "Marmosops incanus" ; Times: 1
+	Query: "noctilionidae" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Texas"" ; Times: 1
+	Query: "Tamias canipes type:specimen mappable:1" ; Times: 1
+	Query: "Peromyscus leucopus AND (NOT reptilia)" ; Times: 1
+	Query: "Tayassu pecari country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"puebla" country:"mexico" class:mammalia" ; Times: 1
+	Query: "emballonuridae" ; Times: 1
+	Query: "stateprovince:"Michigan" specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "Tamias cinereicollis type:specimen mappable:1" ; Times: 1
+	Query: "country:"Venezuela" year <= 2014" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Kentucky"" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Neotoma cinerea stateprovince:"California"" ; Times: 1
+	Query: "Rhynchocyon chrysopygus" ; Times: 1
+	Query: "county:"El Dorado" stateprovince:"California"" ; Times: 1
+	Query: "Tamias minimus type:specimen mappable:1" ; Times: 1
+	Query: "stateprovince:"michigan" specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:"Kansas"" ; Times: 1
+	Query: "country:"Trinidad" year <= 2014" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1822
+Total number of records retrieved from searches: 29607
+Number of download events that retrieved data from the resource: 480
+Total number of records downloaded: 431610
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1822
+Total number of records retrieved from searches: 29607
+Number of download events that retrieved data from the resource: 616
+Total number of records downloaded: 662931
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
