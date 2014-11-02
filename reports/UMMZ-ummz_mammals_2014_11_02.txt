@@ -1,0 +1,343 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for October, 2014, generated on 2014/11/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 254
+Number of records retrieved in searches: 4586
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 6
+	Country: Czech Republic ; Times: 2
+	Country: France ; Times: 6
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 40
+	Country: Russia ; Times: 2
+	Country: Spain ; Times: 5
+	Country: Thailand ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 168
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 13
+	Date: 2014-10-11 ; Times: 5
+	Date: 2014-10-12 ; Times: 3
+	Date: 2014-10-13 ; Times: 2
+	Date: 2014-10-14 ; Times: 20
+	Date: 2014-10-15 ; Times: 14
+	Date: 2014-10-16 ; Times: 9
+	Date: 2014-10-17 ; Times: 10
+	Date: 2014-10-18 ; Times: 3
+	Date: 2014-10-20 ; Times: 29
+	Date: 2014-10-21 ; Times: 31
+	Date: 2014-10-22 ; Times: 37
+	Date: 2014-10-23 ; Times: 10
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-25 ; Times: 9
+	Date: 2014-10-26 ; Times: 1
+	Date: 2014-10-27 ; Times: 21
+	Date: 2014-10-28 ; Times: 10
+	Date: 2014-10-29 ; Times: 4
+	Date: 2014-10-30 ; Times: 2
+	Date: 2014-10-31 ; Times: 19
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Mammalia Martes pennanti" ; Times: 3
+	Query: "pajeros" ; Times: 1
+	Query: "nasua narica mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:cahirinus genus:Acomys institutioncode:UMMZ" ; Times: 1
+	Query: "Balaenoptera acutorostrata skull" ; Times: 1
+	Query: "Brachycephalus" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 2
+	Query: "Mazama gouazoubira" ; Times: 1
+	Query: "country:"Iran" specificepithet:crassus genus:meriones institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:arvalis genus:microtus institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:vinogradovi genus:meriones institutioncode:UMMZ" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "mammalia lynx rufus Mexico" ; Times: 1
+	Query: "Musonycteris harrisoni" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "genus:Orcinus" ; Times: 1
+	Query: "institutioncode:Ummz (9880) year >= 1990 year <= 2014" ; Times: 1
+	Query: ""urn:lsid:biocol.org:col:34917" "119318" mappable:1" ; Times: 1
+	Query: "suaveolens genus:Crocidura institutioncode:UMMZ" ; Times: 1
+	Query: "blanfordi type:specimen genus:jaculus institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:migratorius genus:cricetulus institutioncode:UMMZ" ; Times: 1
+	Query: "tlalpan" ; Times: 3
+	Query: "specificepithet:talpinus genus:ellobius institutioncode:UMMZ" ; Times: 1
+	Query: "tlalpan mammalia" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 3
+	Query: "sus scrofa" ; Times: 3
+	Query: "country:"Pakistan" specificepithet:indica genus:Tatera institutioncode:UMMZ" ; Times: 1
+	Query: "myotis evotis Nevada" ; Times: 1
+	Query: "thyroptera tricolor" ; Times: 5
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "desmodus rotundus (mexico) AND (guerrero)" ; Times: 1
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Lepus townsendii" ; Times: 10
+	Query: "institutioncode:Ummz (9945) year >= 1990 year <= 2014" ; Times: 1
+	Query: "elater type:specimen genus:allactaga institutioncode:UMMZ" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "specificepithet:leucodon genus:spalax institutioncode:UMMZ" ; Times: 1
+	Query: "Sylvilagus graysoni" ; Times: 1
+	Query: "catalognumber:118438 institutioncode:ummz" ; Times: 1
+	Query: "Sigmodon mascotensis" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "Lepus townsendi" ; Times: 3
+	Query: "USNM pecari" ; Times: 2
+	Query: "Tarsius" ; Times: 1
+	Query: "Molossus molossus coibensis" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "institutioncode:Ummz (9977) year >= 1990 year <= 2014" ; Times: 1
+	Query: "institutioncode:Ummz (9799) year >= 1990 year <= 2014" ; Times: 1
+	Query: "institutioncode:UMMZ (Koelz OR Chand) AND (NOT Aves) year >= 1930 year <= 1953" ; Times: 2
+	Query: "meles meles" ; Times: 1
+	Query: "caluromys" ; Times: 4
+	Query: "human" ; Times: 1
+	Query: "speothos" ; Times: 1
+	Query: "cerdocyon thous" ; Times: 1
+	Query: "country:"iran" specificepithet:socialis genus:microtus institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:opimus genus:rhombomys institutioncode:UMMZ" ; Times: 1
+	Query: "crocuta crocuta" ; Times: 2
+	Query: "genus:Cricetus institutioncode:UMMZ" ; Times: 1
+	Query: "Psammomys" ; Times: 1
+	Query: "monotremata" ; Times: 1
+	Query: "Lepus othus" ; Times: 3
+	Query: "Mustela nigripes" ; Times: 1
+	Query: ""urn:lsid:biocol.org:col:34917" "90779"" ; Times: 1
+	Query: "chiroptera AMNH" ; Times: 1
+	Query: "institutioncode:Ummz (9195) year >= 1990 year <= 2014" ; Times: 1
+	Query: ""Thyroptera tricolor"" ; Times: 2
+	Query: "country:"panama" (barro colorado) year >= 1925 year <= 1925" ; Times: 1
+	Query: "antilocapra (skull)" ; Times: 1
+	Query: ""Thyroptera tricolor" type:specimen" ; Times: 1
+	Query: "tlacuatzin canescens" ; Times: 1
+	Query: "etruscus type:specimen genus:suncus institutioncode:UMMZ" ; Times: 1
+	Query: "Oryzomys aphrastus" ; Times: 1
+	Query: "institutioncode:Ummz (9452) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Petaluma county:"Sonoma" stateprovince:"California"" ; Times: 1
+	Query: "specificepithet:terrestris genus:Arvicola institutioncode:UMMZ" ; Times: 1
+	Query: "type:specimen specificepithet:russatus genus:Acomys institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:migratorius genus:cricetulus" ; Times: 1
+	Query: "stateprovince:"Alaska" genus:ursus institutioncode:UMMZ" ; Times: 1
+	Query: "Hyaenidae institutioncode:UMMZ" ; Times: 1
+	Query: "skull type:specimen country:"Pakistan" specificepithet:indica genus:Tatera institutioncode:UMMZ" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "minutus genus:sorex institutioncode:UMMZ" ; Times: 1
+	Query: "Crocuta crocuta mappable:1" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 2
+	Query: "Molossus coibensis" ; Times: 1
+	Query: "nasua narica" ; Times: 2
+	Query: "Ursus americanus type:specimen stateprovince:"Texas"" ; Times: 2
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "stateprovince:"Alaska" class:mammalia institutioncode:UMMZ" ; Times: 4
+	Query: "nitedula type:specimen genus:dryomys institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:Ummz (8604) year >= 1990 year <= 2014" ; Times: 1
+	Query: "specificepithet:ehrenbergi genus:spalax institutioncode:UMMZ" ; Times: 1
+	Query: "Glaucomys sabrinus year >= 1950 year <= 1960" ; Times: 1
+	Query: ""urn:lsid:biocol.org:col:34917" "119318"" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 2
+	Query: "Xenomys nelsoni" ; Times: 1
+	Query: "Spermophilus annulatus" ; Times: 1
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 3
+	Query: "jaculus type:specimen genus:jaculus institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:indica genus:Tatera institutioncode:UMMZ" ; Times: 1
+	Query: "Sus scrofa" ; Times: 3
+	Query: "rangifer michigan state" ; Times: 1
+	Query: "sciurotamias institutioncode:UMMZ" ; Times: 10
+	Query: "country:"Turkey" specificepithet:musculus genus:Mus institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:Ummz (9665) year >= 1990 year <= 2014" ; Times: 1
+	Query: "specificepithet:meridianus genus:meriones institutioncode:UMMZ" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "institutioncode:Ummz (9946) year >= 1990 year <= 2014" ; Times: 1
+	Query: "acerodon jubatus" ; Times: 1
+	Query: "minutus type:specimen genus:sorex institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:mystacinus genus:apodemus institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:Ummz (9836) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Didelphis aurita" ; Times: 2
+	Query: "sciurotamias" ; Times: 2
+	Query: "stateprovince:"Alaska" genus:Rangifer institutioncode:UMMZ" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "Peromyscus simulus" ; Times: 2
+	Query: "institutioncode:Ummz (9912) year >= 1990 year <= 2014" ; Times: 1
+	Query: "genus:psammomys institutioncode:UMMZ" ; Times: 1
+	Query: "crocidura institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys year >= 1950 year <= 1960" ; Times: 2
+	Query: "marmosa mexicana" ; Times: 2
+	Query: "institutioncode:Ummz (9901) year >= 1990 year <= 2014" ; Times: 1
+	Query: "chiroptera institutioncode:UMMZ" ; Times: 2
+	Query: "Xochimilco" ; Times: 1
+	Query: "Skull type:specimen specificepithet:russatus genus:Acomys institutioncode:UMMZ" ; Times: 1
+	Query: "hotsoni type:specimen genus:allactaga institutioncode:UMMZ" ; Times: 1
+	Query: "stateprovince:"Alaska" class:Mammalia institutioncode:UMMZ" ; Times: 2
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "chiroptera (Indonesia) year >= 1800 year <= 1950" ; Times: 1
+	Query: "USNM tayassuidae" ; Times: 2
+	Query: "institutioncode:Ummz (9947) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Ochotona rufescens institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:sabrinus genus:Glaucomys (specimens collected )" ; Times: 1
+	Query: "Melogale moschata" ; Times: 2
+	Query: ""urn:lsid:biocol.org:col:34917" "90778"" ; Times: 1
+	Query: "russula genus:crocidura institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:apodemus institutioncode:UMMZ" ; Times: 1
+	Query: "Nasua type:specimen country:"Ecuador"" ; Times: 1
+	Query: "specificepithet:fuscocapillus genus:ellobius institutioncode:UMMZ" ; Times: 1
+	Query: "cebus" ; Times: 1
+	Query: "Proechimys semispinosus" ; Times: 1
+	Query: "SIGMODONTOMYS" ; Times: 1
+	Query: "cavia porcellus" ; Times: 4
+	Query: "Chaetodipus artus" ; Times: 1
+	Query: "aethomys chrysophilus" ; Times: 2
+	Query: ""thyroptera tricolor"" ; Times: 1
+	Query: "rangifer michigan" ; Times: 1
+	Query: "specificepithet:bailwardi genus:calomyscus institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:Ummz (9760) year >= 1990 year <= 2014" ; Times: 1
+	Query: "Thyroptera tricolor" ; Times: 2
+	Query: "specificepithet:nivalis genus:microtus institutioncode:UMMZ" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "Ochotona rufescens male skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "anomalus genus:Neomys institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:norvegicus genus:Rattus institutioncode:UMMZ" ; Times: 1
+	Query: "class:mammalia institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:rattus genus:Rattus institutioncode:UMMZ" ; Times: 2
+	Query: "Spermophilus adocetus" ; Times: 1
+	Query: "lepus othus" ; Times: 1
+	Query: "Reithrodontomys hirsutus" ; Times: 1
+	Query: "specificepithet:flavicollis genus:apodemus institutioncode:UMMZ" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Ochotona rufescens skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "Dasypus" ; Times: 1
+	Query: ""119318" "urn:lsid:biocol.org:col:34917"" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 2
+	Query: "ateles geoffroyi yucatanensis" ; Times: 1
+	Query: "ernest doane" ; Times: 1
+	Query: "country:"iraq" specificepithet:crassus genus:meriones institutioncode:UMMZ" ; Times: 1
+	Query: "institutioncode:Ummz (9818) year >= 1990 year <= 2014" ; Times: 1
+	Query: "orientalis type:specimen genus:jaculus institutioncode:UMMZ" ; Times: 1
+	Query: "acerodon leucotis" ; Times: 2
+	Query: "Mammals institutioncode:UMMZ (Koelz OR Chand) year >= 1930 year <= 1953" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "chiroptera (Indonesia)" ; Times: 2
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "clyomys" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 60 (out of 166 download events in this period)
+Total number of records downloaded: 12472 (out of 1059512 records downloaded for all resources in this period)
+Total number of unique records downloaded: 11923
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Canada ; Times: 4
+	Country: Colombia ; Times: 2
+	Country: Czech Republic ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 33
+	Country: Paraguay ; Times: 1
+	Country: Philippines ; Times: 1
+	Country: United States ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-10-10 ; Times: 2
+	Date: 2014-10-13 ; Times: 1
+	Date: 2014-10-14 ; Times: 2
+	Date: 2014-10-15 ; Times: 1
+	Date: 2014-10-16 ; Times: 3
+	Date: 2014-10-18 ; Times: 1
+	Date: 2014-10-20 ; Times: 4
+	Date: 2014-10-21 ; Times: 8
+	Date: 2014-10-22 ; Times: 18
+	Date: 2014-10-24 ; Times: 2
+	Date: 2014-10-25 ; Times: 8
+	Date: 2014-10-27 ; Times: 4
+	Date: 2014-10-28 ; Times: 4
+	Date: 2014-10-30 ; Times: 2
+	Date: 2014-10-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Canis lupus mappable:1" ; Times: 1
+	Query: "class:Mammalia Martes pennanti" ; Times: 1
+	Query: "nasua narica mappable:1" ; Times: 1
+	Query: "Uroderma magnirostrum" ; Times: 1
+	Query: "MINDORO" ; Times: 1
+	Query: "nasua narica country:"Mexico"" ; Times: 1
+	Query: "nasua nasua mappable:1" ; Times: 1
+	Query: "Molossus molossus coibensis" ; Times: 2
+	Query: "Nyctinomops macrotis" ; Times: 1
+	Query: "Psammomys" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Sorex ornatus" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "Chaetodipus pernix" ; Times: 1
+	Query: "Spilogale gracilis" ; Times: 1
+	Query: "Artibeus toltecus" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Microdipodops pallidus" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 1
+	Query: "gerbilliscus" ; Times: 1
+	Query: "Eptesicus fuscus Nevada" ; Times: 1
+	Query: "Spermophilus adocetus" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Sigmodon arizonae" ; Times: 1
+	Query: "stateprovince:"Colorado" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "Peromyscus simulus" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "thyroptera tricolor" ; Times: 1
+	Query: "dipodomys (ethanol OR alcohol OR fluid OR spirit OR alcoholic OR alc OR al)" ; Times: 1
+	Query: "desmodus rotundus (mexico) AND (guerrero)" ; Times: 1
+	Query: "Paraguay" ; Times: 1
+	Query: "tadarida brasiliensis" ; Times: 1
+	Query: "stateprovince:"Indiana" class:Mammalia year >= 1900 year <= 2000" ; Times: 1
+	Query: "dipodomys microps (ethanol OR alcohol OR fluid OR spirit OR alcoholic OR alc OR al)" ; Times: 1
+	Query: "Hodomys alleni" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Molossus coibensis" ; Times: 1
+	Query: "octodontidae" ; Times: 1
+	Query: "Lemmiscus class:Mammalia" ; Times: 1
+	Query: "Liomys salvini" ; Times: 1
+	Query: "Sigmodon mascotensis" ; Times: 1
+	Query: "Didelphis Virginiana" ; Times: 1
+	Query: "Crocuta crocuta mappable:1" ; Times: 1
+	Query: "Zacatecas Mammalia" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "Europe country:"France" mappable:1" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "rangifer michigan state" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Proechimys semispinosus" ; Times: 1
+	Query: "Onychomys leucogaster mappable:1" ; Times: 1
+	Query: "onychomys leucogaster" ; Times: 1
+	Query: "Chaetodipus hispidus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 2743
+Total number of records retrieved from searches: 42583
+Number of download events that retrieved data from the resource: 691
+Total number of records downloaded: 619180
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 2743
+Total number of records retrieved from searches: 42583
+Number of download events that retrieved data from the resource: 827
+Total number of records downloaded: 850501
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
