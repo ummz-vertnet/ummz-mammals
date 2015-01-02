@@ -1,0 +1,302 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for December, 2014, generated on 2015/01/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 234
+Number of records retrieved in searches: 3410
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 39
+	Country: Colombia ; Times: 19
+	Country: India ; Times: 3
+	Country: Mexico ; Times: 13
+	Country: Namibia ; Times: 1
+	Country: Portugal ; Times: 8
+	Country: Spain ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: United States ; Times: 140
+	Country: Unknown ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 9
+	Date: 2014-12-02 ; Times: 6
+	Date: 2014-12-03 ; Times: 12
+	Date: 2014-12-04 ; Times: 25
+	Date: 2014-12-05 ; Times: 11
+	Date: 2014-12-06 ; Times: 4
+	Date: 2014-12-07 ; Times: 7
+	Date: 2014-12-08 ; Times: 9
+	Date: 2014-12-09 ; Times: 30
+	Date: 2014-12-10 ; Times: 9
+	Date: 2014-12-11 ; Times: 12
+	Date: 2014-12-12 ; Times: 2
+	Date: 2014-12-13 ; Times: 8
+	Date: 2014-12-14 ; Times: 1
+	Date: 2014-12-15 ; Times: 8
+	Date: 2014-12-16 ; Times: 12
+	Date: 2014-12-17 ; Times: 8
+	Date: 2014-12-18 ; Times: 10
+	Date: 2014-12-19 ; Times: 5
+	Date: 2014-12-20 ; Times: 1
+	Date: 2014-12-21 ; Times: 2
+	Date: 2014-12-22 ; Times: 3
+	Date: 2014-12-23 ; Times: 13
+	Date: 2014-12-24 ; Times: 1
+	Date: 2014-12-25 ; Times: 1
+	Date: 2014-12-26 ; Times: 5
+	Date: 2014-12-27 ; Times: 11
+	Date: 2014-12-29 ; Times: 1
+	Date: 2014-12-30 ; Times: 5
+	Date: 2014-12-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Ichthyomys" ; Times: 1
+	Query: "panthera" ; Times: 2
+	Query: "Oxymycterus" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 5
+	Query: "pteropus giganteus" ; Times: 1
+	Query: "isla partida" ; Times: 2
+	Query: "mus musculus country:"madagascar"" ; Times: 2
+	Query: "peromyscus leucopus county:"suffolk"" ; Times: 2
+	Query: "Tadarida county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "KHS" ; Times: 1
+	Query: "ummz genus:Mus recordedby:Teeter institutioncode:UMMZ" ; Times: 2
+	Query: "Macrotus californicus county:"Pima" stateprovince:"Arizona"" ; Times: 2
+	Query: "puma concolor" ; Times: 2
+	Query: "Spermophilus lateralis bernardinus stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "UMMZ Mammals 116344" ; Times: 1
+	Query: "UMMZ Mammals 116343" ; Times: 1
+	Query: "sphiggurus" ; Times: 1
+	Query: "cebus capucinus" ; Times: 2
+	Query: "blarina type:specimen stateprovince:"Kansas"" ; Times: 1
+	Query: "type:specimen county:"cochise" genus:spermophilus year >= 1942 year <= 1972" ; Times: 1
+	Query: "stateprovince:"tennessee" genus:tamias" ; Times: 2
+	Query: "genus:panthera" ; Times: 1
+	Query: "abrocoma cinerea" ; Times: 2
+	Query: "coendou" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "microtus californicus mexico" ; Times: 1
+	Query: "mus musculus (africa)" ; Times: 1
+	Query: "Nasua narica" ; Times: 6
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 3
+	Query: "Oligoryzomys magellanicus" ; Times: 1
+	Query: "mexico cordonosa type:specimen" ; Times: 2
+	Query: "Microtus californicus paludicola stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "dinomys branickii" ; Times: 11
+	Query: "ECHINOPROCTA" ; Times: 2
+	Query: "mustela nivalis" ; Times: 7
+	Query: "neacomys" ; Times: 5
+	Query: "type:specimen county:"gila" stateprovince:"arizona" genus:idionycteris year >= 1960 year <= 1960" ; Times: 1
+	Query: "microtus californicus country:"mexico"" ; Times: 1
+	Query: "elephantidae" ; Times: 2
+	Query: "sylvilagus brasiliensis type:specimen country:"ecuador"" ; Times: 1
+	Query: "holochilus tissue:1" ; Times: 6
+	Query: "didelphis pernigra" ; Times: 1
+	Query: "UMMZ Mammals 62534" ; Times: 1
+	Query: "Diceros bicornis" ; Times: 1
+	Query: "UMMZ Mammals 109726" ; Times: 1
+	Query: "Peromyscus leucopus county:"Kings"" ; Times: 1
+	Query: "UMMZ Mammals 109706" ; Times: 1
+	Query: "sylvilagus brasiliensis type:specimen country:"colombia"" ; Times: 2
+	Query: "type:specimen stateprovince:"Kentucky" specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "isla partida type:specimen class:mammalia" ; Times: 1
+	Query: ""Spermophilus mexicanus" stateprovince:"texas"" ; Times: 1
+	Query: "type:specimen county:"cochise" stateprovince:"arizona" genus:idionycteris year >= 1958 year <= 1958" ; Times: 2
+	Query: "Cavia aperea type:specimen" ; Times: 1
+	Query: "county:"perry" genus:peromyscus" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "Hembree class:Mammalia" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Schultz type:specimen" ; Times: 1
+	Query: "villa bernardo" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "type:specimen county:"cochise" genus:spermophilus year >= 1960 year <= 1960" ; Times: 1
+	Query: ""mus musculus" madagascar" ; Times: 1
+	Query: "country:"ecuador" class:mammalia institutioncode:ummz" ; Times: 1
+	Query: "catalognumber:166707 institutioncode:ummz" ; Times: 1
+	Query: "puma concolor type:specimen country:"United States"" ; Times: 1
+	Query: "body size" ; Times: 1
+	Query: "nasua narica" ; Times: 2
+	Query: "Peromyscus leucopus institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:venustus genus:dipodomys tissue:1" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 4
+	Query: "Canis rufus type:specimen" ; Times: 2
+	Query: "tylomys" ; Times: 1
+	Query: ""Notiosorex crawfordi" stateprovince:"Texas"" ; Times: 1
+	Query: "type:specimen stateprovince:"Tennessee" specificepithet:grisescens genus:Myotis" ; Times: 1
+	Query: "Vombatus" ; Times: 1
+	Query: "didelphis aurita" ; Times: 1
+	Query: "papio" ; Times: 1
+	Query: "Thomomys county:"Carson City" stateprovince:"Nevada"" ; Times: 2
+	Query: "phoca massachusetts" ; Times: 3
+	Query: "washington King renton" ; Times: 1
+	Query: "Mindomys" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus (skull skin skeleton) year >= 1975" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "Ochotona princeps albata stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "ESCUINAPA" ; Times: 7
+	Query: "Molossidae tissue:1" ; Times: 1
+	Query: "myotis evotis nevada ummz" ; Times: 1
+	Query: "Ceratotherium simum" ; Times: 3
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Meriones sacramenti institutioncode:UMMZ" ; Times: 1
+	Query: "Epomops franqueti" ; Times: 1
+	Query: "cynopterus sphinx" ; Times: 3
+	Query: "mustela ermina" ; Times: 1
+	Query: "specificepithet:othus genus:Lepus" ; Times: 1
+	Query: "UMMZ Mammals 115461" ; Times: 1
+	Query: "massachusetts Pagophilus" ; Times: 1
+	Query: "catalognumber:157617 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:174829 institutioncode:ummz" ; Times: 1
+	Query: "Peromyscus institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ Mammals 110952" ; Times: 1
+	Query: "myotis evotis nevada" ; Times: 2
+	Query: "mus musculus country:"korea"" ; Times: 1
+	Query: "Hembree class:Mammalia year >= 1955" ; Times: 1
+	Query: "type:specimen county:"cochise" stateprovince:"arizona" genus:onychomys year >= 1970 year <= 1970" ; Times: 1
+	Query: "Rausch institutioncode:ummz" ; Times: 1
+	Query: "sylvilagus brasiliensis country:"colombia"" ; Times: 1
+	Query: "UMMZ Mammals 124674" ; Times: 1
+	Query: "Massachusetts Globicephala" ; Times: 5
+	Query: "specificepithet:nivalis genus:Mustela" ; Times: 1
+	Query: "ummz 60 genus:Mus recordedby:Teeter institutioncode:UMMZ" ; Times: 1
+	Query: "zanzibar" ; Times: 1
+	Query: "(Lepus capensis africa)" ; Times: 1
+	Query: "eira barbara" ; Times: 3
+	Query: "Hydrictis" ; Times: 2
+	Query: "conepatus" ; Times: 1
+	Query: "UMMZ Mammals 64958" ; Times: 1
+	Query: ""procyon lotor" stateprovince:"texas"" ; Times: 5
+	Query: "Tamias speciosus callipeplus stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "type:specimen county:"pima" genus:spermophilus year >= 1976 year <= 1976" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "specificepithet:rufus genus:canis" ; Times: 1
+	Query: "Glaucomys sabrinus fuscus" ; Times: 1
+	Query: "catalognumber:174820 institutioncode:ummz" ; Times: 2
+	Query: "Hodomys alleni" ; Times: 3
+	Query: "holochilus" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "moscow type:specimen county:"latah" genus:spermophilus" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "thyroptera" ; Times: 1
+	Query: "glaucomys sabrinus fuscus" ; Times: 1
+	Query: "Phascolarctos cinereus" ; Times: 1
+	Query: "type:specimen county:"cochise" stateprovince:"arizona" genus:dipodomys year >= 1970 year <= 1970" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "lepus townsendii" ; Times: 8
+	Query: "potos flavus" ; Times: 1
+	Query: "mammalia county:"sevier"" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 57 (out of 238 download events in this period)
+Total number of records downloaded: 17735 (out of 1054698 records downloaded for all resources in this period)
+Total number of unique records downloaded: 16209
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: United States ; Times: 50
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2014-12-01 ; Times: 1
+	Date: 2014-12-02 ; Times: 2
+	Date: 2014-12-03 ; Times: 5
+	Date: 2014-12-04 ; Times: 3
+	Date: 2014-12-05 ; Times: 3
+	Date: 2014-12-06 ; Times: 1
+	Date: 2014-12-08 ; Times: 2
+	Date: 2014-12-09 ; Times: 5
+	Date: 2014-12-10 ; Times: 3
+	Date: 2014-12-15 ; Times: 2
+	Date: 2014-12-16 ; Times: 1
+	Date: 2014-12-17 ; Times: 1
+	Date: 2014-12-18 ; Times: 4
+	Date: 2014-12-19 ; Times: 1
+	Date: 2014-12-23 ; Times: 3
+	Date: 2014-12-24 ; Times: 12
+	Date: 2014-12-26 ; Times: 3
+	Date: 2014-12-27 ; Times: 2
+	Date: 2014-12-28 ; Times: 2
+	Date: 2014-12-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "type:specimen stateprovince:"alaska" specificepithet:vitulina genus:phoca" ; Times: 1
+	Query: "county:"Socorro" stateprovince:"New Mexico"" ; Times: 1
+	Query: "Spermophilus beldingi beldingi stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Geomys bursarius" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "Microtus montanus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "Microtus montanus dutcheri stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "Ochotona princeps stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"Utah"" ; Times: 1
+	Query: "didelphis albiventris" ; Times: 1
+	Query: "wyoming" ; Times: 1
+	Query: "county:"Coconino" stateprovince:"Arizona"" ; Times: 1
+	Query: "Ochotona princeps muiri stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "holochilus tissue:1" ; Times: 1
+	Query: "chiroptera panama" ; Times: 1
+	Query: "county:"Apache" stateprovince:"Arizona"" ; Times: 1
+	Query: "peromyscus leucopus" ; Times: 1
+	Query: "county:"McKinley" stateprovince:"New Mexico"" ; Times: 1
+	Query: "type:specimen genus:lynx" ; Times: 1
+	Query: "chiroptera stateprovince:"New Mexico" year <= 1959" ; Times: 1
+	Query: "Coendou prehensilis type:specimen" ; Times: 1
+	Query: "spermophilus beecheyi" ; Times: 1
+	Query: "Sorex vagrans halicoetes stateprovince:"California" year <= 2014 mappable:1" ; Times: 1
+	Query: "sciurus griseus" ; Times: 1
+	Query: "Macrotus californicus county:"Pima" stateprovince:"Arizona"" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Microtus montanus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "tamiasciurus douglasii" ; Times: 1
+	Query: "Vulpes lagopus year >= 1950 year <= 2014" ; Times: 1
+	Query: "molossus tissue:1" ; Times: 1
+	Query: "Canis rufus type:specimen" ; Times: 1
+	Query: "stateprovince:"Alaska" genus:Myotis" ; Times: 1
+	Query: "lynx" ; Times: 2
+	Query: "peromyscus eremicus stateprovince:"california"" ; Times: 1
+	Query: "type:specimen specificepithet:pennsylvanicus genus:microtus (skull skin skeleton) year >= 1975" ; Times: 1
+	Query: "Baiomys taylori" ; Times: 1
+	Query: "county:"Cibola" stateprovince:"New Mexico"" ; Times: 1
+	Query: ""spermophilus mexicanus" stateprovince:"texas"" ; Times: 2
+	Query: "type:specimen specificepithet:aquaticus genus:scalopus year >= 1975" ; Times: 1
+	Query: "Tamias speciosus speciosus stateprovince:"California" year <= 2014 mappable:1" ; Times: 2
+	Query: "thyroptera" ; Times: 1
+	Query: "county:"San Juan" stateprovince:"New Mexico"" ; Times: 1
+	Query: "county:"Navajo" stateprovince:"Arizona"" ; Times: 1
+	Query: "type:specimen specificepithet:carolinensis genus:sciurus year >= 1975" ; Times: 1
+	Query: "Oligoryzomys longicaudatus" ; Times: 1
+	Query: "muntiacus skull" ; Times: 1
+	Query: "Cavia aperea type:specimen" ; Times: 1
+	Query: "order:Dermoptera" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:sciurus year >= 1975" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 3099
+Total number of records retrieved from searches: 47938
+Number of download events that retrieved data from the resource: 786
+Total number of records downloaded: 719099
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 3099
+Total number of records retrieved from searches: 47938
+Number of download events that retrieved data from the resource: 922
+Total number of records downloaded: 950420
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
