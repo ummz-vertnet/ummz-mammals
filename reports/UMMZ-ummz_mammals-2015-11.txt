@@ -1,0 +1,353 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 259
+Number of records retrieved in searches: 3518
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 16
+	Country: Russia ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Portugal ; Times: 4
+	Country: Mexico ; Times: 25
+	Country: Unknown ; Times: 11
+	Country: Panama ; Times: 12
+	Country: South Africa ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 7
+	Country: United States ; Times: 134
+	Country: Sweden ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Switzerland ; Times: 1
+	Country: South Korea ; Times: 6
+	Country: New Zealand ; Times: 8
+	Country: Spain ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 20
+	Date: 2015-11-18 ; Times: 11
+	Date: 2015-11-30 ; Times: 7
+	Date: 2015-11-25 ; Times: 4
+	Date: 2015-11-11 ; Times: 26
+	Date: 2015-11-10 ; Times: 11
+	Date: 2015-11-13 ; Times: 17
+	Date: 2015-11-12 ; Times: 9
+	Date: 2015-11-15 ; Times: 1
+	Date: 2015-11-14 ; Times: 11
+	Date: 2015-11-17 ; Times: 12
+	Date: 2015-11-16 ; Times: 13
+	Date: 2015-11-27 ; Times: 6
+	Date: 2015-11-20 ; Times: 6
+	Date: 2015-11-07 ; Times: 5
+	Date: 2015-11-04 ; Times: 2
+	Date: 2015-11-05 ; Times: 10
+	Date: 2015-11-08 ; Times: 4
+	Date: 2015-11-09 ; Times: 11
+	Date: 2015-11-28 ; Times: 3
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-02 ; Times: 4
+	Date: 2015-11-03 ; Times: 9
+	Date: 2015-11-26 ; Times: 6
+	Date: 2015-11-01 ; Times: 2
+	Date: 2015-11-06 ; Times: 21
+	Date: 2015-11-21 ; Times: 5
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-23 ; Times: 10
+	Date: 2015-11-24 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus watauga" ; Times: 1
+	Query: "23206" ; Times: 1
+	Query: "palmira zarcero" ; Times: 4
+	Query: "(godmani AND Costa Rica)" ; Times: 1
+	Query: "Vulpes fulva" ; Times: 1
+	Query: "UMMZ 83143" ; Times: 1
+	Query: "UMMZ 83142" ; Times: 1
+	Query: "Scandentia" ; Times: 1
+	Query: "Echinops telfairi" ; Times: 1
+	Query: "Monodelphis" ; Times: 1
+	Query: "Taxidea taxus (mexico)" ; Times: 2
+	Query: "UMMZ 118446" ; Times: 2
+	Query: "94563" ; Times: 1
+	Query: "Taxidea taxus country:&#34;mexico&#34; (mexico)" ; Times: 1
+	Query: "catalognumber:119000 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia palmira zarcero" ; Times: 1
+	Query: "Artibeus" ; Times: 1
+	Query: "catalognumber:130305 institutioncode:UMMZ" ; Times: 3
+	Query: "Glirulus" ; Times: 1
+	Query: "Massachusetts Sorex" ; Times: 1
+	Query: "gorilla gorilla" ; Times: 1
+	Query: "PILOSA" ; Times: 1
+	Query: "onychomys leucogaster stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "UMMZ 124124" ; Times: 1
+	Query: "23209" ; Times: 1
+	Query: "trichechus" ; Times: 1
+	Query: "canis rufus mappable:1" ; Times: 1
+	Query: "canis mesomelas" ; Times: 3
+	Query: "sphiggurus" ; Times: 1
+	Query: "country:&#34;montenegro&#34;" ; Times: 1
+	Query: "class:Mammalia Neotoma Nebraska" ; Times: 1
+	Query: "Crocidura lasiura" ; Times: 4
+	Query: "specificepithet:musculus genus:mus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Saint Louis county Missouri" ; Times: 2
+	Query: "mammalia county:&#34;arenac&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "Anoura" ; Times: 1
+	Query: "alouatta fusca" ; Times: 3
+	Query: "80723" ; Times: 1
+	Query: "80724" ; Times: 1
+	Query: "specificepithet:bulleri genus:Tamias" ; Times: 3
+	Query: "family:rhinocerotidae" ; Times: 1
+	Query: "SCANDENTIA" ; Times: 1
+	Query: "Brachyphylla" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 3
+	Query: "TUBULIDENTATA" ; Times: 1
+	Query: "80477 institutioncode:UMMZ" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "specificepithet:gorilla genus:gorilla" ; Times: 4
+	Query: "caluromys" ; Times: 1
+	Query: "microtus californicus baja mexico" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "genus:Ursus stateprovince:(california OR wyoming)" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 1
+	Query: "107871" ; Times: 1
+	Query: "Phyllostomus" ; Times: 1
+	Query: "8113" ; Times: 1
+	Query: "metachirus" ; Times: 1
+	Query: "15921 mammal" ; Times: 1
+	Query: "ummz-81950" ; Times: 1
+	Query: "Sciurus alleni" ; Times: 1
+	Query: "Massachusetts Phoca vitulina" ; Times: 2
+	Query: "mummy" ; Times: 3
+	Query: "meriones libycus" ; Times: 1
+	Query: "87620" ; Times: 1
+	Query: "recordedby:Phinney" ; Times: 1
+	Query: "mustela nigripes type:specimen (skin) mappable:1" ; Times: 1
+	Query: "Perognathus longimembris brevinasus" ; Times: 1
+	Query: "philander" ; Times: 1
+	Query: "sturnira ludovici month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "comitan" ; Times: 1
+	Query: "Erophylla" ; Times: 1
+	Query: "PHOLIDOTA" ; Times: 1
+	Query: "33465" ; Times: 2
+	Query: "county:&#34;arenac&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "Peromyscus leucopus county:&#34;Watauga&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "PROCYON LOTOR veracruz" ; Times: 1
+	Query: "Lepus brachyurus" ; Times: 2
+	Query: "176891" ; Times: 2
+	Query: "order:Chiroptera country:&#34;Canada&#34;" ; Times: 1
+	Query: "tonkin vietnam" ; Times: 1
+	Query: "catalognumber:111314 institutioncode:UMMZ" ; Times: 1
+	Query: "Cryptotis goldmani" ; Times: 1
+	Query: "mustela nigripes year &gt;= 1926 year &lt;= 1945" ; Times: 1
+	Query: "university of wisconsin mammals" ; Times: 1
+	Query: "Myocastor coypus mappable:1" ; Times: 1
+	Query: "66553" ; Times: 1
+	Query: "74990" ; Times: 1
+	Query: "family:Rhinocerotidae" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 2
+	Query: "saint louis county missouri" ; Times: 2
+	Query: "Dasypus novemcinctus Kansas" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "genus:Cryptotis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "176579" ; Times: 1
+	Query: "specificepithet:floridana genus:neotoma county:&#34;monroe&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "UMMZ 117703" ; Times: 2
+	Query: "Dasypus novemcinctus United States" ; Times: 1
+	Query: "SIRENIA" ; Times: 1
+	Query: "Martes americana (Michigan)" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Necromys USNM" ; Times: 1
+	Query: "tamandua" ; Times: 1
+	Query: "Massachusetts pagophilus" ; Times: 1
+	Query: "176575" ; Times: 1
+	Query: "19118" ; Times: 1
+	Query: "papio" ; Times: 1
+	Query: "176578" ; Times: 2
+	Query: "10993" ; Times: 1
+	Query: "Glossophaga" ; Times: 1
+	Query: "microryzomys minutus" ; Times: 1
+	Query: "UMMZ 156875" ; Times: 1
+	Query: "Balaenoptera acutorostrata Massachusetts" ; Times: 1
+	Query: "28884" ; Times: 1
+	Query: "Desmodus" ; Times: 1
+	Query: "Mohawk" ; Times: 1
+	Query: "maniculatus assimilis" ; Times: 7
+	Query: "mustela nigripes" ; Times: 12
+	Query: "mus castaneus" ; Times: 2
+	Query: "Chlamyphorus truncatus" ; Times: 1
+	Query: "Callicebus" ; Times: 1
+	Query: "distance(location,geopoint(30.302526430623224,-103.60030174255371))&lt;1275" ; Times: 1
+	Query: "genus:Bradypus country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "UMMZ 124128" ; Times: 1
+	Query: "Canis rufus" ; Times: 4
+	Query: "Neotoma lepida county:&#34;san diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "28860" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "catagonus wagneri" ; Times: 1
+	Query: "28868" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "Romerolagus" ; Times: 2
+	Query: "UMMZ 116945" ; Times: 1
+	Query: "7088" ; Times: 1
+	Query: "11531" ; Times: 1
+	Query: "sorex saussurei" ; Times: 2
+	Query: "genus:Microtus stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "8934" ; Times: 1
+	Query: "176585" ; Times: 1
+	Query: "(panthera onca)" ; Times: 1
+	Query: "UMMZ 124122" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Didelphis virginiana UMMZ" ; Times: 1
+	Query: "Aethomys chrysophilus" ; Times: 1
+	Query: "176586" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Louisiana&#34;" ; Times: 3
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "distance(location,geopoint(30.302526430623224,-103.60030174255371))&lt;351" ; Times: 1
+	Query: "conepatus chinga" ; Times: 2
+	Query: "Orcinus orca" ; Times: 1
+	Query: "catalognumber:111315 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "ursus arctos ummz" ; Times: 2
+	Query: "Necromys UMMZ" ; Times: 1
+	Query: "176582" ; Times: 1
+	Query: "AFROSORICIDA" ; Times: 1
+	Query: "connochaetes" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "ESCUINAPA" ; Times: 1
+	Query: "specificepithet:longirostris genus:Sorex" ; Times: 1
+	Query: "176592" ; Times: 1
+	Query: "Elephantidae" ; Times: 3
+	Query: "class:Mammalia Cervus canadensis" ; Times: 1
+	Query: "HYRACOIDEA" ; Times: 1
+	Query: "65941" ; Times: 1
+	Query: "33590" ; Times: 1
+	Query: "swine" ; Times: 1
+	Query: "141749" ; Times: 1
+	Query: "Flamingo" ; Times: 1
+	Query: "Tragelaphus skin" ; Times: 2
+	Query: "UMMZ 63707" ; Times: 1
+	Query: "mustela nigripes type:specimen year &gt;= 1910 year &lt;= 1946 mappable:1" ; Times: 1
+	Query: "Tragelaphus" ; Times: 1
+	Query: "genus:Bradypus" ; Times: 1
+	Query: "cryptotis merriami" ; Times: 1
+	Query: "PROBOSCIDEA" ; Times: 1
+	Query: "catalognumber:111326 institutioncode:UMMZ" ; Times: 1
+	Query: "equus" ; Times: 1
+	Query: "mustela nigripes year &gt;= 1946 year &lt;= 1970" ; Times: 1
+	Query: "SORICOMORPHA SINALOA" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "Massachusetts Phoca" ; Times: 1
+	Query: "genus:Blarina stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "176587" ; Times: 1
+	Query: "distance(location,geopoint(30.302526430623224,-103.60030174255371))&lt;2017" ; Times: 1
+	Query: "23207" ; Times: 1
+	Query: "gbifdatasetid:6d2cfc0a-9903-40b8-802b-403398218e4a" ; Times: 1
+	Query: "canis rufus" ; Times: 2
+	Query: "Reithrodontomys microdon" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "Capromys" ; Times: 1
+	Query: "UMMZ 101784" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 122 (out of 751 download events in this period)
+Total number of records downloaded: 499833
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 93
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 12
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: South Korea ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-19 ; Times: 3
+	Date: 2015-11-02 ; Times: 6
+	Date: 2015-11-30 ; Times: 4
+	Date: 2015-11-03 ; Times: 17
+	Date: 2015-11-11 ; Times: 2
+	Date: 2015-11-10 ; Times: 4
+	Date: 2015-11-13 ; Times: 7
+	Date: 2015-11-12 ; Times: 4
+	Date: 2015-11-15 ; Times: 3
+	Date: 2015-11-17 ; Times: 11
+	Date: 2015-11-16 ; Times: 3
+	Date: 2015-11-21 ; Times: 2
+	Date: 2015-11-04 ; Times: 6
+	Date: 2015-11-05 ; Times: 9
+	Date: 2015-11-08 ; Times: 3
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-29 ; Times: 1
+	Date: 2015-11-24 ; Times: 3
+	Date: 2015-11-25 ; Times: 3
+	Date: 2015-11-26 ; Times: 9
+	Date: 2015-11-01 ; Times: 7
+	Date: 2015-11-06 ; Times: 3
+	Date: 2015-11-07 ; Times: 6
+	Date: 2015-11-22 ; Times: 1
+	Date: 2015-11-23 ; Times: 2
+	Date: 2015-11-18 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "class:mammalia stateprovince:California" ; Times: 38
+	Query: "Alces year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "cryptotis parva" ; Times: 1
+	Query: "Canis lupus North America" ; Times: 1
+	Query: "class:Mammalia stateprovince:California" ; Times: 2
+	Query: "Crocidura lasiura" ; Times: 2
+	Query: "&#34;reithrodontomys megalotis&#34; AND &#34;Nevada&#34;" ; Times: 1
+	Query: "Bradypus" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Taxidea taxus (mexico)" ; Times: 1
+	Query: "metachirus" ; Times: 2
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Taxidea taxus country:&#34;mexico&#34; (mexico)" ; Times: 1
+	Query: "Gerbilliscus" ; Times: 1
+	Query: "cryptotis mexicana" ; Times: 1
+	Query: "madagascar" ; Times: 1
+	Query: "continent:North America institutioncode:UMMZ" ; Times: 1
+	Query: "country:&#34;Ethiopia&#34;" ; Times: 1
+	Query: "meriones libycus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes" ; Times: 1
+	Query: "Ursus" ; Times: 1
+	Query: "Reithrodontomys megalotis" ; Times: 1
+	Query: "carnivora institutioncode:UMMZ" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "distance(location,geopoint(18.224133787422407,-66.59088134765625))&lt;75606" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "canis rufus mappable:1" ; Times: 1
+	Query: "class:Mammalia Cervus canadensis" ; Times: 2
+	Query: "specificepithet:musculus genus:mus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 2
+	Query: "Rattus norvegicus" ; Times: 1
+	Query: "cryptotis merriami" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "stateprovince:&#34;VERACRUZ&#34;" ; Times: 1
+	Query: "odocoileus virginianus" ; Times: 1
+	Query: "Dipodomys deserti" ; Times: 1
+	Query: "Eptesicus fuscus stateprovince:&#34;Texas&#34; year &gt;= 1900 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Romerolagus" ; Times: 2
+	Query: "neovison vison" ; Times: 3
+	Query: "NAYARIT" ; Times: 1
+	Query: "Myocastor" ; Times: 1
+	Query: "specificepithet:norvegicus genus:Rattus" ; Times: 1
+	Query: "gbifdatasetid:6d2cfc0a-9903-40b8-802b-403398218e4a" ; Times: 1
+	Query: "thomomys bottae" ; Times: 5
+	Query: "Microtus californicus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "cryptotis goodwini" ; Times: 1
+	Query: "Mammoth Cave" ; Times: 1
+	Query: "Vulpes vulpes" ; Times: 1
+
+
+End of report.
