@@ -1,0 +1,614 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for October 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 751
+Number of records retrieved in searches: 17260
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Canada ; Times: 23
+	Country: Italy ; Times: 4
+	Country: Bangladesh ; Times: 1
+	Country: Unknown ; Times: 9
+	Country: Panama ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 2
+	Country: Peru ; Times: 4
+	Country: Czech Republic ; Times: 3
+	Country: Singapore ; Times: 12
+	Country: Guatemala ; Times: 13
+	Country: Germany ; Times: 3
+	Country: Chile ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Spain ; Times: 3
+	Country: United States ; Times: 447
+	Country: Russia ; Times: 3
+	Country: Portugal ; Times: 9
+	Country: Mexico ; Times: 187
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 26
+	Date: 2015-10-17 ; Times: 7
+	Date: 2015-10-14 ; Times: 16
+	Date: 2015-10-15 ; Times: 24
+	Date: 2015-10-12 ; Times: 26
+	Date: 2015-10-13 ; Times: 15
+	Date: 2015-10-10 ; Times: 2
+	Date: 2015-10-11 ; Times: 54
+	Date: 2015-10-18 ; Times: 5
+	Date: 2015-10-19 ; Times: 17
+	Date: 2015-10-29 ; Times: 31
+	Date: 2015-10-28 ; Times: 11
+	Date: 2015-10-27 ; Times: 30
+	Date: 2015-10-26 ; Times: 5
+	Date: 2015-10-25 ; Times: 3
+	Date: 2015-10-24 ; Times: 19
+	Date: 2015-10-23 ; Times: 15
+	Date: 2015-10-22 ; Times: 8
+	Date: 2015-10-21 ; Times: 4
+	Date: 2015-10-20 ; Times: 16
+	Date: 2015-10-05 ; Times: 115
+	Date: 2015-10-07 ; Times: 45
+	Date: 2015-10-06 ; Times: 30
+	Date: 2015-10-01 ; Times: 82
+	Date: 2015-10-03 ; Times: 7
+	Date: 2015-10-02 ; Times: 22
+	Date: 2015-10-09 ; Times: 22
+	Date: 2015-10-08 ; Times: 16
+	Date: 2015-10-30 ; Times: 57
+	Date: 2015-10-31 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus leucopus year &gt;= 2008 year &lt;= 2015 institutioncode:UMMZ" ; Times: 1
+	Query: "spermophilus undulatus country:&#34;Russia&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "15205" ; Times: 1
+	Query: "Anomaluridae institutioncode:UMMZ" ; Times: 3
+	Query: "felidae genus:leopardus family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1985 year &lt;= 1985" ; Times: 1
+	Query: "seniculus" ; Times: 1
+	Query: "Panthera onca" ; Times: 3
+	Query: "godmani chiapas" ; Times: 2
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1982 year &lt;= 1982 institutioncode:UMMZ" ; Times: 1
+	Query: "Peromyscus guatemalensis" ; Times: 1
+	Query: "cryptotis parva stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1991 year &lt;= 1991" ; Times: 1
+	Query: "enhydra california type:specimen" ; Times: 2
+	Query: "panthera onca" ; Times: 67
+	Query: "county:&#34;lubbock&#34; sex:MALE" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "specificepithet:onca genus:panthera family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Rousettus aegyptiacus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:&#34;Michigan&#34; year &gt;= 1980 year &lt;= 1990 institutioncode:UMMZ" ; Times: 1
+	Query: "Lagenorhynchus massachusetts" ; Times: 5
+	Query: "Glaucomys sabrinus distance(location,geopoint(34.22088697429015,-116.97418212890625))&lt;21123" ; Times: 1
+	Query: "video" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "puma concolor sonora" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1800 year &lt;= 1980 institutioncode:UMMZ" ; Times: 1
+	Query: "cabassous" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "meriones libycus" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1985 year &lt;= 1990 institutioncode:UMMZ" ; Times: 1
+	Query: "spilogale putorius AND (NOT california NOT oregon NOT Arizona NOT mexico)" ; Times: 1
+	Query: "Microtus quasiater" ; Times: 1
+	Query: "perognathus fasciatus" ; Times: 1
+	Query: "felidae genus:Lynx family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus stateprovince:&#34;Alabama&#34; mappable:1" ; Times: 1
+	Query: "iraq" ; Times: 1
+	Query: "felidae campeche" ; Times: 1
+	Query: "specificepithet:bottae nigricans genus:Thomomys country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 8
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1990 year &lt;= 1995 institutioncode:UMMZ" ; Times: 3
+	Query: "Nyctereutes procyonoides mappable:1" ; Times: 1
+	Query: "felidae chiapas" ; Times: 2
+	Query: "mammal country:&#34;iran&#34;" ; Times: 9
+	Query: "Aguascalientes" ; Times: 3
+	Query: "lynx canadensis (canada)" ; Times: 2
+	Query: "Nyctomys sumichrasti" ; Times: 1
+	Query: "Pipistrellus pipistrellus continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "SCIURUS DEPPEI VERACRUZ" ; Times: 1
+	Query: "Asellia tridens continent:Africa" ; Times: 1
+	Query: "genus:spermophilus stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "neotoma specificepithet:mexicana genus:neotoma stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "hojancha costa rica" ; Times: 1
+	Query: "lynx canadensis stateprovince:&#34;British Columbia&#34; mappable:1" ; Times: 1
+	Query: "Habromys lepturus" ; Times: 1
+	Query: "specificepithet:pardalis genus:Leopardus institutioncode:UMMZ" ; Times: 1
+	Query: "class:Mammalia sylvilagus transitionalis" ; Times: 1
+	Query: "Odocoileus virginianus and utah" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "Spermophilus pygmaeus" ; Times: 1
+	Query: "Video" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 2000 year &lt;= 2004" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 1
+	Query: "Leopardus pajeros" ; Times: 1
+	Query: "Artibeus aztecus" ; Times: 1
+	Query: "Neotoma leucodon stateprovince:&#34;Aguascalientes&#34;" ; Times: 1
+	Query: "Sciurus griseus distance(location,geopoint(34.19817309627726,-116.96182250976562))&lt;16560" ; Times: 1
+	Query: "canis latrans tamaulipas" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "Alouatta pigra Guatemala" ; Times: 1
+	Query: "Odocoileus virginianus" ; Times: 5
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1980 year &lt;= 1985 institutioncode:UMMZ" ; Times: 1
+	Query: "Tupaia palawanensis" ; Times: 1
+	Query: "ummz 99998" ; Times: 1
+	Query: "peromyscus maniculatus stateprovince:&#34;Michigan&#34; year &gt;= 1980 year &lt;= 2015 institutioncode:UMMZ" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 1
+	Query: "Scotinomys teguina" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 2
+	Query: "family:Leporidae stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 3
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; year &gt;= 1980 year &lt;= 2015 institutioncode:UMMZ" ; Times: 1
+	Query: "27542 mammal" ; Times: 1
+	Query: "tolypeutes matacus" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 4
+	Query: "Sigmodon distance(location,geopoint(32.16166284018012,-114.99114990234375))&lt;100000" ; Times: 1
+	Query: "UMMZ 118446" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1975 year &lt;= 1980 institutioncode:UMMZ" ; Times: 1
+	Query: "notiosorex evotis" ; Times: 2
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; (menominee)" ; Times: 1
+	Query: "(Sabah AND Sarawak)" ; Times: 1
+	Query: "sus scrofa" ; Times: 5
+	Query: "porteri" ; Times: 2
+	Query: "78133 institutioncode:UMMZ" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 50
+	Query: "specificepithet:columbianus genus:Spermophilus institutioncode:UMMZ" ; Times: 2
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1980 year &lt;= 1983 institutioncode:UMMZ" ; Times: 1
+	Query: "Heterocephalus tissue:1" ; Times: 1
+	Query: "felidae genus:Panthera family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Lemmiscus curtatus" ; Times: 1
+	Query: "megasorex gigas" ; Times: 4
+	Query: "tamandua mexicana MEXICO" ; Times: 1
+	Query: "Tuxtla Gutierrez" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1996 year &lt;= 2002" ; Times: 1
+	Query: "Tayassu pecari Guatemala" ; Times: 2
+	Query: "Odocoileus virginianus year &gt;= 1900 year &lt;= 1906" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;North Carolina&#34;" ; Times: 2
+	Query: "Lutreolina crassicaudata" ; Times: 1
+	Query: "Lasiurus borealis distance(location,geopoint(41.04124542678115,-96.6972666978836))&lt;335698" ; Times: 1
+	Query: "year &gt;= 1800 year &lt;= 1900 institutioncode:UMMZ" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Florida&#34; (skin)" ; Times: 1
+	Query: "aguascalientes" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 2
+	Query: "procyon lotor stateprovince:&#34;Texas&#34; (skin)" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "erethizon canada" ; Times: 3
+	Query: "UMMZ 88707" ; Times: 2
+	Query: "Tragulidae institutioncode:UMMZ" ; Times: 2
+	Query: "mammal country:&#34;israel&#34;" ; Times: 28
+	Query: "Onychomys torridus pulcher (Kern)" ; Times: 1
+	Query: "Odocoileus virginianus and alabama" ; Times: 1
+	Query: "UMMZ 126543" ; Times: 2
+	Query: "felidae family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "catalognumber:59346 institutioncode:UMMZ" ; Times: 2
+	Query: "rudolfi" ; Times: 1
+	Query: "100002" ; Times: 1
+	Query: "Odocoileus virginianus year &gt;= 1890 year &lt;= 1906" ; Times: 1
+	Query: "mammal tuxpan" ; Times: 1
+	Query: "Tragulidae" ; Times: 3
+	Query: "panthera leo" ; Times: 3
+	Query: "year &gt;= 1990 year &lt;= 2015 mappable:1 distance(location,geopoint(39.436192999314095,-86.1712646484375))&lt;36806.60078568649" ; Times: 1
+	Query: "ursus arctos horribilis" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 4
+	Query: "126521" ; Times: 1
+	Query: "Odocoileus virginianus and Kentucky" ; Times: 1
+	Query: "ordway" ; Times: 3
+	Query: "Pipistrellus rueppelli continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "92289" ; Times: 1
+	Query: "Odocoileus virginianus and nebraska" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1987 year &lt;= 1991" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1987 year &lt;= 1990" ; Times: 2
+	Query: "catalinae" ; Times: 1
+	Query: "catalognumber:59971 institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:monticolus genus:Sorex stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Sciuridae sabah" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1984 year &lt;= 1988" ; Times: 3
+	Query: "parmalee" ; Times: 1
+	Query: "odocoileus virginianus guatemala" ; Times: 1
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "Asellia tridens country:&#34;Egypt&#34; continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "PHILANDER OPOSSUM MEXICO" ; Times: 1
+	Query: "stateprovince:&#34;Aguascalientes&#34;" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 2004 year &lt;= 2008" ; Times: 1
+	Query: "Mammalia (Newfoundland Rodentia)" ; Times: 1
+	Query: "Meriones libycus" ; Times: 3
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 2003 year &lt;= 2004" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 6
+	Query: "specificepithet:wiedii genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Ludlow stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "felidae specificepithet:CONCOLOR genus:PUMA family:Felidae country:&#34;Mexico&#34;" ; Times: 1
+	Query: "peromyscus aguascalientes" ; Times: 1
+	Query: "sirenia" ; Times: 2
+	Query: "Peromyscus leucopus stateprovince:&#34;Wisconsin&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "urocyon cinereoargenteus MEXICO" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "Sciurus alleni" ; Times: 1
+	Query: "Genetta" ; Times: 1
+	Query: "Ludlow" ; Times: 2
+	Query: "busuanga" ; Times: 1
+	Query: "27542" ; Times: 1
+	Query: "Neotoma albigula stateprovince:&#34;Aguascalientes&#34;" ; Times: 3
+	Query: "microtus pennsylvanicus breweri" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "Peromyscus zarhynchus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 5
+	Query: "veracruz pecari" ; Times: 1
+	Query: "specificepithet:velox genus:vulpes stateprovince:&#34;Texas&#34; year &lt;= 1970" ; Times: 1
+	Query: "woodbury iowa" ; Times: 1
+	Query: "Odocoileus virginianus and texas" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "UMMZ 111254" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Louisiana&#34; (skin)" ; Times: 1
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "Lasiurus borealis distance(location,geopoint(41.04124542678115,-96.6972666978836))&lt;100000" ; Times: 2
+	Query: "Peromyscus maniculatus stateprovince:&#34;Wisconsin&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "ovis aries" ; Times: 3
+	Query: "BALOCHISTAN" ; Times: 1
+	Query: "Perognathus parvus xanthonotus" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "neotoma genus:neotoma stateprovince:&#34;aguascalientes&#34;" ; Times: 2
+	Query: "spilogale putorius AND (NOT california NOT oregon NOT Arizona NOT mexico NOT washington NOT brewster NOT presidio)" ; Times: 2
+	Query: "Cryptotis parva stateprovince:&#34;veracruz&#34; country:&#34;mexico&#34; year &gt;= 1800 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "mammal country:&#34;iraq&#34;" ; Times: 10
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1800 year &lt;= 1970 institutioncode:UMMZ" ; Times: 1
+	Query: "Asellia tridens country:&#34;Egypt&#34; continent:Africa" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1990 year &lt;= 1995 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia (Newfoundland)" ; Times: 1
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "Sigmodon distance(location,geopoint(32.1360829562021,-114.36355590820312))&lt;100000" ; Times: 1
+	Query: "arenac michigan year &gt;= 1910 year &lt;= 1912" ; Times: 1
+	Query: "binturong institutioncode:UMMZ" ; Times: 1
+	Query: "Cryptotis peregrina" ; Times: 1
+	Query: "locality:San Antonio stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "61430" ; Times: 1
+	Query: "Pipistrellus kuhlii continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "veracruz procyon lotor" ; Times: 1
+	Query: "mammal country:&#34;iran&#34; mappable:1" ; Times: 13
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1980 year &lt;= 1985 institutioncode:UMMZ" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 10
+	Query: "Peromyscus furvus" ; Times: 1
+	Query: "seniculus peru" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1983 year &lt;= 1986 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ 80943" ; Times: 1
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "procyon lotor stateprovince:&#34;Florida&#34; (skin) year &gt;= 1940 year &lt;= 1950" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "sarawak" ; Times: 1
+	Query: "catalognumber:123494 institutioncode:UMMZ" ; Times: 2
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; sex:male preparations:Skeleton year &gt;= 1990 year &lt;= 1995 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 2000 year &lt;= 2002" ; Times: 1
+	Query: "catalognumber:30039" ; Times: 1
+	Query: "43288" ; Times: 1
+	Query: "class:Mammalia county:&#34;Natchitoches&#34;" ; Times: 2
+	Query: "Odocoileus virginianus and florida" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:&#34;Michigan&#34; year &gt;= 1970 year &lt;= 2015 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Eira institutioncode:UMMZ" ; Times: 1
+	Query: "Peromyscus leucopus institutioncode:UMMZ" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1994 year &lt;= 1996" ; Times: 1
+	Query: "NOTIOSOREX EVOTIS" ; Times: 3
+	Query: "Odocoileus virginianus and idaho" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; sex:female year &gt;= 1990 year &lt;= 1995 institutioncode:UMMZ" ; Times: 1
+	Query: "oryzomys albigularis" ; Times: 3
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1992 year &lt;= 1994" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34;" ; Times: 2
+	Query: "Vespertilionidae stateprovince:&#34;washington&#34; mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1992 year &lt;= 1992" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1980 year &lt;= 1981 institutioncode:UMMZ" ; Times: 1
+	Query: "veracruz nasua narica" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; AND (NOT AMNH)" ; Times: 1
+	Query: "genus:reithrodontomys stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "UMMZ 77247" ; Times: 2
+	Query: "homo sapiens" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "peromyscus leucopus year &gt;= 1980 year &lt;= 1983 institutioncode:UMMZ" ; Times: 1
+	Query: "order:Rodentia locality:carrizozo year &gt;= 1929 year &lt;= 1931" ; Times: 2
+	Query: "10164" ; Times: 1
+	Query: "Myotis vivesi" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Tungurahua&#34; country:&#34;Ecuador&#34; AND (NOT AMNH) institutioncode:UMMZ" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1985 year &lt;= 1990 institutioncode:UMMZ" ; Times: 1
+	Query: "Reithrodontomys megalotis type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "malacothrix" ; Times: 1
+	Query: "Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "UMMZ 69547" ; Times: 1
+	Query: "Peromyscus melanocarpus" ; Times: 1
+	Query: "PANTHERA ONCA" ; Times: 1
+	Query: "Meriones Libycus" ; Times: 4
+	Query: "Nycteris thebaica continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 2005 year &lt;= 2005" ; Times: 2
+	Query: "balaenoptera massachusetts" ; Times: 3
+	Query: "marmota (Nevada)" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 3
+	Query: "specificepithet:borealis genus:Lasiurus distance(location,geopoint(41.04124542678115,-96.6972666978836))&lt;335698" ; Times: 2
+	Query: "Tremarctos ornatus mappable:1" ; Times: 3
+	Query: "Mammalia (Newfoundland Labrador)" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "peromyscus leucopus year &gt;= 1990 year &lt;= 2000 institutioncode:UMMZ" ; Times: 2
+	Query: "Meriones shawi" ; Times: 3
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 6
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; (chippewa) year &gt;= 2005 year &lt;= 2015" ; Times: 1
+	Query: "peromyscus maniculatus stateprovince:&#34;Wisconsin&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 2
+	Query: "Echinops telfairi" ; Times: 2
+	Query: "genus:sciurus stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Peromyscus leucopus year &gt;= 1800 year &lt;= 1970 institutioncode:UMMZ" ; Times: 1
+	Query: "type:specimen stateprovince:&#34;Minnesota&#34; (Lepus townsendi) mappable:1" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Cryptotis phillipsii" ; Times: 1
+	Query: "SYLVILAGUS FLORIDANUS VERACRUZ" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; (Hiawatha) year &gt;= 1980 year &lt;= 2015" ; Times: 1
+	Query: "UMMZ 77246" ; Times: 1
+	Query: "Sciuridae sarawak" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:harkema" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 2
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "Peromyscus maniculatus stateprovince:&#34;Michigan&#34; year &gt;= 1970 year &lt;= 1990 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:libycus genus:meriones year &gt;= 1950 year &lt;= 2015" ; Times: 2
+	Query: "culpaeus institutioncode:UMMZ" ; Times: 1
+	Query: "peromyscus maniculatus stateprovince:&#34;Wisconsin&#34; year &gt;= 1980 year &lt;= 2015 institutioncode:UMMZ" ; Times: 1
+	Query: "Microtus californicus mohavensis" ; Times: 1
+	Query: "catalognumber:59965 institutioncode:UMMZ" ; Times: 2
+	Query: "caluromys derbianus" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1995 year &lt;= 2000 institutioncode:UMMZ" ; Times: 1
+	Query: "spilogale putorius AND (NOT california NOT oregon NOT Arizona NOT mexico NOT washington)" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 2002 year &lt;= 2002" ; Times: 1
+	Query: "Chiroderma salvini" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "institutioncode:UMMZ" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Maluku&#34;" ; Times: 1
+	Query: "bradypus tridactylus" ; Times: 2
+	Query: "Peromyscus megalops" ; Times: 1
+	Query: "perognathus longimembris nevadensis" ; Times: 1
+	Query: "Rodentia (Newfoundland Labrador)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sabah&#34; country:&#34;Malaysia&#34;" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1950 year &lt;= 1975 institutioncode:UMMZ" ; Times: 1
+	Query: "22250" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "Sumichrasti Guatemala" ; Times: 1
+	Query: "Wetzel" ; Times: 1
+	Query: "12739" ; Times: 1
+	Query: "country:&#34;iraq&#34;" ; Times: 1
+	Query: "bats" ; Times: 3
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1980 year &lt;= 2015 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Mammalia catalognumber:96258" ; Times: 1
+	Query: "Rupicola (skel OR skeleton)" ; Times: 1
+	Query: "procyon lotor county:&#34;Wake&#34; stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "puma concolor california" ; Times: 1
+	Query: "Cryptotis magna" ; Times: 1
+	Query: "Ludlow California" ; Times: 1
+	Query: "odocoileus guatemala" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Sigmodon distance(location,geopoint(32.11049589629439,-115.1641845703125))&lt;100000" ; Times: 1
+	Query: "mammal country:&#34;pakistan&#34;" ; Times: 23
+	Query: "crocuta" ; Times: 1
+	Query: "philander opossum" ; Times: 3
+	Query: "sarawak mammalia" ; Times: 2
+	Query: "Reithrodontomys microdon" ; Times: 20
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1970 year &lt;= 1975 institutioncode:UMMZ" ; Times: 1
+	Query: "delphinus massachusetts" ; Times: 3
+	Query: "stateprovince:&#34;Utah&#34; recordedby:Durrant" ; Times: 1
+	Query: "mass mammalia" ; Times: 2
+	Query: "mammal country:&#34;turkey&#34;" ; Times: 20
+	Query: "Erethizon (Mexico)" ; Times: 1
+	Query: "spilogale putorius country:&#34;United States&#34; AND (NOT california NOT oregon NOT Arizona NOT mexico NOT washington NOT brewster NOT presidio NOT Africa)" ; Times: 1
+	Query: "catalognumber:33095" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "genus:Leopardus" ; Times: 1
+	Query: "peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 1988 year &lt;= 1992" ; Times: 2
+	Query: "Peromyscus maniculatus assimilis" ; Times: 2
+	Query: "county:&#34;Halifax&#34; stateprovince:&#34;Virginia&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "oryx gazella" ; Times: 1
+	Query: "Rhinopoma hardwickei continent:Africa year &gt;= 1960" ; Times: 1
+	Query: "caracal" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "121056" ; Times: 2
+	Query: "specificepithet:pardalis genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "23218" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "pecari tajacu paraguay" ; Times: 1
+	Query: "Chrysochloridae" ; Times: 1
+	Query: "enhydra california" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34; year &gt;= 2000 year &lt;= 2005 institutioncode:UMMZ" ; Times: 1
+	Query: "felidae tabasco" ; Times: 1
+	Query: "Tylomys" ; Times: 1
+	Query: "Sciuridae continent:South America" ; Times: 3
+	Query: "Onychomys torridus tularensis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 159 (out of 823 download events in this period)
+Total number of records downloaded: 43767
+Number of different countries: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 7
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Italy ; Times: 6
+	Country: Uganda ; Times: 1
+	Country: Mexico ; Times: 43
+	Country: Unknown ; Times: 8
+	Country: Panama ; Times: 1
+	Country: Singapore ; Times: 2
+	Country: France ; Times: 1
+	Country: United States ; Times: 72
+	Country: Chile ; Times: 3
+	Country: Peru ; Times: 2
+	Country: Colombia ; Times: 7
+	Country: Czech Republic ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Bangladesh ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-10-16 ; Times: 17
+	Date: 2015-10-17 ; Times: 3
+	Date: 2015-10-14 ; Times: 1
+	Date: 2015-10-15 ; Times: 2
+	Date: 2015-10-12 ; Times: 9
+	Date: 2015-10-13 ; Times: 3
+	Date: 2015-10-11 ; Times: 3
+	Date: 2015-10-19 ; Times: 9
+	Date: 2015-10-29 ; Times: 14
+	Date: 2015-10-28 ; Times: 3
+	Date: 2015-10-27 ; Times: 1
+	Date: 2015-10-26 ; Times: 5
+	Date: 2015-10-25 ; Times: 2
+	Date: 2015-10-24 ; Times: 2
+	Date: 2015-10-23 ; Times: 4
+	Date: 2015-10-22 ; Times: 1
+	Date: 2015-10-21 ; Times: 1
+	Date: 2015-10-20 ; Times: 5
+	Date: 2015-10-05 ; Times: 3
+	Date: 2015-10-04 ; Times: 1
+	Date: 2015-10-07 ; Times: 15
+	Date: 2015-10-06 ; Times: 2
+	Date: 2015-10-01 ; Times: 7
+	Date: 2015-10-03 ; Times: 3
+	Date: 2015-10-02 ; Times: 6
+	Date: 2015-10-09 ; Times: 2
+	Date: 2015-10-08 ; Times: 11
+	Date: 2015-10-30 ; Times: 17
+	Date: 2015-10-31 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "choloepus hoffmanni" ; Times: 1
+	Query: "cynopterus" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 1
+	Query: "Spilogale putorius" ; Times: 1
+	Query: "ovis aries" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "odocoileus virginianus mexico" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "Tapirus bairdii" ; Times: 1
+	Query: "Megadontomys cryophilus" ; Times: 1
+	Query: "neotoma genus:neotoma stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 21
+	Query: "lynx canadensis mappable:1" ; Times: 1
+	Query: "sus scrofa" ; Times: 1
+	Query: "dama.dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "romerolagus diazi" ; Times: 2
+	Query: "(Panthera tigris)" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "class:Mammalia stateprovince:&#34;Nevada&#34;" ; Times: 2
+	Query: "Sciuridae continent:South America" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "genus:sciurus stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "genus:Aethomys" ; Times: 1
+	Query: "panthera onca" ; Times: 4
+	Query: "Microtus (Newfoundland Labrador)" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "arenac michigan year &gt;= 1910 year &lt;= 1912" ; Times: 1
+	Query: "Panthera leo" ; Times: 4
+	Query: "locality:San Antonio stateprovince:&#34;Baja&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:onca genus:panthera family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Atlantoxerus getulus" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "pecari tajacu mexico" ; Times: 1
+	Query: "Lasiurus borealis distance(location,geopoint(41.04124542678115,-96.6972666978836))&lt;335698" ; Times: 1
+	Query: "ERETHIZON CANADA" ; Times: 1
+	Query: "kangaroo" ; Times: 1
+	Query: "genus:Acinonyx" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Blarina brevicauda type:specimen stateprovince:&#34;Minnesota&#34; mappable:1" ; Times: 1
+	Query: "Sorex veraepacis" ; Times: 1
+	Query: "specificepithet:scrofa genus:sus" ; Times: 1
+	Query: "genus:Acomys" ; Times: 1
+	Query: "nyctimene" ; Times: 1
+	Query: "erethizon canada" ; Times: 1
+	Query: "peromyscus attwateri" ; Times: 2
+	Query: "felidae campeche" ; Times: 1
+	Query: "chrysocyon brachyurus" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Thomomys umbrinus" ; Times: 1
+	Query: "felidae chiapas" ; Times: 1
+	Query: "Microtus (newfoundland labrador)" ; Times: 1
+	Query: "neotomodon alstoni" ; Times: 1
+	Query: "Tamiasciurus hudsonicus stateprovince:&#34;North Carolina&#34; mappable:1" ; Times: 1
+	Query: "Sciurus niger" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "Sciurus aureogaster" ; Times: 2
+	Query: "Ludlow California" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "Vespertilionidae stateprovince:&#34;washington&#34; mappable:1 distance(location,geopoint(48.567520373908266,-122.93426513671875))&lt;100000" ; Times: 1
+	Query: "Erethizon (Canada)" ; Times: 1
+	Query: "Callicebus" ; Times: 2
+	Query: "order:primates" ; Times: 1
+	Query: "genus:Puma stateprovince:&#34;Alabama&#34; country:&#34;United States&#34;" ; Times: 2
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "Hoolock hoolock" ; Times: 1
+	Query: "ERETHIZON CANADA mappable:1" ; Times: 1
+	Query: "Cryptotis obscura" ; Times: 1
+	Query: "genus:reithrodontomys stateprovince:&#34;aguascalientes&#34;" ; Times: 1
+	Query: "Sciuridae sabah" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "(Marinkelle)" ; Times: 1
+	Query: "Rodentia genus:Microtus (Newfoundland OR Labrador)" ; Times: 1
+	Query: "odocoileus virginianus guatemala" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "class:mammalia distance(location,geopoint(21.412162229725425,-98.53912353515625))&lt;17880.42225219646" ; Times: 1
+	Query: "Amboy" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "Phascolarctos cinereus" ; Times: 2
+	Query: "specificepithet:wiedii genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "uganda" ; Times: 1
+	Query: "paraguay" ; Times: 2
+	Query: "Ludlow stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Monmouth New Jersey" ; Times: 1
+	Query: "Peromyscus maniculatus assimilis" ; Times: 1
+	Query: "genetta genetta" ; Times: 1
+	Query: "cervus elaphus" ; Times: 1
+	Query: "Meriones Libycus" ; Times: 1
+	Query: "country:&#34;Peru&#34; recordedby:Schunke" ; Times: 1
+	Query: "Peromyscus leucopus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "genus:Aepyceros" ; Times: 1
+	Query: "specificepithet:rufus genus:lynx family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "type:specimen (Lepus townsendii) mappable:1" ; Times: 1
+	Query: "spermophilus undulatus" ; Times: 1
+	Query: "specificepithet:pardalis genus:leopardus family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "gularis" ; Times: 1
+	Query: "specificepithet:concolor genus:puma family:felidae country:&#34;mexico&#34;" ; Times: 1
+	Query: "Balantiopteryx plicata" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "PARAGUAY" ; Times: 1
+	Query: "nyctereutes procyonoides" ; Times: 1
+	Query: "Bradypus variegatus" ; Times: 2
+	Query: "Meriones shawi" ; Times: 1
+	Query: "philander opossum" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "sciurus carolinensis" ; Times: 1
+	Query: "sciurus vulgaris" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "ammospermophilus leucurus" ; Times: 1
+
+
+End of report.
