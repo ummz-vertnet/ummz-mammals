@@ -1,0 +1,491 @@
+Report for Institution Code UMMZ, Resource Mammals
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 429
+Number of records retrieved in searches: 2752
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Australia ; Times: 27
+	Country: Brazil ; Times: 23
+	Country: Canada ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Kenya ; Times: 1
+	Country: Mexico ; Times: 32
+	Country: Netherlands ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Russia ; Times: 7
+	Country: Spain ; Times: 2
+	Country: Sweden ; Times: 2
+	Country: United Kingdom ; Times: 4
+	Country: United States ; Times: 307
+	Country: Unknown ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 1
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-05 ; Times: 18
+	Date: 2016-01-06 ; Times: 10
+	Date: 2016-01-07 ; Times: 7
+	Date: 2016-01-08 ; Times: 8
+	Date: 2016-01-09 ; Times: 5
+	Date: 2016-01-10 ; Times: 1
+	Date: 2016-01-11 ; Times: 22
+	Date: 2016-01-12 ; Times: 101
+	Date: 2016-01-13 ; Times: 5
+	Date: 2016-01-14 ; Times: 38
+	Date: 2016-01-15 ; Times: 14
+	Date: 2016-01-16 ; Times: 2
+	Date: 2016-01-17 ; Times: 1
+	Date: 2016-01-18 ; Times: 24
+	Date: 2016-01-19 ; Times: 7
+	Date: 2016-01-20 ; Times: 9
+	Date: 2016-01-21 ; Times: 21
+	Date: 2016-01-22 ; Times: 14
+	Date: 2016-01-23 ; Times: 17
+	Date: 2016-01-24 ; Times: 2
+	Date: 2016-01-25 ; Times: 18
+	Date: 2016-01-26 ; Times: 18
+	Date: 2016-01-27 ; Times: 11
+	Date: 2016-01-28 ; Times: 14
+	Date: 2016-01-29 ; Times: 10
+	Date: 2016-01-30 ; Times: 8
+	Date: 2016-01-31 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "Mammalia catalognumber:32140 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:118616 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "class:Mammalia locality:"Santa Cruz Island" stateprovince:"California"" ; Times: 1
+	Query: "sundamys 174438" ; Times: 2
+	Query: "sundamys 174440" ; Times: 1
+	Query: "Canis lupus type:specimen stateprovince:"Michigan"" ; Times: 1
+	Query: "long eared owl" ; Times: 1
+	Query: "Mammalia catalognumber:106206 institutioncode:UMMZ" ; Times: 1
+	Query: "family:Macropodidae (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:176330 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:174737 institutioncode:UMMZ" ; Times: 1
+	Query: "Tachyglossidae institutioncode:UMMZ" ; Times: 2
+	Query: "Mammalia catalognumber:173747 institutioncode:UMMZ" ; Times: 1
+	Query: "afghanus" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "catalognumber:63907 institutioncode:UMMZ" ; Times: 1
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Choeronycteris mexicana and Arizona" ; Times: 2
+	Query: "dasypus novemcinctus type:specimen preparations:skull" ; Times: 1
+	Query: ""Procavia capensis" mappable:1" ; Times: 1
+	Query: "Mammalia catalognumber:99593 institutioncode:UMMZ" ; Times: 1
+	Query: "Peromyscus leucopus in Massachusetts" ; Times: 2
+	Query: "genus:Apomys family:Muridae" ; Times: 1
+	Query: "catalognumber:125416 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:125719 institutioncode:UMMZ" ; Times: 1
+	Query: "Myoprocta" ; Times: 2
+	Query: "Callithrix pygmaea" ; Times: 2
+	Query: "catalognumber:88632 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "Mammalia catalognumber:85358 institutioncode:UMMZ" ; Times: 1
+	Query: "class:mammalia county:"Knox" stateprovince:"Tennessee" mappable:1" ; Times: 1
+	Query: "reithrodontomys sumichrasti type:specimen country:"mexico" year >= 1960 year <= 2015" ; Times: 9
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Vulpes cana" ; Times: 2
+	Query: "Mammalia catalognumber:173300 institutioncode:UMMZ" ; Times: 1
+	Query: "Lasiurus cinereus Nebraska" ; Times: 1
+	Query: "Alouatta caraya 1" ; Times: 1
+	Query: "catalognumber:122533 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:88609 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:100812 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:53386 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 1
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Marmosa lepida" ; Times: 1
+	Query: "Pteropodidae distance(location,geopoint(20.797201434307,126.474609375))<2517134" ; Times: 1
+	Query: "canis latrans michigan" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 6
+	Query: "Alouatta caraya" ; Times: 1
+	Query: "Dasyprocta" ; Times: 1
+	Query: "wisconsin tamiasciurus" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Mammalia catalognumber:95747 institutioncode:UMMZ" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "catalognumber:156446 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:113355 institutioncode:UMMZ" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"Minnesota"" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "catalognumber:124421 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 2
+	Query: "catalognumber:101785 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "sundamys" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year>=1916 year<=1920" ; Times: 1
+	Query: "cebus apella" ; Times: 1
+	Query: "Mammalia catalognumber:67083 institutioncode:UMMZ" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "catalognumber:53657 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:85407 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "dasymys" ; Times: 1
+	Query: "catalognumber:158524 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "type:specimen specificepithet:sumichrasti genus:reithrodontomys country:"mexico"" ; Times: 1
+	Query: "enhydra lutris california" ; Times: 2
+	Query: "catalognumber:53108 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:58252 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "anomaluridae institutioncode:UMMZ" ; Times: 3
+	Query: "Mammalia catalognumber:123424 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:64953 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:98130 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Philippines family:Muridae" ; Times: 1
+	Query: "notiosorex crawfordi mexico" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "Dipodomys stephensi" ; Times: 1
+	Query: "catalognumber:125244 institutioncode:UMMZ" ; Times: 2
+	Query: "ummz 118592" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 5
+	Query: "catalognumber:109342 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "alces institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:125685 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:117117 institutioncode:UMMZ" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: ""Dasypus novemcinctus " mappable:1" ; Times: 1
+	Query: "catalognumber:106188 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Zapus stateprovince:"Tennessee"" ; Times: 1
+	Query: "orca year >= 1940 year <= 1970" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "catalognumber:75771 (Mammalia) institutioncode:UMMZ" ; Times: 2
+	Query: "Mammalia catalognumber:56610 institutioncode:UMMZ" ; Times: 1
+	Query: "panthera leo" ; Times: 2
+	Query: "Cuniculus" ; Times: 1
+	Query: "Mammalia catalognumber:160908 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:167420 (Mammalia) institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:80444 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "ummz 107958" ; Times: 1
+	Query: "catalognumber:174737 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:125245 institutioncode:UMMZ" ; Times: 1
+	Query: "58820" ; Times: 1
+	Query: "Equus" ; Times: 5
+	Query: "Mammalia family:Cynocephalidae institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:165410 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:96173 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Batomys salomonseni" ; Times: 2
+	Query: "suaveolens" ; Times: 1
+	Query: "Lonchophylla thomasi" ; Times: 1
+	Query: "catalognumber:160450 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:102482 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:103555 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:173959 institutioncode:UMMZ" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "specificepithet:stephensi genus:Dipodomys county:"San Diego"" ; Times: 1
+	Query: "Maximilian" ; Times: 1
+	Query: "ummz 112981" ; Times: 1
+	Query: "Mammalia catalognumber:156427 institutioncode:UMMZ" ; Times: 1
+	Query: "CAENOLESTES" ; Times: 5
+	Query: "Mammalia order:Primates institutioncode:UMMZ" ; Times: 1
+	Query: "Eptesicus Nebraska" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "order:Chiroptera (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Chrysocyon" ; Times: 1
+	Query: "Callimico goeldii type:specimen" ; Times: 3
+	Query: "Galea" ; Times: 1
+	Query: "Mills P" ; Times: 1
+	Query: "distance(location,geopoint(32.149036,-113.187516))<15000" ; Times: 1
+	Query: "Mammalia catalognumber:60907 institutioncode:UMMZ" ; Times: 2
+	Query: "Mammalia catalognumber:162722 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:59973 institutioncode:UMMZ" ; Times: 1
+	Query: "Tremarctos "ornatus"" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 1
+	Query: "Mammalia catalognumber:121217 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:159321 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Elephantidae" ; Times: 1
+	Query: "Mammalia catalognumber:38370 institutioncode:UMMZ" ; Times: 1
+	Query: "ummz 77261" ; Times: 1
+	Query: "sorex ornatus baja" ; Times: 1
+	Query: "catalognumber:56035 institutioncode:UMMZ" ; Times: 1
+	Query: ""Dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "Callimico goeldii" ; Times: 1
+	Query: "ummz 101556" ; Times: 1
+	Query: "peromyscus maniculatus type:specimen institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:95794 institutioncode:UMMZ" ; Times: 1
+	Query: "gazella" ; Times: 1
+	Query: "Callithrix Cebuella pygmaea type:specimen AND (fluid)" ; Times: 1
+	Query: "144473 (UMMZ)" ; Times: 1
+	Query: "catalognumber:163516 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:146404 institutioncode:UMMZ" ; Times: 1
+	Query: "Hippotragus niger" ; Times: 10
+	Query: "Myotis volans Nebraska" ; Times: 2
+	Query: "catalognumber:160148 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "type:specimen specificepithet:sumichrasti genus:reithrodontomys country:"mexico" year >= 1960 year <= 2015" ; Times: 1
+	Query: "catalognumber:77763 (Mammalia) institutioncode:UMMZ" ; Times: 2
+	Query: "Mammalia catalognumber:115800 institutioncode:UMMZ" ; Times: 1
+	Query: "cryptonanus" ; Times: 4
+	Query: "type:specimen specificepithet:floridanus genus:podomys mappable:1 distance(location,geopoint(30.05007652169871,-81.3427734375))<59774" ; Times: 1
+	Query: "catalognumber:86933 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "116441" ; Times: 1
+	Query: "suaveolens type:specimen" ; Times: 1
+	Query: "order:Pilosa (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:46404 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:113329 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "anomaluridae AND michigan" ; Times: 1
+	Query: "AYACUCHO" ; Times: 1
+	Query: "catalognumber:65085 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:114803 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "176998 soricidae" ; Times: 1
+	Query: "catalognumber:53800 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:157019 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:124692 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:163515 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: ""Tremarctos ornatus" mappable:1" ; Times: 2
+	Query: "genus:Equus" ; Times: 5
+	Query: "162073" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "ummz 110929" ; Times: 1
+	Query: "Mammalia catalognumber:112380 institutioncode:UMMZ" ; Times: 1
+	Query: "orcinus orca" ; Times: 4
+	Query: "125417" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 4
+	Query: "catalognumber:117122 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:118390 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:97618 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:104694 institutioncode:UMMZ" ; Times: 1
+	Query: "Dipodomys stephensi county:"San Diego"" ; Times: 2
+	Query: "catalognumber:156440 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:85347 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:102454 institutioncode:UMMZ" ; Times: 1
+	Query: "Gorilla gorilla" ; Times: 1
+	Query: "catalognumber:46410 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Nanger soemmerringii" ; Times: 1
+	Query: "onca type:specimen (Panthera OR Felis)" ; Times: 2
+	Query: "catalognumber:84267 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 4
+	Query: "handleyomys chapmani" ; Times: 1
+	Query: "distance(location,geopoint(21.439036,-105.197516))<15000" ; Times: 1
+	Query: "Mammalia catalognumber:113315 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:95751 institutioncode:UMMZ" ; Times: 1
+	Query: "Caviidae" ; Times: 1
+	Query: "catalognumber:74580 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:118263 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:52850 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:160458 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:57751 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:112320 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:81848 institutioncode:UMMZ" ; Times: 1
+	Query: "monodelphis glirina" ; Times: 4
+	Query: "Mammalia catalognumber:125575 institutioncode:UMMZ" ; Times: 1
+	Query: ""tremarctos ornatus" mappable:1" ; Times: 1
+	Query: "catalognumber:60947 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Sorex county:"Lincoln" stateprovince:"Oregon"" ; Times: 1
+	Query: "Cebuella pygmaea type:specimen" ; Times: 2
+	Query: "catalognumber:77896" ; Times: 1
+	Query: "Puma concolor Arizona" ; Times: 2
+	Query: "catalognumber:124382 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "ummz 43114" ; Times: 1
+	Query: "Mammalia catalognumber:77652 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:59985 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "ummz 110932" ; Times: 1
+	Query: "Cebuella pygmaea type:specimen (skull)" ; Times: 1
+	Query: "Mammalia catalognumber:60521 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:158252 (Mammalia) institutioncode:UMMZ" ; Times: 2
+	Query: "Condylura cristata mappable:1" ; Times: 1
+	Query: "mammals coahuila" ; Times: 11
+	Query: "catalognumber:74580 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:101785 institutioncode:UMMZ" ; Times: 1
+	Query: "sus scrofa" ; Times: 2
+	Query: "Mammalia catalognumber:95741 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:81124 (Mammalia) institutioncode:UMMZ" ; Times: 2
+	Query: "Mammalia catalognumber:103547 institutioncode:UMMZ" ; Times: 1
+	Query: ""dasypus novemcinctus" mappable:1" ; Times: 1
+	Query: "Mammalia catalognumber:125126 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:65084 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "28053 ummz" ; Times: 1
+	Query: "Cebuella" ; Times: 3
+	Query: "connochaetes" ; Times: 1
+	Query: "12113" ; Times: 1
+	Query: "Tremarctos "ornatus" mappable:1" ; Times: 2
+	Query: "catalognumber:171081 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:174529 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "mvz 4906" ; Times: 2
+	Query: "Mammalia catalognumber:55139 institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:55656 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "family:Muridae country:"Indonesia" preparations:Skeleton" ; Times: 2
+	Query: "sylvilagus cognatus" ; Times: 5
+	Query: "monodelphis SOREX" ; Times: 13
+	Query: "Callimico" ; Times: 1
+	Query: "Sciurus arizonensis" ; Times: 3
+	Query: "Michigan 99841" ; Times: 1
+	Query: "Mammalia catalognumber:52744 institutioncode:UMMZ" ; Times: 1
+	Query: "class:mammalia county:"Sedgwick" stateprovince:"Kansas" mappable:1" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 1
+	Query: "catalognumber:103512 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:ludovici genus:Sturnira stateprovince:"Michoacan"" ; Times: 1
+	Query: "catalognumber:62121 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:164961 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "6977" ; Times: 1
+	Query: "catalognumber:103512 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Dipodomys merriami county:"San Diego"" ; Times: 1
+	Query: "Pan type:specimen (paniscus OR troglodytes)" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "ummz 96878" ; Times: 1
+	Query: "catalognumber:75663 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:76743 institutioncode:UMMZ" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Lasiurus Nebraska" ; Times: 1
+	Query: "Callithrix pygmaea type:specimen" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 2
+	Query: "catalognumber:156861 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:78131" ; Times: 1
+	Query: "UMMZ 115233" ; Times: 1
+	Query: "Mammalia catalognumber:110081 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:32236 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:113347 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:78340 institutioncode:UMMZ" ; Times: 1
+	Query: "Mammalia catalognumber:106959 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:subflavus stateprovince:"Arkansas" country:"United States"" ; Times: 1
+	Query: "ALouatta fusca" ; Times: 1
+	Query: "Profelis aurata" ; Times: 1
+	Query: "catalognumber:123395 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "176998" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "canis aureus" ; Times: 3
+	Query: "Eptesicus fuscus Nebraska" ; Times: 1
+	Query: "Kerodon" ; Times: 1
+	Query: "Sciurus griseus county:"San Diego"" ; Times: 1
+	Query: "catalognumber:85405 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "catalognumber:172673 (Mammalia) institutioncode:UMMZ" ; Times: 1
+	Query: "alouatta pigra" ; Times: 1
+	Query: "Mammalia catalognumber:176792 institutioncode:UMMZ" ; Times: 1
+	Query: "Loxodonta "africana" mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 507 download events in this period)
+Total number of records downloaded: 44489 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 40854
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 20
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 51
+	Country: Unknown ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-01 ; Times: 2
+	Date: 2016-01-02 ; Times: 3
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-04 ; Times: 5
+	Date: 2016-01-05 ; Times: 11
+	Date: 2016-01-06 ; Times: 4
+	Date: 2016-01-07 ; Times: 3
+	Date: 2016-01-09 ; Times: 1
+	Date: 2016-01-10 ; Times: 3
+	Date: 2016-01-11 ; Times: 3
+	Date: 2016-01-12 ; Times: 3
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-15 ; Times: 2
+	Date: 2016-01-16 ; Times: 1
+	Date: 2016-01-18 ; Times: 2
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-22 ; Times: 1
+	Date: 2016-01-23 ; Times: 1
+	Date: 2016-01-26 ; Times: 3
+	Date: 2016-01-27 ; Times: 2
+	Date: 2016-01-28 ; Times: 2
+	Date: 2016-01-29 ; Times: 3
+	Date: 2016-01-30 ; Times: 8
+	Date: 2016-01-31 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "reithrodontomys sumichrasti" ; Times: 1
+	Query: "boylii" ; Times: 1
+	Query: "Sylvilagus robustus" ; Times: 1
+	Query: "specificepithet:griseus genus:Sciurus" ; Times: 1
+	Query: "Uncia uncia" ; Times: 1
+	Query: "Sciurus nayaritensis" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "specificepithet:penicillatus genus:Chaetodipus" ; Times: 1
+	Query: ""Mustela nigripes" mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "specificepithet:merriami genus:Dipodomys" ; Times: 1
+	Query: "enhydra lutris california AND (NOT alaska)" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 1
+	Query: "Niviventer" ; Times: 1
+	Query: "Caracal caracal" ; Times: 1
+	Query: "Tremarctos "ornatus" mappable:1" ; Times: 3
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "family:Caviidae OR Abrocomidae OR Dinomyidae OR Dasyproctidae OR Cuniculidae OR Octodontidae OR Ctenomyidae OR Echimyidae OR Myocastoridae OR Capromyidae OR Heptaxodontidae OR Chinchillidae" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "Crocuta" ; Times: 1
+	Query: "Ochotona princeps" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "peromyscus boylii" ; Times: 1
+	Query: ""Tremarctos ornatus" mappable:1" ; Times: 4
+	Query: "orcinus orca" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 7
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 9
+	Query: "specificepithet:maniculatus genus:Peromyscus" ; Times: 1
+	Query: "dasypus novemcinctus type:specimen preparations:skin" ; Times: 1
+	Query: "Leptailurus serval" ; Times: 1
+	Query: "Panthera pardus" ; Times: 1
+	Query: "specificepithet:mephitis genus:Mephitis" ; Times: 1
+	Query: "Taxidea taxus stateprovince:"Minnesota"" ; Times: 1
+	Query: "Vespertilionidae Colombia" ; Times: 1
+	Query: "Tremarctos ornatus mappable:1" ; Times: 1
+	Query: "Leopardus geoffroyi" ; Times: 2
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus" ; Times: 1
+	Query: "Cynomys" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 3
+	Query: "peromyscus attwateri" ; Times: 1
+	Query: "Felis margarita" ; Times: 1
+	Query: "specificepithet:frenata genus:Mustela" ; Times: 1
+	Query: "specificepithet:americanus genus:Lepus" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "Blarina brevicauda stateprovince:"Minnesota"" ; Times: 1
+	Query: "genus:Sorex county:"Lincoln" stateprovince:"Oregon"" ; Times: 1
+	Query: "martes americana" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon" ; Times: 1
+	Query: "specificepithet:bendirii genus:Sorex" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))<78505" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 84
+Total number of records downloaded: 44489
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 429
+Total number of records retrieved from searches: 2752
+Number of download events that retrieved data from the resource: 84
+Total number of records downloaded: 44489
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
