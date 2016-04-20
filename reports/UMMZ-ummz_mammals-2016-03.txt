@@ -1,0 +1,202 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for March 2016, generated on 2016/04/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 141
+Number of records retrieved in searches: 1539
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: Canada ; Times: 1
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 2
+	Country: Panama ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 3
+	Country: Colombia ; Times: 6
+	Country: Switzerland ; Times: 2
+	Country: Argentina ; Times: 2
+	Country: United States ; Times: 86
+	Country: Russia ; Times: 12
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 4
+	Date: 2016-03-11 ; Times: 21
+	Date: 2016-03-10 ; Times: 14
+	Date: 2016-03-01 ; Times: 20
+	Date: 2016-03-08 ; Times: 21
+	Date: 2016-03-09 ; Times: 15
+	Date: 2016-03-06 ; Times: 6
+	Date: 2016-03-14 ; Times: 6
+	Date: 2016-03-04 ; Times: 9
+	Date: 2016-03-05 ; Times: 6
+	Date: 2016-03-02 ; Times: 7
+	Date: 2016-03-03 ; Times: 6
+	Date: 2016-03-13 ; Times: 4
+	Date: 2016-03-12 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Crocidura foetida" ; Times: 1
+	Query: "specificepithet:californicus genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "erethizon dorsatum" ; Times: 1
+	Query: "family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "leopardus pajeros" ; Times: 1
+	Query: "&#34;Lepus othus&#34; type:specimen institutioncode:UMMZ" ; Times: 1
+	Query: "95588" ; Times: 1
+	Query: "spermophilus mollis" ; Times: 3
+	Query: "microtus guatemalensis" ; Times: 4
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Missouri&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "pithecia" ; Times: 1
+	Query: "genus:puma specificepithet:concolor" ; Times: 2
+	Query: "cebus capucinus" ; Times: 1
+	Query: "Microgale cowani" ; Times: 1
+	Query: "29992" ; Times: 2
+	Query: "alouatta fusca" ; Times: 2
+	Query: "locality:12 km (by road) E of Santa Fe country:&#34;Argentina&#34;" ; Times: 1
+	Query: "lemniscomys griselda" ; Times: 1
+	Query: "UMMZ-70011" ; Times: 1
+	Query: "locality:Riacho Pilaga country:&#34;Argentina&#34;" ; Times: 1
+	Query: "genus:Holochilus locality:Estancia Ype Kua" ; Times: 1
+	Query: "genus:Holochilus locality:4 km N (by air) of Bahia Negra" ; Times: 1
+	Query: "alouatta caraya" ; Times: 1
+	Query: "Alces institutioncode:UMMZ" ; Times: 1
+	Query: "leopardus PAJEROS" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "volcan de chiriqui" ; Times: 1
+	Query: "alouatta" ; Times: 1
+	Query: "Crocidura monticola" ; Times: 1
+	Query: "Acerodon leucotis" ; Times: 1
+	Query: "celaque" ; Times: 1
+	Query: "Geomys" ; Times: 1
+	Query: "genus:Holochilus locality:Rosario" ; Times: 1
+	Query: "vulpes bengalensis" ; Times: 4
+	Query: "post stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "mummy" ; Times: 4
+	Query: "catalognumber:126505" ; Times: 1
+	Query: "Oryzorictes hova" ; Times: 1
+	Query: "fluid type:specimen genus:Mustela country:&#34;United States&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ-93026" ; Times: 1
+	Query: "locality:San Cayetano" ; Times: 1
+	Query: "genus:Holochilus locality:6 km SE (by air) of Bahia Negra" ; Times: 1
+	Query: "order:primates locality:lake olomega stateprovince:&#34;san miguel&#34; country:&#34;el salvador&#34;" ; Times: 1
+	Query: "catalognumber:77652 institutioncode:UMMZ" ; Times: 1
+	Query: "type:specimen distance(location,geopoint(45.304772583725104,-62.7099609375))&lt;100000" ; Times: 1
+	Query: "county:&#34;Ramsey&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Phloeomys pallidus" ; Times: 1
+	Query: "genus:Carollia family:Phyllostomidae order:Chiroptera class:Mammalia country:&#34;Honduras&#34;" ; Times: 1
+	Query: "specificepithet:mesomelas genus:canis family:canidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "cryptonanus" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;North Dakota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "UMMZ-96001" ; Times: 1
+	Query: "catalognumber:60907 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis family:vespertilionidae order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "genus:Holochilus locality:17 km N (by air) of Bahia Negra" ; Times: 1
+	Query: "euryoryzomys" ; Times: 2
+	Query: "family:felidae country:&#34;kenya&#34;" ; Times: 1
+	Query: "Dipodomys ingens" ; Times: 2
+	Query: "116352" ; Times: 2
+	Query: "vulpes velox" ; Times: 4
+	Query: "Crateromys" ; Times: 3
+	Query: "genus:lepus order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "Dipodomys ingens year &gt;= 1800 year &lt;= 1960 mappable:1" ; Times: 1
+	Query: "ochotona princeps" ; Times: 2
+	Query: "&#34;Tyto alba&#34; (michigan)" ; Times: 1
+	Query: "Ichneumia" ; Times: 2
+	Query: "catalognumber:60947 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Iowa&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Dugmore" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "(A.B. Howell)" ; Times: 1
+	Query: "genus:Blarinella country:&#34;China&#34;" ; Times: 8
+	Query: "neotoma lepida utah" ; Times: 3
+	Query: "Nevado de Colima" ; Times: 1
+	Query: "Tin Mine county:&#34;Riverside&#34;" ; Times: 1
+	Query: "genus:Holochilus locality:Luque" ; Times: 1
+	Query: "genus:Cynocephalus institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:pardus genus:panthera family:felidae order:carnivora class:mammalia country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Bradypus country:&#34;Brazil&#34;" ; Times: 2
+	Query: "order:primates stateprovince:&#34;oaxaca&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "Thomomys townsendii usa" ; Times: 1
+	Query: "2229" ; Times: 1
+	Query: "order:lagomorpha class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "killdeer" ; Times: 2
+	Query: "loxodonta" ; Times: 1
+	Query: "spermophilus washingtoni" ; Times: 1
+	Query: "Diphylla" ; Times: 1
+	Query: "W.E.D. Scott" ; Times: 2
+	Query: "type:specimen (A.B. Howell) year &gt;= 1905 year &lt;= 1917" ; Times: 1
+	Query: "genus:Holochilus locality:Margin of Rio Tebicuary" ; Times: 1
+	Query: "genus:Holochilus locality:Estancia Santa Teresa" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 2
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "zapus hudsonius preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "diphylla" ; Times: 2
+	Query: "Tenrec ecaudatus" ; Times: 1
+	Query: "spermophilus saturatus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 74 (out of 230 download events in this period)
+Total number of records downloaded: 49631
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 11
+	Country: United Kingdom ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: United States ; Times: 49
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-03-07 ; Times: 3
+	Date: 2016-03-11 ; Times: 7
+	Date: 2016-03-03 ; Times: 3
+	Date: 2016-03-08 ; Times: 7
+	Date: 2016-03-09 ; Times: 14
+	Date: 2016-03-06 ; Times: 4
+	Date: 2016-03-14 ; Times: 7
+	Date: 2016-03-04 ; Times: 1
+	Date: 2016-03-05 ; Times: 3
+	Date: 2016-03-02 ; Times: 1
+	Date: 2016-03-10 ; Times: 13
+	Date: 2016-03-13 ; Times: 8
+	Date: 2016-03-12 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Holochilus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 13
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Oklahoma&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "conepatus semistriatus" ; Times: 1
+	Query: "soriculus" ; Times: 1
+	Query: "family:Heteromyidae year &gt;= 1800 year &lt;= 2015 mappable:1 tissue:1" ; Times: 1
+	Query: "babyrousa" ; Times: 1
+	Query: "genus:Holochilus country:&#34;Argentina&#34;" ; Times: 1
+	Query: "killdeer" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "tissue" ; Times: 39
+	Query: "Limoncocha" ; Times: 1
+	Query: "specificepithet:borealis genus:Lasiurus stateprovince:&#34;Indiana&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Alces alces" ; Times: 1
+	Query: "dasyurus" ; Times: 1
+	Query: "ochotona rufescens" ; Times: 1
+	Query: "Lynx rufus" ; Times: 1
+	Query: "ochotona" ; Times: 2
+	Query: "country:&#34;Colombia&#34;" ; Times: 1
+	Query: "country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "Babyrousa" ; Times: 2
+
+
+End of report.
