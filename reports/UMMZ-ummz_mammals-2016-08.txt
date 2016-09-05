@@ -1,0 +1,568 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 597
+Number of records retrieved in searches: 4943
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: United States ; Times: 371
+	Country: Romania ; Times: 1
+	Country: Netherlands ; Times: 15
+	Country: Colombia ; Times: 17
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 77
+	Country: Unknown ; Times: 62
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 2
+	Country: United Kingdom ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Australia ; Times: 3
+	Country: Germany ; Times: 5
+	Country: Chile ; Times: 2
+	Country: New Zealand ; Times: 2
+	Country: Venezuela ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Czech Republic ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 14
+	Date: 2016-08-11 ; Times: 42
+	Date: 2016-08-12 ; Times: 24
+	Date: 2016-08-13 ; Times: 11
+	Date: 2016-08-14 ; Times: 7
+	Date: 2016-08-15 ; Times: 20
+	Date: 2016-08-16 ; Times: 40
+	Date: 2016-08-17 ; Times: 18
+	Date: 2016-08-18 ; Times: 21
+	Date: 2016-08-19 ; Times: 27
+	Date: 2016-08-30 ; Times: 70
+	Date: 2016-08-31 ; Times: 45
+	Date: 2016-08-29 ; Times: 23
+	Date: 2016-08-28 ; Times: 8
+	Date: 2016-08-25 ; Times: 42
+	Date: 2016-08-24 ; Times: 46
+	Date: 2016-08-27 ; Times: 10
+	Date: 2016-08-26 ; Times: 18
+	Date: 2016-08-21 ; Times: 7
+	Date: 2016-08-20 ; Times: 17
+	Date: 2016-08-23 ; Times: 36
+	Date: 2016-08-22 ; Times: 48
+	Date: 2016-08-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:subulatus genus:myotis stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "caracal caracal" ; Times: 2
+	Query: "specificepithet:hartii genus:Enchisthenes" ; Times: 2
+	Query: "Lepus americanus distance(location,geopoint(46.800059446787316,-122.0361328125))&lt;100000" ; Times: 1
+	Query: "pigeon lake" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Colorado&#34;" ; Times: 2
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 4
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "martes caurina" ; Times: 1
+	Query: "herpestes edwardsi" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;maine&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "felis chaus" ; Times: 1
+	Query: "skull type:specimen genus:Cercopithecus" ; Times: 1
+	Query: "Prionailurus" ; Times: 2
+	Query: "leopardus pajeros" ; Times: 1
+	Query: "genus:lontra stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "mustela putorius" ; Times: 2
+	Query: "felis silvestris" ; Times: 1
+	Query: "Bin" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "133833" ; Times: 1
+	Query: "felis manul" ; Times: 1
+	Query: "skull type:specimen genus:erythrocebus" ; Times: 1
+	Query: "Conepatus" ; Times: 1
+	Query: "trichechus manatus" ; Times: 1
+	Query: "tamiasciurus hudsonicus fremonti" ; Times: 1
+	Query: "54750" ; Times: 1
+	Query: "Mandrillus skull type:specimen" ; Times: 1
+	Query: "saccopteryx bilineata stateprovince:&#34;veracruz&#34;" ; Times: 1
+	Query: "bradypus" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 2
+	Query: "specificepithet:guairae genus:Proechimys" ; Times: 3
+	Query: "specificepithet:colliaei genus:Sciurus" ; Times: 2
+	Query: "specificepithet:chrysopygus genus:Rhynchocyon" ; Times: 13
+	Query: "Bergen swamp" ; Times: 3
+	Query: "puma concolor" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;216446" ; Times: 1
+	Query: "jwp jenks" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "Cervus canadensis" ; Times: 3
+	Query: "genus:MEPHITIS stateprovince:&#34;WASHINGTON&#34;" ; Times: 5
+	Query: "specificepithet:inops genus:Rhinolophus" ; Times: 2
+	Query: "Conepatus semistriatus" ; Times: 2
+	Query: "mustela nigripes" ; Times: 50
+	Query: "specificepithet:canadensis genus:lynx family:felidae stateprovince:&#34;maine&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "dipodomys microps year &gt;= 1920 year &lt;= 1955 distance(location,geopoint(37.54457732085582,-117.66357421875))&lt;100000" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 24
+	Query: "cercocebus skull type:specimen" ; Times: 1
+	Query: "catalognumber:116489 institutioncode:UMMZ" ; Times: 1
+	Query: "phoca vitulina massachusetts" ; Times: 5
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Choloepus" ; Times: 1
+	Query: "oxymycterus rufus" ; Times: 3
+	Query: "Myotis austroriparius" ; Times: 2
+	Query: "county:&#34;kern&#34; recordedby:Bloeker" ; Times: 2
+	Query: "Peromyscus guatemalensis" ; Times: 4
+	Query: "thaptomys" ; Times: 1
+	Query: "class:mammalia locality:new hampshire" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "mephitis washington" ; Times: 3
+	Query: "heliosciurus" ; Times: 1
+	Query: "megasorex gigas" ; Times: 3
+	Query: "order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "Lepus americanus distance(location,geopoint(46.22545288226939,-120.9814453125))&lt;236124" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 26
+	Query: "&#34;rattus rattus&#34; massachusetts" ; Times: 2
+	Query: "choloepus" ; Times: 1
+	Query: "sylvilagus transitionalis massachusetts" ; Times: 2
+	Query: "Alouatta pigra guatemala" ; Times: 1
+	Query: "family:mephitidae stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "8974" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 2
+	Query: "orca" ; Times: 1
+	Query: "pagophilus groenlandicus" ; Times: 1
+	Query: "genus:canis country:&#34;kenya&#34;" ; Times: 1
+	Query: "catalognumber:176481 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "peromyscus leucopus distance(location,geopoint(43.079922362114694,-94.23454284667969))&lt;100000" ; Times: 1
+	Query: "peromyscus maniculatus distance(location,geopoint(43.079922362114694,-94.23454284667969))&lt;100000" ; Times: 1
+	Query: "ammodytes" ; Times: 1
+	Query: "akodon albiventer" ; Times: 5
+	Query: "Cedros Island AND Mammals NOT Trinidad" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;312851" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "Conepatus country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "catalognumber:176398 institutioncode:UMMZ" ; Times: 3
+	Query: "specificepithet:bengalensis genus:Prionailurus year &gt;= 1950 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "class:Mammalia puebla" ; Times: 1
+	Query: "country:&#34;Benin&#34;" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "skulls" ; Times: 1
+	Query: "hodomys alleni" ; Times: 1
+	Query: "genus:zapus stateprovince:&#34;vermont&#34; institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:alleni genus:Sciurus" ; Times: 3
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "family:felidae order:carnivora stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "specificepithet:hispidus genus:Sigmodon stateprovince:&#34;Tennessee&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "UMMZ 176398" ; Times: 1
+	Query: "SACCOPTERYX LEPTURA" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.800059446787316,-122.0361328125))&lt;156049" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "class:Mammalia ovis canadensis" ; Times: 1
+	Query: "notiosorex" ; Times: 4
+	Query: "catalognumber:118751 institutioncode:UMMZ" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "96656" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis order:chiroptera stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "kane county utah" ; Times: 1
+	Query: "52883" ; Times: 1
+	Query: "Oligoryzomys fulvescens" ; Times: 3
+	Query: "catalognumber:176473 institutioncode:UMMZ" ; Times: 2
+	Query: "melogale" ; Times: 1
+	Query: "genus:zapus stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "oxymycterus delator" ; Times: 2
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "microtus breweri" ; Times: 1
+	Query: "catagonus" ; Times: 3
+	Query: "genus:napaeozapus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "catalognumber:119809" ; Times: 1
+	Query: "genus:zapus stateprovince:&#34;new hampshire&#34; institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:gracilis genus:Spilogale" ; Times: 1
+	Query: "potamogale velox" ; Times: 1
+	Query: "anitae" ; Times: 1
+	Query: "genus:Ovis Nelson" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.22545288226939,-120.9814453125))&lt;200071.56360911494" ; Times: 1
+	Query: "prionailurus bengalensis" ; Times: 1
+	Query: "family:felidae stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "specificepithet:devius genus:Nephelomys" ; Times: 1
+	Query: "specificepithet:bengalensis genus:Prionailurus year &gt;= 1960 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "95656" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "Oligoryzomys delicatus" ; Times: 3
+	Query: "genus:lasiurus order:chiroptera stateprovince:&#34;new hampshire&#34;" ; Times: 2
+	Query: "Cryptotis magna" ; Times: 1
+	Query: "Wood 1923" ; Times: 1
+	Query: "pagophilus groenlandicus massachusetts" ; Times: 3
+	Query: "scapteromys" ; Times: 1
+	Query: "&#34;Orcinus orca&#34; mappable:1" ; Times: 1
+	Query: "county:&#34;Palm Beach&#34; stateprovince:&#34;Florida&#34;" ; Times: 2
+	Query: "family:mephitidae order:carnivora stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "catalognumber:176536 institutioncode:UMMZ" ; Times: 1
+	Query: "164650" ; Times: 1
+	Query: "family:mephitidae stateprovince:&#34;maine&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "notiosorex mexico" ; Times: 11
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:volans genus:Cynocephalus" ; Times: 1
+	Query: "genus:mephitis stateprovince:&#34;WASHINGTON&#34;" ; Times: 1
+	Query: "genus:Taterillus" ; Times: 3
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Chaetodipus nelsoni stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:lucifugus genus:myotis order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "genus:pipistrellus county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "specificepithet:truei genus:Peromyscus distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys distance(location,geopoint(40.27952566881294,-114.76318359375))&lt;266668" ; Times: 1
+	Query: "10929" ; Times: 1
+	Query: "mustela erminea massachusetts" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "Myotis septentrionalis (Wisconsin)" ; Times: 1
+	Query: "specificepithet:madagascariensis genus:Suncus" ; Times: 7
+	Query: "order:carnivora stateprovince:&#34;maine&#34;" ; Times: 2
+	Query: "Addax zoo" ; Times: 1
+	Query: "Acomys" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "family:mustelidae order:carnivora stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "genus:zapus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "specificepithet:keenii genus:myotis order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "amorphochilus schnablii" ; Times: 2
+	Query: "catalognumber:121123 institutioncode:UMMZ" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "Alouatta palliata guatemala" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Enchisthenes hartii" ; Times: 2
+	Query: "Tremarctos ornatus" ; Times: 4
+	Query: "Myotis ruber" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "72619" ; Times: 1
+	Query: "Peromyscus gossypinus type:specimen stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Chlamyphorus truncatus" ; Times: 2
+	Query: "specificepithet:longirostris genus:Sorex" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;vermont&#34; institutioncode:UMMZ" ; Times: 3
+	Query: "cervus canadensis year &gt;= 1939 year &lt;= 2016 mappable:1" ; Times: 1
+	Query: "Dugong" ; Times: 2
+	Query: "Peromyscus hylocetes" ; Times: 4
+	Query: "mappable:1 distance(location,geopoint(-18.312810846425442,47.43896484375))&lt;100000" ; Times: 1
+	Query: "Euryoryzomys nitidus" ; Times: 6
+	Query: "genus:zapus stateprovince:&#34;maine&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "Potos flavus" ; Times: 1
+	Query: "114007" ; Times: 1
+	Query: "175126" ; Times: 1
+	Query: "64030" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Dakota 1882" ; Times: 1
+	Query: "Ateles geoffroyi guatemala" ; Times: 1
+	Query: "Cedros Island AND Mammals" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "peromyscus maniculatus stateprovince:&#34;Iowa&#34; distance(location,geopoint(43.10098287618855,-94.22698974609375))&lt;100000" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.800059446787316,-122.0361328125))&lt;200072" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "isle royale type:specimen family:canidae order:carnivora" ; Times: 1
+	Query: "uncia uncia" ; Times: 1
+	Query: "glaucomys volans massachusetts" ; Times: 1
+	Query: "San Martin Island" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:subulatus genus:myotis order:chiroptera stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "10923" ; Times: 3
+	Query: "catopuma temminckii" ; Times: 2
+	Query: "Spilogale (Texas)" ; Times: 21
+	Query: "herpestes brachyurus" ; Times: 1
+	Query: "catalognumber:115634" ; Times: 1
+	Query: "specificepithet:eva genus:Peromyscus" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;Oaxaca&#34;" ; Times: 2
+	Query: "panthera onca mappable:1" ; Times: 1
+	Query: "type:specimen catalognumber:56621 institutioncode:UMMZ" ; Times: 1
+	Query: "Melogale moschata" ; Times: 2
+	Query: "Hyemoschus aquaticus" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Callicebus moloch 1" ; Times: 1
+	Query: "Saguinus mystax 1" ; Times: 1
+	Query: "5918 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:dasypus country:&#34;Guyana&#34;" ; Times: 1
+	Query: "71290" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "cercocebus" ; Times: 1
+	Query: "genus:Ochrotomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "Cedros Island AND Mammalia NOT Trinidad" ; Times: 1
+	Query: "necromys lenguarum" ; Times: 4
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:pennanti genus:martes stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Tayassu" ; Times: 1
+	Query: "specificepithet:hilli genus:Taphozous" ; Times: 2
+	Query: "92074" ; Times: 1
+	Query: "genus:eptesicus order:chiroptera stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "Peromyscus melanocarpus" ; Times: 2
+	Query: "Diceros zoo" ; Times: 1
+	Query: "locality:new hampshire" ; Times: 1
+	Query: "specificepithet:maniculatus genus:peromyscus stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "specificepithet:interparietalis genus:Peromyscus" ; Times: 2
+	Query: "E.C. Clarke" ; Times: 2
+	Query: "microsciurus" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;vermont&#34; institutioncode:UMMZ" ; Times: 2
+	Query: "Lepus americanus distance(location,geopoint(46.22545288226939,-120.9814453125))&lt;305888" ; Times: 1
+	Query: "TP" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "UMMZ-147845" ; Times: 1
+	Query: "Zapus hudsonius type:specimen stateprovince:&#34;Virginia&#34;" ; Times: 1
+	Query: "Idionycteris" ; Times: 2
+	Query: "Lepus Townsendii" ; Times: 5
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "calomys lepidus" ; Times: 1
+	Query: "specificepithet:canadensis genus:lynx family:felidae stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "microtus canicaudus" ; Times: 3
+	Query: "akodon aerosus" ; Times: 2
+	Query: "Homo sapiens" ; Times: 3
+	Query: "specificepithet:platyurus genus:Pygeretmus" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 4
+	Query: "rattus rattus massachusetts" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "family:canidae order:carnivora stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "catalognumber:118618 institutioncode:UMMZ" ; Times: 4
+	Query: "specificepithet:vison genus:neovison stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "UMMZ-147898" ; Times: 1
+	Query: "genus:Ovis nelson" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "lEOPARDUS WIEDII" ; Times: 2
+	Query: "Gazella saudiya" ; Times: 2
+	Query: "noctilio stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "akodon varius" ; Times: 2
+	Query: "mustela frenata massachusetts" ; Times: 2
+	Query: "locality:castillo country:&#34;panama&#34;" ; Times: 1
+	Query: "Cryptotis goodwini" ; Times: 1
+	Query: "169695" ; Times: 1
+	Query: "saimiri" ; Times: 1
+	Query: "specificepithet:Magister genus:Neotoma" ; Times: 4
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "panthera pardus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Lasiurus intermedius" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "catalognumber:120426" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Peromyscus zarhynchus" ; Times: 2
+	Query: "order:chiroptera stateprovince:&#34;new hampshire&#34;" ; Times: 1
+	Query: "gbifdatasetid:6d2cfc0a-9903-40b8-802b-403398218e4a" ; Times: 1
+	Query: "genus:napaeozapus stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "genus:zapus stateprovince:&#34;vermont&#34;" ; Times: 1
+	Query: "tapirus" ; Times: 2
+	Query: "catalognumber:178172 institutioncode:UMMZ" ; Times: 2
+	Query: "108905" ; Times: 1
+	Query: "lepus townsendii" ; Times: 3
+	Query: "potos flavus" ; Times: 1
+	Query: "specificepithet:paramorum genus:Thomasomys" ; Times: 3
+	Query: "notiosorex evotis" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela stateprovince:&#34;maine&#34;" ; Times: 1
+	Query: "Aepyceros" ; Times: 3
+	Query: "Heaney suncus murinus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 197 (out of 924 download events in this period)
+Total number of records downloaded: 73819
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 4
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 37
+	Country: Unknown ; Times: 29
+	Country: France ; Times: 2
+	Country: United States ; Times: 119
+	Country: Colombia ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 3
+	Date: 2016-08-12 ; Times: 9
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-14 ; Times: 2
+	Date: 2016-08-15 ; Times: 2
+	Date: 2016-08-16 ; Times: 33
+	Date: 2016-08-17 ; Times: 6
+	Date: 2016-08-18 ; Times: 6
+	Date: 2016-08-19 ; Times: 4
+	Date: 2016-08-30 ; Times: 11
+	Date: 2016-08-31 ; Times: 23
+	Date: 2016-08-29 ; Times: 21
+	Date: 2016-08-28 ; Times: 3
+	Date: 2016-08-25 ; Times: 21
+	Date: 2016-08-24 ; Times: 14
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 16
+	Date: 2016-08-21 ; Times: 1
+	Date: 2016-08-20 ; Times: 3
+	Date: 2016-08-23 ; Times: 3
+	Date: 2016-08-22 ; Times: 11
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34;" ; Times: 2
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "canis lupus" ; Times: 2
+	Query: "dipodomys microps" ; Times: 1
+	Query: "lontra canadensis tissue:1" ; Times: 1
+	Query: "artibeus lituratus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Mitchelli" ; Times: 1
+	Query: "microtus pennsylvanicus" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "Peromyscus fraterculus" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "skull type:specimen genus:erythrocebus" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "vulpes new mexico" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 24
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Colorado&#34;" ; Times: 1
+	Query: "&#34;mustela putorius&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 2
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "Dipodomys nitratoides nitratoides" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Peromyscus guatemalensis" ; Times: 3
+	Query: "order:Chiroptera country:&#34;Peru&#34;" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga tissue:1" ; Times: 1
+	Query: "lontra canadensis" ; Times: 1
+	Query: "Alouatta pigra guatemala" ; Times: 1
+	Query: "order:Rodentia distance(location,geopoint(39.94343646197423,-115.15869140625))&lt;247312.59442489027" ; Times: 1
+	Query: "microtus breweri" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "echimyidae" ; Times: 1
+	Query: "Mecca" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus longicaudus" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(47.87214396888731,-118.916015625))&lt;312851" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "UMMZ 176398" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "catopuma temminckii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "chiroptera stateprovince:&#34;Oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "Alouatta palliata guatemala" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus ochrogaster" ; Times: 1
+	Query: "Peromyscus megalops" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 2
+	Query: "ovis canadensis" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "order:Lagomorpha distance(location,geopoint(39.94343646197423,-115.15869140625))&lt;247312.59442489027" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "genus:dasypus country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Cryptotis goldmani" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus distance(location,geopoint(39.740986355883614,-114.89501953125))&lt;304067.83599563397" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys distance(location,geopoint(40.27952566881294,-114.76318359375))&lt;266668" ; Times: 1
+	Query: "microtus oregoni" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Wyoming&#34;" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Acomys" ; Times: 1
+	Query: "microtus miurus" ; Times: 2
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus pinetorum" ; Times: 1
+	Query: "Cryptotis magna" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "macaca skull type:specimen" ; Times: 1
+	Query: "microtus mexicanus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus montanus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Coyote (Canis)" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 1
+	Query: "Papio skull type:specimen" ; Times: 1
+	Query: "microtus canicaudus" ; Times: 2
+	Query: "Ateles geoffroyi guatemala" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Idaho&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "lutra" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:soricina genus:glossophaga mappable:1 tissue:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:truei genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:hudsonicus genus:Tamiasciurus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "cercocebus" ; Times: 1
+	Query: "microtus californicus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "hodomys alleni" ; Times: 1
+	Query: "microtus townsendii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Nevada&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "specificepithet:chinga genus:Conepatus" ; Times: 1
+	Query: "Lepus americanus distance(location,geopoint(46.22545288226939,-120.9814453125))&lt;305888" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "myotis grisescens" ; Times: 1
+	Query: "specificepithet:parvus genus:Perognathus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "acinonyx jubatus" ; Times: 1
+	Query: "microtus oeconomus" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "specificepithet:megalotis genus:Reithrodontomys stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "microtus xanthognathus" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:microps genus:Dipodomys stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "lEOPARDUS WIEDII" ; Times: 1
+	Query: "specificepithet:princeps genus:Zapus stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "specificepithet:gracilis genus:Spilogale" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "cercocebus skull type:specimen" ; Times: 1
+	Query: "Peromyscus hylocetes" ; Times: 1
+	Query: "specificepithet:cinerea genus:Neotoma stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "specificepithet:longicaudus genus:Microtus stateprovince:&#34;Utah&#34; year &gt;= 1920 year &lt;= 2016" ; Times: 1
+	Query: "Peromyscus zarhynchus" ; Times: 1
+	Query: "lepus townsendii" ; Times: 1
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "specificepithet:ordii genus:Dipodomys stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "mammalia Cryptotis" ; Times: 2
+	Query: "specificepithet:montanus genus:Microtus stateprovince:&#34;California&#34;" ; Times: 1
+
+
+End of report.
