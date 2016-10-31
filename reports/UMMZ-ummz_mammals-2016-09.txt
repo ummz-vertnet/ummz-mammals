@@ -1,0 +1,403 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for September 2016, generated on 2016/10/31
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 827
+Number of records retrieved in searches: 6456
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 25
+	Country: Netherlands ; Times: 117
+	Country: Portugal ; Times: 16
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 23
+	Country: Costa Rica ; Times: 11
+	Country: France ; Times: 2
+	Country: United States ; Times: 608
+	Country: Colombia ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 26
+	Date: 2016-09-12 ; Times: 41
+	Date: 2016-09-11 ; Times: 9
+	Date: 2016-09-10 ; Times: 32
+	Date: 2016-09-17 ; Times: 6
+	Date: 2016-09-16 ; Times: 8
+	Date: 2016-09-15 ; Times: 9
+	Date: 2016-09-14 ; Times: 15
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 5
+	Date: 2016-09-18 ; Times: 8
+	Date: 2016-09-20 ; Times: 3
+	Date: 2016-09-07 ; Times: 140
+	Date: 2016-09-26 ; Times: 4
+	Date: 2016-09-01 ; Times: 31
+	Date: 2016-09-24 ; Times: 6
+	Date: 2016-09-25 ; Times: 3
+	Date: 2016-09-28 ; Times: 4
+	Date: 2016-09-29 ; Times: 6
+	Date: 2016-09-08 ; Times: 105
+	Date: 2016-09-09 ; Times: 42
+	Date: 2016-09-22 ; Times: 2
+	Date: 2016-09-23 ; Times: 14
+	Date: 2016-09-06 ; Times: 75
+	Date: 2016-09-21 ; Times: 17
+	Date: 2016-09-04 ; Times: 39
+	Date: 2016-09-27 ; Times: 32
+	Date: 2016-09-02 ; Times: 37
+	Date: 2016-09-03 ; Times: 26
+	Date: 2016-09-05 ; Times: 77
+
+List of queries that retrieved data from the resource: 
+	Query: "DERMOPTERA mappable:1" ; Times: 2
+	Query: "specificepithet:pygerythrus genus:Callosciurus" ; Times: 4
+	Query: "reithrodontomys gracilis" ; Times: 1
+	Query: "Hylonycteris underwoodi 1" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 4
+	Query: "Spalax microphthalmus" ; Times: 1
+	Query: "human" ; Times: 1
+	Query: "&#34;bison bison&#34; mappable:1" ; Times: 1
+	Query: "catalognumber:113365 institutioncode:UMMZ" ; Times: 1
+	Query: "scientificname:&#34;smilodectes gracilis&#34; OR scientificname:&#34;platychoerops daubrei&#34; OR scientificname:&#34;bustylus marandati&#34; OR scientificname:&#34;afrodon gheerbranti&#34; OR scientificname:&#34;nasalis larvatus&#34; OR scientificname:&#34;miopithecus talapoin&#34; OR scientificname:&#34;galeopterus variegatus&#34; OR scientificname:&#34;leptadapis magnus&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;chiropotes satanas&#34; OR scientificname:&#34;cebus capucinus&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;ptilocercus lowii&#34; OR scientificname:&#34;adapis parisiensis&#34; OR scientificname:&#34;[not referred] [not referred]&#34; OR scientificname:&#34;titanoboa cerrejonensis&#34; OR scientificname:&#34;callithrix argentata&#34; OR scientificname:&#34;callithrix humeralifera&#34; OR scientificname:&#34;callithrix jacchus&#34; OR scientificname:&#34;callithrix sp.&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;calippus cerasinus&#34; OR scientificname:&#34;calippus elachistus&#34; OR scientificname:&#34;anchitherium clarencei&#34; OR scientificname:&#34;parahippus leonensis&#34; OR scientificname:&#34;parahippus barbouri&#34; OR scientificname:&#34;archaeohippus blackbergi&#34; OR scientificname:&#34;sifrhippus sandrae&#34; OR scientificname:&#34;nannippus peninsulatus&#34; OR scientificname:&#34;dinohippus mexicanus&#34;" ; Times: 1
+	Query: "cynocephalus" ; Times: 2
+	Query: "nyctinomops laticaudatus" ; Times: 2
+	Query: "Tremarctos Ornatus" ; Times: 1
+	Query: "Callicebus pallescens 1" ; Times: 1
+	Query: "(Dasypus novemcinctus) mappable:1" ; Times: 1
+	Query: "dermoptera Cynocephalidae mappable:1" ; Times: 1
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 5 institutioncode:UMMZ" ; Times: 1
+	Query: "scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;lagothrix sp&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;varecia variegata&#34;" ; Times: 1
+	Query: "bos taurus taurus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 26
+	Query: "Dermoptera mappable:1" ; Times: 58
+	Query: "120126 ummz" ; Times: 1
+	Query: "Nyctereutes procyonoides" ; Times: 3
+	Query: "Cynocephalus volans" ; Times: 1
+	Query: "(Dasypus &#34;novemcinctus&#34;) mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:syrichta genus:Tarsius" ; Times: 1
+	Query: "cynocephalus variegatus mappable:1" ; Times: 1
+	Query: "&#34;novemcinctus&#34; mappable:1" ; Times: 3
+	Query: "Dasypus novemcinctus mappable:1" ; Times: 6
+	Query: "cebus capucinus" ; Times: 4
+	Query: "cherriei country:&#34;costa rica&#34;" ; Times: 3
+	Query: "Tremarctos ornatus mappable:1" ; Times: 7
+	Query: " Cryptotis mexicana 1" ; Times: 32
+	Query: "class:Mammalia coendou" ; Times: 1
+	Query: "phoca vitulina massachusetts" ; Times: 6
+	Query: "genus:Zapus class:Mammalia coordinateuncertaintyinmeters&lt;5000 stateprovince:((Tennessee OR Kentucky OR Virginia))" ; Times: 1
+	Query: "Dasypus &#34;dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "Coendou prehensiLis" ; Times: 1
+	Query: "oxymycterus rufus" ; Times: 3
+	Query: "dermoptera mappable:1" ; Times: 87
+	Query: "lemur catta" ; Times: 1
+	Query: "&#34;Vulpes zerda&#34; mappable:1" ; Times: 1
+	Query: "&#34;tremarctos&#34; &#34;ornatus&#34; mappable:1" ; Times: 1
+	Query: "&#34;Panthera pardus&#34; mappable:1" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "scapteromys aquaticus" ; Times: 2
+	Query: "genus:holochilus locality:MANDUVIRA country:&#34;paraguay&#34;" ; Times: 1
+	Query: " mustela nigripes" ; Times: 26
+	Query: "stateprovince:&#34;Guanajuato&#34;" ; Times: 1
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 47
+	Query: "catalognumber:120126 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:indica genus:Ratufa" ; Times: 1
+	Query: "scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;nyticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;avahi laniger&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;lagothrix sp&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;galago alleni&#34; OR scientificname:&#34;galago demidovii&#34; OR scientificname:&#34;indri indri&#34; OR scientificname:&#34;lepilemur mustelinus&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;microcebus griseorufus&#34; OR scientificname:&#34;microcebus coquereli&#34; OR scientificname:&#34;phaner furcifer&#34; OR scientificname:&#34;propithecus diadema&#34; OR scientificname:&#34;propithecus verreauxi&#34; OR scientificname:&#34;tarsius bancanus&#34; OR scientificname:&#34;tarsius borneanus&#34;" ; Times: 6
+	Query: "cherriei stateprovince:&#34;Puntarenas&#34; country:&#34;costa rica&#34;" ; Times: 1
+	Query: "DERMOPTERA" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 4
+	Query: "Choeronycteris mexicana 1" ; Times: 1
+	Query: "type:specimen specificepithet:edwardsi genus:Herpestes" ; Times: 2
+	Query: "vulpes velox" ; Times: 1
+	Query: "Coendou prehensilis museum" ; Times: 1
+	Query: "scientificname:&#34;simocyon primigenius&#34; OR scientificname:&#34;arctodus simus&#34; OR scientificname:&#34;ara macao&#34; OR scientificname:&#34;arctotherium sp.&#34; OR scientificname:&#34;hapalemur griseus&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;cercopithecus denti&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;alouatta sp.&#34; OR scientificname:&#34;cercopithecus albogularis&#34; OR scientificname:&#34;semnopithecus entellus&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;cercopithecus mona&#34; OR scientificname:&#34;hylobates lar&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;pan troglodytes&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;galago moholi&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;homo naledi&#34; OR scientificname:&#34;pan  troglodytes&#34; OR scientificname:&#34;presbytis phayrei&#34; OR scientificname:&#34;pygathrix neameus&#34; OR scientificname:&#34;propithecus sp.&#34; OR scientificname:&#34;brachycephalus sp&#34; OR scientificname:&#34;otolemur garnetti&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;desmognathus sp&#34; OR scientificname:&#34;aotus sp.&#34;" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 4
+	Query: "Carollia type:specimen preparations:skull (Costa Rica Heredia)" ; Times: 1
+	Query: " specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 1
+	Query: "country:&#34;Benin&#34;" ; Times: 1
+	Query: "cherriei type:specimen country:&#34;costa rica&#34;" ; Times: 2
+	Query: "T21N AND (NOT CAS) AND (NOT MSB)" ; Times: 1
+	Query: "Malinche" ; Times: 1
+	Query: "class:Mammalia Coendou prehensilis" ; Times: 1
+	Query: "Dermoptera cynocephalidae mappable:1" ; Times: 2
+	Query: "&#34;Panthera tigris tigris&#34;" ; Times: 1
+	Query: "county:&#34;McLean&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:variegatus genus:spermophilus institutioncode:UMMZ" ; Times: 1
+	Query: "Cryptotis mexicana 1" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:mackilligini genus:Dipodillus" ; Times: 1
+	Query: "Mus musculus 1" ; Times: 2
+	Query: "catalognumber:62106 institutioncode:UMMZ" ; Times: 1
+	Query: "isthmus of panama" ; Times: 1
+	Query: "140930" ; Times: 1
+	Query: "catagonus" ; Times: 1
+	Query: "137925" ; Times: 1
+	Query: " (mustela nivalis OR mustela erminea)" ; Times: 1
+	Query: "&#34;porcupine&#34; &#34;Erethizon&#34; mappable:1" ; Times: 1
+	Query: "dasypus &#34;novemcinctus&#34; mappable:1" ; Times: 2
+	Query: "(Dermoptera) mappable:1" ; Times: 1
+	Query: "27582" ; Times: 1
+	Query: "Neovison vison 1" ; Times: 4
+	Query: "70064" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "99447" ; Times: 1
+	Query: "&#34;acinonyx&#34; mappable:1" ; Times: 1
+	Query: "cebus albifrons" ; Times: 5
+	Query: "69273" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 6
+	Query: "Myocastor coypus 1" ; Times: 1
+	Query: "locality:atka stateprovince:&#34;alaska&#34;" ; Times: 1
+	Query: "&#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 33
+	Query: "genus:holochilus" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus county:&#34;parke&#34; stateprovince:&#34;indiana&#34;" ; Times: 1
+	Query: "77230" ; Times: 1
+	Query: "&#34;Oreamnos americanus&#34; mappable:1" ; Times: 1
+	Query: "Elephantulus" ; Times: 1
+	Query: "borealis New York" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus county:&#34;winneshiek&#34; stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus" ; Times: 1
+	Query: "Myospalax myospalax" ; Times: 1
+	Query: "Aguascalientes" ; Times: 1
+	Query: "Cynocephalidae mappable:1" ; Times: 1
+	Query: "procavia capensis mappable:1" ; Times: 1
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Gorilla gorilla mappable:1" ; Times: 1
+	Query: "Glossophaga leachii 1" ; Times: 1
+	Query: "Carollia castanea type:specimen preparations:skull (Costa Rica Heredia)" ; Times: 2
+	Query: "&#34;porcupine&#34; &#34;erethizon&#34; mappable:1" ; Times: 2
+	Query: "scapteromys tumidus" ; Times: 1
+	Query: "Mustela nigripes " ; Times: 2
+	Query: "country:&#34;Kyrgyzstan&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "orcinus orca" ; Times: 3
+	Query: "nycticebus coucang" ; Times: 1
+	Query: "class:Mammalia felidae Leopardus" ; Times: 2
+	Query: "phyllotis amicus" ; Times: 2
+	Query: "(Tremarctos ornatus) mappable:1" ; Times: 1
+	Query: "72673" ; Times: 1
+	Query: "genus:holochilus locality:ROSARIO country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "mustela nigripes" ; Times: 84
+	Query: "cherriei type:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "&#34;Dasypus&#34; &#34;novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "82991" ; Times: 1
+	Query: "&#34;Plecotus auritus&#34; mappable:1" ; Times: 1
+	Query: "scientificname:&#34;arctocebus&#34; OR scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;nyticebus&#34; OR scientificname:&#34;nyticebus coucang&#34; OR scientificname:&#34;perodicticus&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;lemur&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;alouatta&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;nycticebus&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;omomyidae&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;avahi&#34; OR scientificname:&#34;avahi laniger&#34; OR scientificname:&#34;cheirogaleus&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;cynocephalus&#34; OR scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR scientificname:&#34;daubentonia&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;eulemur&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;microcebus&#34; OR scientificname:&#34;microcebus murinus&#34; OR scientificname:&#34;mirza&#34; OR scientificname:&#34;mirza coquereli&#34;" ; Times: 2
+	Query: "Dasypus &#34;Dasypus novemcinctus&#34; mappable:1" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "specificepithet:Variegatus genus:Spermophilus month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "NA 1" ; Times: 9
+	Query: "scientificname:&#34;cacajao melanocephalus&#34; OR scientificname:&#34;callicebus donacophilus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;callicebus torquatus&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;cebus capucinus&#34; OR scientificname:&#34;chiropotes albinasus&#34; OR scientificname:&#34;chiropotes satanas&#34; OR scientificname:&#34;lagothrix lagotricha&#34; OR scientificname:&#34;pithecia monachus&#34; OR scientificname:&#34;pithecia pithecia&#34; OR scientificname:&#34;saimiri boliviensis&#34; OR scientificname:&#34;saimiri sciureus&#34; OR scientificname:&#34;asiadapis cambayensis&#34; OR scientificname:&#34;marcgodinotius indicus&#34; OR scientificname:&#34;incertae sedis&#34; OR scientificname:&#34;necrolemur antiquus&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;stirtonia tatacoensis&#34; OR scientificname:&#34;tupaia glis&#34; OR scientificname:&#34;lagothrix sp&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;microcebus griseorufus&#34; OR scientificname:&#34;mirza coquereli&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;aegyptopithecus zeuxis&#34;" ; Times: 2
+	Query: "specificepithet:hudsonius genus:zapus catalognumber:83400 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Zapus class:Mammalia coordinateuncertaintyinmeters&lt;5000 stateprovince:((Tennessee OR Kentucky OR Virginia OR West Virginia OR Alabama))" ; Times: 1
+	Query: "scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;phaner furcifer&#34; OR scientificname:&#34;propithecus diadema&#34; OR scientificname:&#34;propithecus verreauxi&#34; OR scientificname:&#34;tarsius bancanus&#34; OR scientificname:&#34;tarsius borneanus&#34; OR scientificname:&#34;tarsius spectrum&#34; OR scientificname:&#34;tarsius syricta&#34; OR scientificname:&#34;varecia variegata&#34; OR scientificname:&#34;eulemur fulvus&#34;" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "coendou prehensilis mappable:1" ; Times: 2
+	Query: "Cynocephalus mappable:1" ; Times: 2
+	Query: "saccopteryx leptura" ; Times: 1
+	Query: "Conepatus leuconotus" ; Times: 1
+	Query: "cherriei type:specimen stateprovince:&#34;Puntarenas&#34; country:&#34;costa rica&#34;" ; Times: 1
+	Query: "scientificname:&#34;arctotherium sp.&#34; OR scientificname:&#34;hapalemur griseus&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;loris tardigradus&#34; OR scientificname:&#34;cercopithecus denti&#34; OR scientificname:&#34;alouatta seniculus&#34; OR scientificname:&#34;alouatta sp.&#34; OR scientificname:&#34;cercopithecus albogularis&#34; OR scientificname:&#34;semnopithecus entellus&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;cercopithecus mona&#34; OR scientificname:&#34;hylobates lar&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;pan troglodytes&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;galago moholi&#34; OR scientificname:&#34;mandrillus sphinx&#34; OR scientificname:&#34;homo naledi&#34; OR scientificname:&#34;pan  troglodytes&#34; OR scientificname:&#34;presbytis phayrei&#34;" ; Times: 1
+	Query: "Felis margarita mappable:1" ; Times: 1
+	Query: "genus:nyctomys country:&#34;honduras&#34;" ; Times: 2
+	Query: "tremarctos ornatus mappable:1" ; Times: 13
+	Query: "dasyuromorpha" ; Times: 1
+	Query: "Nyctereutes procyonoides 1" ; Times: 10
+	Query: "Glossophaga soricina 1" ; Times: 3
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "balaenoptera physalus massachusetts" ; Times: 1
+	Query: "dermoptera" ; Times: 13
+	Query: "type:specimen specificepithet:variegatus genus:spermophilus month &gt;= 1 month &lt;= 5 institutioncode:UMMZ" ; Times: 1
+	Query: "14798" ; Times: 1
+	Query: "genus:&#34;arctocebus&#34; OR scientificname:&#34;arctocebus calabarensis&#34; OR genus:&#34;nyticebus&#34; OR scientificname:&#34;nyticebus coucang&#34; OR genus:&#34;perodicticus&#34; OR scientificname:&#34;perodicticus potto&#34; OR genus:&#34;lemur&#34; OR scientificname:&#34;lemur catta&#34; OR genus:&#34;alouatta&#34; OR scientificname:&#34;alouatta palliata&#34; OR genus:&#34;nycticebus&#34; OR scientificname:&#34;nycticebus coucang&#34; OR genus:&#34;omomyidae&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR genus:&#34;avahi&#34; OR scientificname:&#34;avahi laniger&#34; OR genus:&#34;cheirogaleus&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR genus:&#34;cynocephalus&#34; OR scientificname:&#34;cynocephalus variegatus&#34; OR scientificname:&#34;cynocephalus volans&#34; OR genus:&#34;daubentonia&#34; OR scientificname:&#34;daubentonia madagascariensis&#34; OR genus:&#34;eulemur&#34; OR scientificname:&#34;eulemur fulvus&#34; OR genus:&#34;galago&#34; OR scientificname:&#34;galago senegalensis&#34; OR genus:&#34;microcebus&#34; OR scientificname:&#34;microcebus murinus&#34; OR genus:&#34;mirza&#34; OR scientificname:&#34;mirza coquereli&#34;" ; Times: 1
+	Query: "catalognumber:58980 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:dasypus country:&#34;Guyana&#34;" ; Times: 1
+	Query: "dermoptera mappable:1 cynocephalus variegatus" ; Times: 1
+	Query: "cervus canadensis mappable:1" ; Times: 1
+	Query: "saguinus" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 13
+	Query: "specificepithet:procyonoides genus:Nyctereutes" ; Times: 1
+	Query: "necromys lenguarum" ; Times: 2
+	Query: "Spalax ehrenbergi" ; Times: 1
+	Query: "Musonycteris harrisoni 1" ; Times: 1
+	Query: "genus:holochilus locality:LUQUe country:&#34;paraguay&#34;" ; Times: 1
+	Query: "scientificname:&#34;galago demidovii&#34;" ; Times: 1
+	Query: "Dipodomys heermanni tissue:1" ; Times: 2
+	Query: "&#34;dasypus novemcinctus&#34; mappable:1" ; Times: 9
+	Query: "specificepithet:borealis genus:lasiurus stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "118309" ; Times: 2
+	Query: "Dasypodidae continent:North America mappable:1" ; Times: 1
+	Query: "catalognumber:58981 institutioncode:UMMZ" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 1
+	Query: "Alouatta caraya 1" ; Times: 1
+	Query: "genus:holochilus locality:ESTANCIA SAN IGNACIO country:&#34;paraguay&#34;" ; Times: 1
+	Query: "&#34;dermoptera&#34;" ; Times: 1
+	Query: "Tremarctos Ornatus mappable:1" ; Times: 1
+	Query: "Amorphochilus" ; Times: 3
+	Query: "order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Erethizon dorsatum mappable:1" ; Times: 1
+	Query: "genus:&#34;arctocebus&#34; OR genus:&#34;nyticebus&#34; OR genus:&#34;perodicticus&#34; OR genus:&#34;lemur&#34; OR genus:&#34;alouatta&#34; OR genus:&#34;nycticebus&#34; OR genus:&#34;omomyidae&#34; OR genus:&#34;avahi&#34; OR genus:&#34;cheirogaleus&#34; OR genus:&#34;cynocephalus&#34; OR genus:&#34;daubentonia&#34; OR genus:&#34;eulemur&#34; OR genus:&#34;galago&#34; OR genus:&#34;microcebus&#34; OR genus:&#34;mirza&#34; OR genus:&#34;lagothrix&#34; OR genus:&#34;varecia&#34; OR genus:&#34;indri&#34; OR genus:&#34;lepilemur&#34; OR genus:&#34;loris&#34; OR genus:&#34;phaner&#34; OR genus:&#34;propithecus&#34; OR genus:&#34;tarsius&#34;" ; Times: 4
+	Query: "balaenoptera acutorostrata massachusetts" ; Times: 1
+	Query: "specificepithet:ehrenbergi genus:Spalax" ; Times: 9
+	Query: "catalognumber:58979 institutioncode:UMMZ" ; Times: 1
+	Query: "akodon aerosus" ; Times: 4
+	Query: "Procyon lotor 1" ; Times: 5
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 4 institutioncode:UMMZ" ; Times: 1
+	Query: "Human" ; Times: 1
+	Query: "Spilogale (Texas)" ; Times: 12
+	Query: "Tapirus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 2
+	Query: "Saguinus geoffroyi 1" ; Times: 1
+	Query: "dasypus novemcinctus" ; Times: 5
+	Query: "genus:Dasypus mappable:1" ; Times: 1
+	Query: "Mustela nigripes mappable:1" ; Times: 1
+	Query: "120126" ; Times: 1
+	Query: "catalognumber:124126 institutioncode:UMMZ" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "Dermoptera" ; Times: 5
+	Query: "cynocephalus volans" ; Times: 1
+	Query: "genus:holochilus locality:GOLONDRINA country:&#34;paraguay&#34;" ; Times: 1
+	Query: "scientificname:&#34;arctocebus calabarensis&#34; OR scientificname:&#34;nyticebus coucang&#34; OR scientificname:&#34;perodicticus potto&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;alouatta palliata&#34; OR scientificname:&#34;nycticebus coucang&#34; OR scientificname:&#34;omomyidae incertae sedis&#34; OR scientificname:&#34;avahi laniger&#34; OR scientificname:&#34;cheirogaleus major&#34; OR scientificname:&#34;cheirogaleus medius&#34; OR scientificname:&#34;cynocephalus variegatus&#34;" ; Times: 2
+	Query: "tapirus terrestris" ; Times: 3
+	Query: "Marmota marmota 1" ; Times: 3
+	Query: "class:Mammalia felidae Leopardus tigrinus" ; Times: 5
+	Query: "catalognumber:58982 institutioncode:UMMZ" ; Times: 1
+	Query: "dasypus novemcinctus mappable:1" ; Times: 8
+	Query: "cherriei type:specimen stateprovince:&#34;Puntarenas&#34; country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "44736" ; Times: 1
+	Query: "catalognumber:118309 institutioncode:UMMZ" ; Times: 2
+	Query: "Loxodonta africana mappable:1" ; Times: 1
+	Query: "Neotragus" ; Times: 1
+	Query: "Reithrodontomys gracilis" ; Times: 1
+	Query: "Ovis aries 1" ; Times: 1
+	Query: "Panthera tigris zoo" ; Times: 1
+	Query: "trichechus manatus mappable:1" ; Times: 1
+	Query: "scientificname:&#34;aotus trivirgatus&#34; OR scientificname:&#34;alouatta caraya&#34; OR scientificname:&#34;hylobates lar&#34; OR scientificname:&#34;macaca fascicularis&#34; OR scientificname:&#34;alouatta sp.&#34; OR scientificname:&#34;macaca fuscata&#34; OR scientificname:&#34;macaca mulatta&#34; OR scientificname:&#34;macaca sylvanus&#34; OR scientificname:&#34;mandrillus leucophaeus&#34; OR scientificname:&#34;ateles sp.&#34; OR scientificname:&#34;callithrix jacchus&#34; OR scientificname:&#34;callithrix pygmaea&#34; OR scientificname:&#34;saguinus midas&#34; OR scientificname:&#34;cebus apella&#34; OR scientificname:&#34;saimiri boliviensis&#34; OR scientificname:&#34;saimiri sciureus&#34; OR scientificname:&#34;semnopithecus entellus&#34; OR scientificname:&#34;pan troglodytes&#34; OR scientificname:&#34;pongo pygmaeus&#34; OR scientificname:&#34;cacajao calvus&#34; OR scientificname:&#34;callicebus moloch&#34; OR scientificname:&#34;microcebus griseorufus&#34; OR scientificname:&#34;propithecus verreauxi&#34; OR scientificname:&#34;eulemur fulvus&#34; OR scientificname:&#34;lemur catta&#34; OR scientificname:&#34;lepilemur mustelinus&#34; OR scientificname:&#34;euoticus elegantulus&#34; OR scientificname:&#34;galago senegalensis&#34; OR scientificname:&#34;galagoides demidovii&#34; OR scientificname:&#34;otolemur crassicaudatus&#34; OR scientificname:&#34;arctocebus calabarensis&#34;" ; Times: 1
+	Query: "Tachyoryctes spalacinus" ; Times: 1
+	Query: "specificepithet:spalacinus genus:Tachyoryctes" ; Times: 5
+	Query: "Rattus rattus 1" ; Times: 2
+	Query: "Rattus norvegicus 1" ; Times: 2
+	Query: "Saguinus mystax 1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 311 (out of 811 download events in this period)
+Total number of records downloaded: 104862
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Canada ; Times: 3
+	Country: Netherlands ; Times: 99
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: Costa Rica ; Times: 2
+	Country: United States ; Times: 188
+	Country: United Kingdom ; Times: 1
+	Country: Paraguay ; Times: 1
+	Country: Thailand ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-09-13 ; Times: 10
+	Date: 2016-09-12 ; Times: 13
+	Date: 2016-09-11 ; Times: 9
+	Date: 2016-09-10 ; Times: 3
+	Date: 2016-09-17 ; Times: 1
+	Date: 2016-09-16 ; Times: 3
+	Date: 2016-09-15 ; Times: 8
+	Date: 2016-09-14 ; Times: 5
+	Date: 2016-09-30 ; Times: 5
+	Date: 2016-09-19 ; Times: 3
+	Date: 2016-09-18 ; Times: 4
+	Date: 2016-09-06 ; Times: 35
+	Date: 2016-09-07 ; Times: 42
+	Date: 2016-09-27 ; Times: 10
+	Date: 2016-09-02 ; Times: 23
+	Date: 2016-09-25 ; Times: 2
+	Date: 2016-09-28 ; Times: 3
+	Date: 2016-09-29 ; Times: 2
+	Date: 2016-09-08 ; Times: 37
+	Date: 2016-09-09 ; Times: 3
+	Date: 2016-09-22 ; Times: 4
+	Date: 2016-09-23 ; Times: 9
+	Date: 2016-09-20 ; Times: 1
+	Date: 2016-09-21 ; Times: 3
+	Date: 2016-09-04 ; Times: 8
+	Date: 2016-09-01 ; Times: 17
+	Date: 2016-09-24 ; Times: 1
+	Date: 2016-09-03 ; Times: 23
+	Date: 2016-09-05 ; Times: 24
+
+List of queries that retrieved data from the resource: 
+	Query: "molossidae tissue:1" ; Times: 1
+	Query: "shenandoah national Park" ; Times: 1
+	Query: "type:specimen country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "mustela nivalis" ; Times: 1
+	Query: "DERMOPTERA mappable:1" ; Times: 1
+	Query: "genus:holochilus locality:Margin of Rio Tebicuary country:&#34;paraguay&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus county:&#34;winneshiek&#34; stateprovince:&#34;iowa&#34;" ; Times: 1
+	Query: "class:Mammalia country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "&#34;tremarctos&#34; &#34;ornatus&#34; mappable:1" ; Times: 1
+	Query: "Tremarctos &#34;ornatus&#34; mappable:1" ; Times: 1
+	Query: "Cynocephalus mappable:1" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Furipterus horrens" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;California&#34;" ; Times: 12
+	Query: "Amorphochilus" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Utah&#34;" ; Times: 1
+	Query: "Natalus" ; Times: 1
+	Query: "&#34;Tremarctos ornatus&#34; mappable:1" ; Times: 19
+	Query: "&#34;Cynocephalidae&#34; mappable:1" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Utah&#34;" ; Times: 4
+	Query: "genus:ochotona" ; Times: 2
+	Query: "(dermoptera) mappable:1" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 120
+	Query: "Dipodomys ingens" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "glossophaga soricina" ; Times: 1
+	Query: "family:Soricidae stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Nevada&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Nevada&#34;" ; Times: 6
+	Query: "&#34;Plecotus auritus&#34; mappable:1" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 23
+	Query: "Tremarctos ornatus mappable:1" ; Times: 8
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "Tremarctos ornatus" ; Times: 2
+	Query: "specificepithet:soricina genus:Glossophaga mappable:1 tissue:1" ; Times: 1
+	Query: "&#34;Mephitis mephitis&#34; mappable:1" ; Times: 2
+	Query: "genus:holochilus locality:VILLA HAYES country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Cynocephalidae mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 47
+	Query: "Dermoptera" ; Times: 1
+	Query: "Troglodytes troglodytes year &gt;= 1980" ; Times: 1
+	Query: "artibeus jamaicensis" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 1
+	Query: "Macrotus californicus mappable:1" ; Times: 1
+	Query: "specificepithet:alpinus genus:Tamias mappable:1" ; Times: 1
+	Query: "genus:holochilus locality:Yacare country:&#34;paraguay&#34;" ; Times: 1
+	Query: "genus:holochilus locality:MANDUVIRA country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "thailand" ; Times: 2
+	Query: "Lonchorhina aurita" ; Times: 1
+	Query: "(Tremarctos ornatus) mappable:1" ; Times: 1
+	Query: "tamias amoenus" ; Times: 1
+	Query: "tremarctos ornatus mappable:1" ; Times: 10
+	Query: "type:specimen specificepithet:franklinii genus:spermophilus month &gt;= 1 month &lt;= 5" ; Times: 1
+	Query: "&#34;dermoptera&#34; mappable:1" ; Times: 1
+	Query: "genus:holochilus locality:ROSARIO country:&#34;paraguay&#34;" ; Times: 1
+	Query: "genus:holochilus locality:5KM ENE AYOLAS country:&#34;paraguay&#34;" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "&#34;tremarctos ornatus&#34; mappable:1" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Idaho&#34;" ; Times: 4
+	Query: "dermoptera" ; Times: 2
+	Query: "Conepatus leuconotus" ; Times: 1
+
+
+End of report.
