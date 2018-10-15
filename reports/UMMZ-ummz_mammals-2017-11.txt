@@ -1,0 +1,175 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 199
+Number of records retrieved in searches: 5522
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 162
+	Country: South Africa ; Times: 1
+	Country: Unknown ; Times: 16
+	Country: Singapore ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 44
+	Date: 2017-11-29 ; Times: 21
+	Date: 2017-11-26 ; Times: 18
+	Date: 2017-11-27 ; Times: 79
+	Date: 2017-11-24 ; Times: 13
+	Date: 2017-11-25 ; Times: 7
+	Date: 2017-11-30 ; Times: 17
+
+List of queries that retrieved data from the resource: 
+	Query: "peromyscus glasselli" ; Times: 1
+	Query: "specificepithet:leucotis genus:sigmodon country:&#34;mexico&#34;" ; Times: 2
+	Query: "peromyscus oaxacensis" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 3
+	Query: "Sylvilagus transitionalis" ; Times: 2
+	Query: "peromyscus ambiguus" ; Times: 2
+	Query: "Sylvilagus obscurus" ; Times: 1
+	Query: "Megadontomys thomasi" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "92095" ; Times: 1
+	Query: "13083" ; Times: 1
+	Query: "Vulpes cana" ; Times: 5
+	Query: "vntype:specimen specificepithet:Vulpes genus:Vulpes stateprovince:&#34;Michigan&#34; year &lt;= 1930 institutioncode:UMMZ" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "Mustelidae skeleton Gulo gulo" ; Times: 6
+	Query: "reithrodontomys microdon" ; Times: 2
+	Query: "genus:proechimys institutioncode:UMMZ" ; Times: 7
+	Query: "peromyscus evides" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 6
+	Query: "genus:PEROmyscus stateprovince:&#34;North Dakota&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 3
+	Query: "peromyscus hylocetes" ; Times: 2
+	Query: "genus:crocidura country:&#34;kenya&#34;" ; Times: 2
+	Query: "order:lagomorpha country:&#34;kenya&#34;" ; Times: 1
+	Query: "vntype:specimen (vulpes) institutioncode:UMMZ" ; Times: 1
+	Query: "parnell" ; Times: 1
+	Query: "Myrmecophagidae skeleton tridactyla" ; Times: 1
+	Query: "specificepithet:fulgens genus:Ailurus mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:Vulpes genus:Vulpes year &lt;= 1930 institutioncode:UMMZ" ; Times: 1
+	Query: "galerella" ; Times: 1
+	Query: "adams isle royale" ; Times: 1
+	Query: "Laramie 1859" ; Times: 1
+	Query: "M130" ; Times: 1
+	Query: "peromyscus utahensis" ; Times: 2
+	Query: "snake stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "catalognumber:88314" ; Times: 2
+	Query: "peromyscus winkelmanni" ; Times: 1
+	Query: "Cynomys gunnisoni skeleton" ; Times: 1
+	Query: "specificepithet:macrotis genus:Nyctinomops country:&#34;United States&#34;" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;michigan&#34; year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "12642" ; Times: 1
+	Query: "specificepithet:flavescens genus:crocidura country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:glaucomys county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "peromyscus simulus" ; Times: 1
+	Query: "Bassaricyon gabbii" ; Times: 5
+	Query: "nasua narica" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "35377" ; Times: 1
+	Query: "tuckernuck specificepithet:pennsylvanicus genus:microtus institutioncode:UMMZ" ; Times: 1
+	Query: "genus:pROECHIMYS institutioncode:UMMZ" ; Times: 28
+	Query: "specificepithet:gravipes genus:Dipodomys" ; Times: 1
+	Query: "genus:Marmosops institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Neacomys" ; Times: 1
+	Query: "berlandieri specificepithet:hispidus genus:sigmodon country:&#34;mexico&#34;" ; Times: 6
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 3
+	Query: "Tayassuidae Pecari tajacu skeleton" ; Times: 2
+	Query: "genus:Mus recordedby:Teeter recordnumber:KCT 267 institutioncode:UMMZ" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes stateprovince:&#34;Michigan&#34; preparations:skull year &gt;= 1800 year &lt;= 1930 institutioncode:UMMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes preparations:skull institutioncode:UMMZ" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "genus:Tamiasciurus stateprovince:&#34;North Dakota&#34; institutioncode:UMMZ" ; Times: 2
+	Query: "20867 genus:peromyscus" ; Times: 1
+	Query: "puma concolor skeleton" ; Times: 1
+	Query: "Uzbekistan" ; Times: 1
+	Query: "peromyscus spicilegus" ; Times: 1
+	Query: "Parnell" ; Times: 1
+	Query: "order:artiodactyla country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:tamiasciurus county:&#34;fresno&#34;" ; Times: 1
+	Query: "Galerella" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:Vulpes stateprovince:&#34;Iowa&#34; year &lt;= 1930" ; Times: 1
+	Query: "recordedby:J. C. Thompson" ; Times: 1
+	Query: "specificepithet:ornatus genus:Tremarctos" ; Times: 1
+	Query: "family:viverridae order:carnivora" ; Times: 2
+	Query: "peromyscus sacarensis" ; Times: 1
+	Query: "peromyscus aztecus year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "nantucket specificepithet:pennsylvanicus genus:microtus institutioncode:UMMZ" ; Times: 2
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "panthera tigris skeleton" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus mappable:1" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 9
+	Query: "142160" ; Times: 1
+	Query: "genus:Romerolagus" ; Times: 1
+	Query: "locality:calcutta" ; Times: 1
+	Query: "Chiropodomys" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus class:mammalia mappable:1" ; Times: 1
+	Query: "genus:Mus recordedby:Teeter institutioncode:UMMZ" ; Times: 2
+	Query: "20868 genus:peromyscus" ; Times: 1
+	Query: "genus:Hoplomys institutioncode:UMMZ" ; Times: 3
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 2
+	Query: "Equidae skeleton equus" ; Times: 2
+	Query: "gbifdatasetid:6d2cfc0a-9903-40b8-802b-403398218e4a" ; Times: 1
+	Query: "specificepithet:brevicauda genus:zygodontomys country:&#34;Panama&#34;" ; Times: 2
+	Query: "Zaedyus pichiy" ; Times: 9
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1101 download events in this period)
+Total number of records downloaded: 29334
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Costa Rica ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-27 ; Times: 18
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-30 ; Times: 1
+	Date: 2017-11-28 ; Times: 3
+	Date: 2017-11-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "order:chiroptera" ; Times: 2
+	Query: "peromyscus glasselli" ; Times: 1
+	Query: "Sylvilagus obscurus" ; Times: 2
+	Query: "peromyscus oaxacensis" ; Times: 1
+	Query: "Sylvilagus transitionalis" ; Times: 1
+	Query: "peromyscus aztecus year &gt;= 1980 year &lt;= 2017 mappable:1" ; Times: 1
+	Query: "specificepithet:gravipes genus:Dipodomys" ; Times: 1
+	Query: "specificepithet:ornatus genus:tremarctos class:mammalia mappable:1" ; Times: 1
+	Query: "genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1990 year &lt;= 2017" ; Times: 1
+	Query: "peromyscus hylocetes" ; Times: 3
+	Query: "peromyscus utahensis" ; Times: 1
+	Query: "peromyscus rowleyi" ; Times: 1
+	Query: "peromyscus ambiguus" ; Times: 1
+	Query: "peromyscus stephani" ; Times: 1
+	Query: "peromyscus sacarensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:vulpes genus:vulpes stateprovince:&#34;Michigan&#34; preparations:skull year &gt;= 1800 year &lt;= 1930 institutioncode:UMMZ" ; Times: 1
+	Query: "romerolagus diazi" ; Times: 1
+	Query: "Sylvilagus floridanus" ; Times: 1
+	Query: "genus: Sylvilagus floridanus" ; Times: 1
+	Query: "peromyscus evides" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "vntype:specimen specificepithet:europaeus genus:Erinaceus" ; Times: 1
+
+
+End of report.
