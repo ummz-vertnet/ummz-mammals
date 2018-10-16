@@ -1,0 +1,1289 @@
+Report for Institution Code UMMZ, Resource ummz_mammals
+Usage stats for April 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1760
+Number of records retrieved in searches: 38010
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 23
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Mexico ; Times: 37
+	Country: Unknown ; Times: 21
+	Country: Finland ; Times: 3
+	Country: Singapore ; Times: 1
+	Country: South Africa ; Times: 1
+	Country: United Kingdom ; Times: 60
+	Country: Belgium ; Times: 4
+	Country: China ; Times: 4
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Paraguay ; Times: 13
+	Country: Germany ; Times: 7
+	Country: Argentina ; Times: 7
+	Country: France ; Times: 45
+	Country: United States ; Times: 1519
+	Country: Russia ; Times: 6
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-29 ; Times: 17
+	Date: 2018-04-28 ; Times: 8
+	Date: 2018-04-23 ; Times: 465
+	Date: 2018-04-22 ; Times: 13
+	Date: 2018-04-21 ; Times: 56
+	Date: 2018-04-20 ; Times: 24
+	Date: 2018-04-27 ; Times: 57
+	Date: 2018-04-26 ; Times: 33
+	Date: 2018-04-25 ; Times: 41
+	Date: 2018-04-24 ; Times: 209
+	Date: 2018-04-01 ; Times: 59
+	Date: 2018-04-03 ; Times: 44
+	Date: 2018-04-02 ; Times: 36
+	Date: 2018-04-05 ; Times: 74
+	Date: 2018-04-04 ; Times: 34
+	Date: 2018-04-07 ; Times: 11
+	Date: 2018-04-06 ; Times: 29
+	Date: 2018-04-09 ; Times: 66
+	Date: 2018-04-08 ; Times: 29
+	Date: 2018-04-16 ; Times: 25
+	Date: 2018-04-12 ; Times: 48
+	Date: 2018-04-13 ; Times: 63
+	Date: 2018-04-10 ; Times: 29
+	Date: 2018-04-11 ; Times: 44
+	Date: 2018-04-30 ; Times: 6
+	Date: 2018-04-17 ; Times: 109
+	Date: 2018-04-14 ; Times: 8
+	Date: 2018-04-15 ; Times: 22
+	Date: 2018-04-18 ; Times: 37
+	Date: 2018-04-19 ; Times: 64
+
+List of queries that retrieved data from the resource: 
+	Query: "Ummz 157201" ; Times: 1
+	Query: "genus:Cynomys specificepithet:leucurus mappable:1" ; Times: 1
+	Query: "genus:Erinaceus" ; Times: 1
+	Query: "Acatlan" ; Times: 2
+	Query: "genus:Dasyprocta specificepithet:punctata mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:pacificus mappable:1" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:rodriguezi mappable:1" ; Times: 1
+	Query: "324 Dipodomys" ; Times: 1
+	Query: "Alouatta palliata mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:mayensis mappable:1" ; Times: 1
+	Query: "specificepithet:gossypinus genus:Peromyscus" ; Times: 4
+	Query: "Holochilus" ; Times: 3
+	Query: "genus:Zapus specificepithet:trinotatus mappable:1" ; Times: 2
+	Query: "genus:Neusticomys specificepithet:monticolus mappable:1" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(42.581399679665054,-118.487548828125))&lt;26162" ; Times: 2
+	Query: "Tlacuatzin canescens" ; Times: 1
+	Query: "genus:gorilla preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "Cryptotis nigrescens mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:dispar mappable:1" ; Times: 2
+	Query: "university of puget sound" ; Times: 1
+	Query: "genus:Conepatus specificepithet:chinga mappable:1" ; Times: 1
+	Query: "genus:Myoprocta specificepithet:acouchy mappable:1" ; Times: 1
+	Query: "genus:Cryptotis specificepithet:goldmani mappable:1" ; Times: 1
+	Query: "family:Cyclopedidae preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "genus:tamiasciurus stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Microtus specificepithet:breweri mappable:1" ; Times: 1
+	Query: "vntype:specimen family:Nycteridae preparations:fluid enddayofyear &lt;= 2000" ; Times: 1
+	Query: "genus:Baiomys specificepithet:musculus mappable:1" ; Times: 1
+	Query: "genus:Geomys specificepithet:personatus mappable:1" ; Times: 1
+	Query: "genus:Scotinomys specificepithet:xerampelinus mappable:1" ; Times: 2
+	Query: "UMMZ 47996" ; Times: 2
+	Query: "genus:Thomasomys specificepithet:hylophilus mappable:1" ; Times: 2
+	Query: "genus:Choloepus specificepithet:hoffmanni mappable:1" ; Times: 1
+	Query: "genus:Gorilla preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Ecuador)" ; Times: 1
+	Query: "genus:ovibos" ; Times: 1
+	Query: "genus:Neotomodon specificepithet:alstoni mappable:1" ; Times: 1
+	Query: "genus:Caluromys specificepithet:derbianus mappable:1" ; Times: 1
+	Query: "320 Dipodomys" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:eva mappable:1" ; Times: 1
+	Query: "tremarctos ornatus" ; Times: 2
+	Query: "genus:Heteromys specificepithet:nelsoni mappable:1" ; Times: 2
+	Query: "genus:Handleyomys specificepithet:melanotis mappable:1" ; Times: 2
+	Query: "specificepithet:beecheyi genus:Spermophilus" ; Times: 16
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1900" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhipidomys latimanus " ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;michigan&#34; year &gt;= 1900 year &lt;= 1940 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:(princeps OR collaris) genus:ochotona year&gt;=1916 year&lt;=1920" ; Times: 53
+	Query: "genus:Monodelphis specificepithet:domestica mappable:1" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018 institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "genus:Phyllotis specificepithet:andium mappable:1" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 2
+	Query: "genus:alces stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:sumichrasti mappable:1" ; Times: 1
+	Query: "Peromyscus yucatanicus mappable:1" ; Times: 1
+	Query: "genus:Hydrochoerus specificepithet:hydrochaeris mappable:1" ; Times: 1
+	Query: "genus:Calomys specificepithet:callosus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys cinnameus " ; Times: 7
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Tylomys watsoni mappable:1" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Tamias specificepithet:alpinus mappable:1" ; Times: 2
+	Query: "genus:Scapanus specificepithet:orarius mappable:1" ; Times: 3
+	Query: "genus:Tolypeutes specificepithet:matacus mappable:1" ; Times: 2
+	Query: "genus:Rheomys specificepithet:underwoodi mappable:1" ; Times: 1
+	Query: "75314" ; Times: 1
+	Query: "Melanomys caliginosus mappable:1" ; Times: 1
+	Query: "hankinson" ; Times: 1
+	Query: "genus:Ovibos preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:leucopus genus:Peromyscus" ; Times: 1
+	Query: "143527" ; Times: 1
+	Query: "87143" ; Times: 1
+	Query: "Myotis leibii" ; Times: 5
+	Query: "order:rodentia stateprovince:&#34;michigan&#34; year &gt;= 1910 year &lt;= 1940 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Eira specificepithet:barbara mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:merriami mappable:1" ; Times: 2
+	Query: "genus:Oryx preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "Sciurus deppei mappable:1" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "specificepithet:tarandus caribou genus:Rangifer mappable:1" ; Times: 1
+	Query: "genus:Elephas institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Oligoryzomys specificepithet:fornesi mappable:1" ; Times: 1
+	Query: "113300" ; Times: 1
+	Query: "genus:Akodon specificepithet:bogotensis mappable:1" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:gracilis mappable:1" ; Times: 2
+	Query: "genus:Graomys specificepithet:domorum mappable:1" ; Times: 1
+	Query: "iowa Myotis lucifugus" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:bachmani mappable:1" ; Times: 2
+	Query: "UMMZ 167703" ; Times: 1
+	Query: "genus:Cratogeomys specificepithet:merriami mappable:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:phenax mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:richardsoni mappable:1" ; Times: 1
+	Query: "genus:Leopardus specificepithet:pardalis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Sylvilagus andinus " ; Times: 2
+	Query: "Marmota flaviventris" ; Times: 1
+	Query: "Bassariscus sumichrasti mappable:1" ; Times: 1
+	Query: "genus:didelphis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "genus:Potos specificepithet:flavus mappable:1" ; Times: 1
+	Query: "B-27251" ; Times: 1
+	Query: "mephitis mephitis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Plecotus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 2
+	Query: "genus:Callicebus specificepithet:moloch mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1850 year &lt;= 1870" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:spilosoma mappable:1" ; Times: 2
+	Query: "specificepithet:dorsatum genus:Erethizon" ; Times: 5
+	Query: "genus:Thomasomys specificepithet:taczanowskii mappable:1" ; Times: 2
+	Query: "genus:Sorex specificepithet:arcticus mappable:1" ; Times: 2
+	Query: "genus:Abrothrix specificepithet:olivaceus mappable:1" ; Times: 1
+	Query: "genus:lepus stateprovince:&#34;michigan&#34; year &gt;= 1910 year &lt;= 1940 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Tayassu specificepithet:pecari mappable:1" ; Times: 2
+	Query: "specificepithet:douglasii genus:tamiasciurus" ; Times: 1
+	Query: "UMMZ 109343" ; Times: 1
+	Query: "genus:Bison preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Bahia&#34; country:&#34;Brazil&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Cryptotis specificepithet:gracilis mappable:1" ; Times: 1
+	Query: "genus:Rheomys specificepithet:thomasi mappable:1" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "genus:Cryptotis specificepithet:thomasi mappable:1" ; Times: 1
+	Query: "genus:Lontra specificepithet:canadensis mappable:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:chrysopsis mappable:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:stephensi mappable:1" ; Times: 1
+	Query: "Molossus sinaloae mappable:1" ; Times: 1
+	Query: "genus:Procyon specificepithet:cancrivorus mappable:1" ; Times: 3
+	Query: "Thomasomys baeops ecuador" ; Times: 1
+	Query: "genus:Akodon specificepithet:cursor mappable:1" ; Times: 1
+	Query: "preparations:skeleton institutioncode:UMMZ" ; Times: 3
+	Query: "genus:didelphis stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Heteromys specificepithet:desmarestianus mappable:1" ; Times: 2
+	Query: "genus:Graomys specificepithet:griseoflavus mappable:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "kurta" ; Times: 2
+	Query: "genus:Necromys specificepithet:lenguarum mappable:1" ; Times: 1
+	Query: "perognathus longimembris stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "Platyrrhinus lineatus" ; Times: 17
+	Query: "Calomyscus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.293564192170095,-117.861328125))&lt;100000" ; Times: 1
+	Query: "scientificname:Panthera onca " ; Times: 17
+	Query: "specificepithet:tarandus caribou genus:Rangifer" ; Times: 1
+	Query: "genus:Oxymycterus specificepithet:paramensis mappable:1" ; Times: 1
+	Query: "genus:Alouatta specificepithet:belzebul mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Metachirus nudicaudatus " ; Times: 1
+	Query: "perognathus flavus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:alces preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "176468" ; Times: 1
+	Query: "genus:Cyclopes specificepithet:didactylus mappable:1" ; Times: 1
+	Query: "microtus mexicanus stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "rhogeessa major" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Peru)" ; Times: 1
+	Query: "genus:Conepatus specificepithet:leuconotus mappable:1" ; Times: 1
+	Query: "genus:Cerdocyon specificepithet:thous mappable:1" ; Times: 1
+	Query: "Sciurus variegatoides mappable:1" ; Times: 1
+	Query: "genus:Cervus specificepithet:canadensis mappable:1" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:caudivarius mappable:1" ; Times: 2
+	Query: "genus:Gracilinanus specificepithet:aceramarcae mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:Artibeus country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "genus:Nephelomys specificepithet:keaysi mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys taczanowskii " ; Times: 4
+	Query: "genus:Rhipidomys specificepithet:venezuelae mappable:1" ; Times: 1
+	Query: "genus:Saguinus specificepithet:graellsi mappable:1" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Colombia )" ; Times: 1
+	Query: "specificepithet:etruscus genus:suncus continent:africa" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:brevirostris mappable:1" ; Times: 1
+	Query: "13989" ; Times: 1
+	Query: "genus:Tylomys specificepithet:watsoni mappable:1" ; Times: 2
+	Query: "catalognumber:176387 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 1861 year &lt;= 1880" ; Times: 1
+	Query: "Oecomys bicolor mappable:1" ; Times: 2
+	Query: "366 Dipodomys" ; Times: 1
+	Query: "catalognumber:98212" ; Times: 2
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 1 month &lt;= 2" ; Times: 3
+	Query: "genus:Bassaricyon specificepithet:gabbii mappable:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; year &gt;= 2005 year &lt;= 2018 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:levipes mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:townsendii mappable:1" ; Times: 1
+	Query: "Canis lupus nubilus" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1940 year &lt;= 1949" ; Times: 1
+	Query: "genus:Nephelomys specificepithet:meridensis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes convelatus " ; Times: 1
+	Query: "Leopardus pajeros" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "genus:Lama specificepithet:guanicoe mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Oligoryzomys spodiurus " ; Times: 1
+	Query: "genus:Antilocapra specificepithet:americana mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(47.12999,-99.25055))&lt;50000" ; Times: 1
+	Query: "genus:Cavia specificepithet:aperea mappable:1" ; Times: 1
+	Query: "46441" ; Times: 1
+	Query: "genus:Podomys specificepithet:floridanus mappable:1" ; Times: 1
+	Query: "genus:Akodon specificepithet:subfuscus mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:melanotis mappable:1" ; Times: 1
+	Query: "genus:Chilomys specificepithet:instans mappable:1" ; Times: 1
+	Query: "genus:Holochilus specificepithet:brasiliensis mappable:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:robinsoni mappable:1" ; Times: 1
+	Query: "genus:Oecomys specificepithet:concolor mappable:1" ; Times: 1
+	Query: "genus:okapia preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Ichthyomys specificepithet:tweedii mappable:1" ; Times: 1
+	Query: "genus:Phyllotis specificepithet:amicus mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "order:artiodactyla stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:cinereus genus:Sorex stateprovince:&#34;Idaho&#34;" ; Times: 1
+	Query: "bocourti" ; Times: 1
+	Query: "2486 Dipodomys" ; Times: 1
+	Query: "genus:Proechimys specificepithet:guairae mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:melanurus mappable:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:venustus mappable:1" ; Times: 1
+	Query: "genus:Microsciurus specificepithet:alfari mappable:1" ; Times: 1
+	Query: "genus:Oecomys specificepithet:bicolor mappable:1" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:annulatus mappable:1" ; Times: 2
+	Query: "UMMZ 118621" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:variegatus mappable:1" ; Times: 2
+	Query: "genus:Pecari specificepithet:tajacu mappable:1" ; Times: 1
+	Query: "specificepithet:phocoena genus:phocoena" ; Times: 6
+	Query: "MVZ-5866" ; Times: 1
+	Query: "120009" ; Times: 1
+	Query: "UMMZ 167210" ; Times: 2
+	Query: "distance(location,geopoint(38.9664534,-95.2307167))&lt;1000" ; Times: 1
+	Query: "genus:Nasua specificepithet:nasua mappable:1" ; Times: 1
+	Query: "molaris stateprovince:&#34;oaxaca&#34;" ; Times: 1
+	Query: "specificepithet:cavator genus:orthogeomys" ; Times: 2
+	Query: "country:Ecuador scientificname:Desmodus rotundus " ; Times: 2
+	Query: "genus:Acinonyx preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:procyonoides genus:Nyctereutes year &gt;= 1941 year &lt;= 1960" ; Times: 1
+	Query: "genus:Lepus specificepithet:othus mappable:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:creper mappable:1" ; Times: 1
+	Query: "specificepithet:nigrescens genus:cryptotis" ; Times: 2
+	Query: "genus:Pappogeomys specificepithet:bulleri mappable:1" ; Times: 1
+	Query: "genus:Neotoma specificepithet:devia mappable:1" ; Times: 1
+	Query: "vulpes vulpes stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Akodon mollis " ; Times: 4
+	Query: "genus:ursus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Akodon specificepithet:varius mappable:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nigripes mappable:1" ; Times: 8
+	Query: "genus:Oligoryzomys specificepithet:nigripes mappable:1" ; Times: 1
+	Query: "genus:Oxymycterus specificepithet:roberti mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys aureus " ; Times: 1
+	Query: "genus:oryx preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:gapperi stateprovince:&#34;michigan&#34; (skin) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "Mustela year&gt;=1990 year&lt;=1992 month&gt;=1 month&lt;=12 day&gt;=1 day&lt;=31" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;michigan&#34; year &gt;= 2010 year &lt;= 2018 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:fraterculus mappable:1" ; Times: 1
+	Query: "genus:trichechus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Habromys specificepithet:lepturus mappable:1" ; Times: 2
+	Query: "genus:Orthogeomys specificepithet:hispidus mappable:1" ; Times: 1
+	Query: "genus:Cervus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "Orthogeomys grandis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Cyclopes didactylus " ; Times: 1
+	Query: "Scotinomys teguina mappable:1" ; Times: 1
+	Query: "Centurio senex mappable:1" ; Times: 1
+	Query: "genus:Leopardus specificepithet:geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:difficilis mappable:1" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia) AND NOT stateprovince:(west virginia)" ; Times: 1
+	Query: "105820" ; Times: 1
+	Query: "Reithrodontomys gracilis mappable:1" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:harrisii mappable:1" ; Times: 1
+	Query: "Ummz 167703" ; Times: 1
+	Query: "genus:Akodon specificepithet:boliviensis mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:grandis mappable:1" ; Times: 1
+	Query: "genus:Akodon specificepithet:montensis mappable:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus institutioncode:UMMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Molossus molossus " ; Times: 2
+	Query: "specificepithet:Lateralis genus:Spermophilus" ; Times: 23
+	Query: "family:Myrmecophagidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "UMMZ-147826" ; Times: 1
+	Query: "UMMZ-147825" ; Times: 1
+	Query: "genus:panthera preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "genus:hydrochoerus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Holochilus specificepithet:chacarius mappable:1" ; Times: 1
+	Query: "genus:Oligoryzomys specificepithet:fulvescens mappable:1" ; Times: 1
+	Query: "locality:Xochimilco" ; Times: 1
+	Query: "family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "class:Mammalia catalognumber:170468 institutioncode:UMMZ" ; Times: 1
+	Query: "macrotus californicus stateprovince:Arizona mappable:1" ; Times: 4
+	Query: "country:Ecuador scientificname:Nectomys apicalis " ; Times: 2
+	Query: "country:Ecuador scientificname:Cyclopes ida " ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1900 year &lt;= 1909" ; Times: 1
+	Query: "genus:Peromyscus recordnumber:10760" ; Times: 1
+	Query: "UMMZ 157862" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 3
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Cryptotis specificepithet:nigrescens mappable:1" ; Times: 1
+	Query: "Marmosa robinsoni" ; Times: 2
+	Query: "genus:Thomasomys specificepithet:paramorum mappable:1" ; Times: 2
+	Query: "genus:Nephelomys specificepithet:albigularis mappable:1" ; Times: 1
+	Query: "3754 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Caenolestes specificepithet:convelatus mappable:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:gracilis mappable:1" ; Times: 1
+	Query: "idionycteris phyllotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "class:Mammalia distance(location,geopoint(42.581399679665054,-118.487548828125))&lt;31155" ; Times: 3
+	Query: "lasionycteris month &gt;= 1 month &lt;= 2" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "UMMZ 85353" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "75025" ; Times: 1
+	Query: "genus:Thrichomys specificepithet:apereoides mappable:1" ; Times: 2
+	Query: "genus:Bradypus specificepithet:variegatus mappable:1" ; Times: 1
+	Query: "specificepithet:griseus genus:sciurus" ; Times: 1
+	Query: "specificepithet:borealis genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "genus:Calomys specificepithet:lepidus mappable:1" ; Times: 1
+	Query: "genus:tapirus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Panthera " ; Times: 1
+	Query: "123043" ; Times: 1
+	Query: "UMMZ 178677" ; Times: 1
+	Query: "country:Ecuador scientificname:Ateles fusciceps " ; Times: 1
+	Query: "genus:Alouatta specificepithet:palliata mappable:1" ; Times: 1
+	Query: "genus:Dicrostonyx specificepithet:nelsoni mappable:1" ; Times: 1
+	Query: "Sorex veraepacis mappable:1" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(42.581399679665054,-118.487548828125))&lt;31155.09182980977" ; Times: 1
+	Query: "Pentalagus" ; Times: 1
+	Query: "genus:Sciurus specificepithet:granatensis mappable:1" ; Times: 2
+	Query: "order:rodentia stateprovince:&#34;michigan&#34; year &gt;= 1910 year &lt;= 1940" ; Times: 1
+	Query: "genus:Ursus preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "country:Ecuador scientificname:Conepatus semistriatus " ; Times: 1
+	Query: "Hyaena brunnea" ; Times: 2
+	Query: "zapus trinotatus" ; Times: 2
+	Query: "specificepithet:taxus genus:Taxidea" ; Times: 4
+	Query: "country:Ecuador scientificname:Anotomys leander " ; Times: 1
+	Query: "Conepatus leuconotus mappable:1" ; Times: 1
+	Query: "bear preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "genus:Bassariscus specificepithet:astutus mappable:1" ; Times: 1
+	Query: "lepus alleni stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Phloeomys cumingi" ; Times: 1
+	Query: "genus:Neotomys specificepithet:ebriosus mappable:1" ; Times: 1
+	Query: "genus:Neacomys specificepithet:guianae mappable:1" ; Times: 1
+	Query: "Heteromys australis mappable:1" ; Times: 2
+	Query: "UMMZ 103304" ; Times: 1
+	Query: "genus:Akodon specificepithet:torques mappable:1" ; Times: 1
+	Query: "101256" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:artus mappable:1" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "genus:Aotus specificepithet:trivirgatus mappable:1" ; Times: 1
+	Query: "genus:Ateles specificepithet:geoffroyi mappable:1" ; Times: 1
+	Query: "family:Cebidae preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Sorex specificepithet:longirostris mappable:1" ; Times: 2
+	Query: "UMMZ 124067" ; Times: 1
+	Query: "genus:Akodon specificepithet:simulator mappable:1" ; Times: 1
+	Query: "genus:Handleyomys specificepithet:saturatior mappable:1" ; Times: 2
+	Query: "genus:Tylomys specificepithet:nudicaudus mappable:1" ; Times: 2
+	Query: "genus:Hoplomys specificepithet:gymnurus mappable:1" ; Times: 1
+	Query: "Dicrostonyx hudsonius mappable:1" ; Times: 1
+	Query: "genus:Cratogeomys specificepithet:castanops mappable:1" ; Times: 1
+	Query: "genus:Dasypus family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:trachops " ; Times: 1
+	Query: "genus:Ichthyomys specificepithet:hydrobates mappable:1" ; Times: 1
+	Query: "genus:Camelus preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:yucatanicus mappable:1" ; Times: 1
+	Query: "catalognumber:106087" ; Times: 1
+	Query: "Proechimys semispinosus mappable:1" ; Times: 1
+	Query: "genus:Ovis specificepithet:canadensis mappable:1" ; Times: 1
+	Query: "genus:mus country:&#34;canada&#34;" ; Times: 3
+	Query: "genus:Peromyscus specificepithet:guatemalensis mappable:1" ; Times: 1
+	Query: "Sus scrofa" ; Times: 2
+	Query: "catalognumber:91574 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ 63506" ; Times: 1
+	Query: "genus:bison preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys paramorum " ; Times: 4
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:phocoena genus:Phocoena" ; Times: 4
+	Query: "genus:vulpes preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys semispinosus " ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1881 year &lt;= 1900" ; Times: 1
+	Query: "dipodomys spectabilis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "UMMZ 170522" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "UMMZ 121217" ; Times: 1
+	Query: "genus:Vulpes preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Rhipidomys specificepithet:fulviventer mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:merriami mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:spicilegus mappable:1" ; Times: 1
+	Query: "genus:sciurotamias institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Marmosa specificepithet:mexicana mappable:1" ; Times: 1
+	Query: "genus:Galictis specificepithet:cuja mappable:1" ; Times: 1
+	Query: "genus:Leopardus specificepithet:wiedii mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:ignitus mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Proechimys brevicauda " ; Times: 1
+	Query: "Marmosa mexicana mappable:1" ; Times: 1
+	Query: "genus:Orthogeomys specificepithet:cavator mappable:1" ; Times: 1
+	Query: "genus:Microryzomys specificepithet:minutus mappable:1" ; Times: 1
+	Query: "111267" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:(venustus) mappable:1" ; Times: 1
+	Query: "genus:Caenolestes specificepithet:caniventer mappable:1" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; country:&#34;United States&#34; Ursus americanus" ; Times: 1
+	Query: "tadarida brasiliensis stateprovince:Arizona mappable:1" ; Times: 3
+	Query: "genus:acinonyx jubatus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ 173767" ; Times: 1
+	Query: "genus:Arborimus specificepithet:longicaudus mappable:1" ; Times: 1
+	Query: "UMMZ 173768" ; Times: 1
+	Query: "distance(location,geopoint(47.15909,-99.11388))&lt;50000" ; Times: 1
+	Query: "genus:Sciurus specificepithet:alleni mappable:1" ; Times: 2
+	Query: "Ummz 176891" ; Times: 2
+	Query: "specificepithet:Lateralis genus:spermophilus mappable:1" ; Times: 7
+	Query: "catalognumber:59787 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:113396 institutioncode:UMMZ" ; Times: 3
+	Query: "genus:Puma specificepithet:concolor mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Lagothrix lagotricha " ; Times: 1
+	Query: "genus:Lutreolina specificepithet:crassicaudata mappable:1" ; Times: 1
+	Query: "Desmana moschata" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "genus:Geomys specificepithet:breviceps mappable:1" ; Times: 1
+	Query: "myotis velifer stateprovince:Arizona mappable:1" ; Times: 7
+	Query: "genus:Dasypus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Tolypeutes family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 3
+	Query: "genus:Sylvilagus specificepithet:transitionalis mappable:1" ; Times: 2
+	Query: "peromyscus nasutus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Spermophilus specificepithet:adocetus mappable:1" ; Times: 2
+	Query: "Leopardus tigrinus" ; Times: 2
+	Query: "genus:Didelphis specificepithet:pernigra mappable:1" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1960 year &lt;= 1995" ; Times: 1
+	Query: "country:Ecuador scientificname:Saccopteryx bilineata " ; Times: 1
+	Query: "Myotis simus" ; Times: 6
+	Query: "UMMZ 102448" ; Times: 1
+	Query: "specificepithet:xerampelinus genus:scotinomys" ; Times: 5
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1870 year &lt;= 1890" ; Times: 1
+	Query: "10019" ; Times: 1
+	Query: "DM-54 institutioncode:UMMZ" ; Times: 1
+	Query: "Mephitis macroura mappable:1" ; Times: 2
+	Query: "specificepithet:bachmani genus:Sylvilagus" ; Times: 11
+	Query: "genus:Dipodomys specificepithet:stephensi mappable:1" ; Times: 1
+	Query: "Pentalagus furnessi" ; Times: 1
+	Query: "country:Ecuador scientificname:Chironectes minimus " ; Times: 1
+	Query: "genus:Bassariscus specificepithet:sumichrasti mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:saussurei mappable:1" ; Times: 2
+	Query: "Tlacuatzin canescens mappable:1" ; Times: 1
+	Query: "genus:equus preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:57698 institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:robustus mappable:1" ; Times: 2
+	Query: "Sylvilagus vntype:specimen (Paraguay)" ; Times: 1
+	Query: "genus:Microryzomys specificepithet:altissimus mappable:1" ; Times: 1
+	Query: "catalognumber:147822 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:graysoni mappable:1" ; Times: 2
+	Query: "genus:Tolypeutes preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:montanus mappable:1" ; Times: 1
+	Query: "catalognumber:89907" ; Times: 1
+	Query: "Pentalagus vntype:specimen" ; Times: 1
+	Query: "thomomys umbrinus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Handleyomys specificepithet:alfaroi mappable:1" ; Times: 2
+	Query: "genus:Handleyomys specificepithet:chapmani mappable:1" ; Times: 2
+	Query: "UMMZ 102199" ; Times: 1
+	Query: "family:Soricidae country:&#34;egypt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Orthogeomys specificepithet:grandis mappable:1" ; Times: 1
+	Query: "genus:Phenacomys specificepithet:intermedius mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aberti mappable:1" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:hirsutus mappable:1" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:cinnameus mappable:1" ; Times: 2
+	Query: "country:&#34;Benin&#34;" ; Times: 1
+	Query: "genus:Sciurus specificepithet:igniventris mappable:1" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; year &gt;= 2010 year &lt;= 2018 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:guardia mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:62122 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Mammalia catalognumber:60533 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ 130420" ; Times: 2
+	Query: "caracal caracal mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:cinereicollis mappable:1" ; Times: 2
+	Query: "specificepithet:thous genus:Cerdocyon year &gt;= 1961 year &lt;= 1980" ; Times: 1
+	Query: "genus:Canis specificepithet:rufus mappable:1" ; Times: 1
+	Query: "jaculus turcmenicus" ; Times: 2
+	Query: "genus:camelus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Oreamnos specificepithet:americanus mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:63138 institutioncode:UMMZ" ; Times: 1
+	Query: "microsciurus" ; Times: 13
+	Query: "genus:Tremarctos specificepithet:ornatus mappable:1" ; Times: 2
+	Query: "genus:Tamias specificepithet:ruficaudus mappable:1" ; Times: 2
+	Query: "genus:Ovis preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Ovis specificepithet:dalli mappable:1" ; Times: 1
+	Query: "Sciurus yucatanensis mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "family:Didelphidae locality:Rio Siquia country:&#34;Nicaragua&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:rhoadsi mappable:1" ; Times: 2
+	Query: "country:Ecuador genus:trachops " ; Times: 1
+	Query: "genus:Proechimys specificepithet:decumanus mappable:1" ; Times: 2
+	Query: "genus:Zygogeomys specificepithet:trichopus mappable:1" ; Times: 2
+	Query: "genus:Hylaeamys specificepithet:megacephalus mappable:1" ; Times: 1
+	Query: "genus:Dasypus specificepithet:novemcinctus mappable:1" ; Times: 1
+	Query: "genus:Didelphis specificepithet:albiventris mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:97982 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "ummz 157852" ; Times: 1
+	Query: "Ummz 157852" ; Times: 1
+	Query: "Myotis keaysi" ; Times: 6
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1910 year &lt;= 1919" ; Times: 1
+	Query: "sturnira tildae" ; Times: 2
+	Query: "Zaedyus pichiy" ; Times: 22
+	Query: "tamias sibiricus" ; Times: 4
+	Query: "68904" ; Times: 1
+	Query: "genus:Dinomys specificepithet:branickii mappable:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;lake&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "UMMZ 124721" ; Times: 1
+	Query: "genus:Marmosops specificepithet:impavidus mappable:1" ; Times: 1
+	Query: "genus:Necromys specificepithet:lasiurus mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aureogaster mappable:1" ; Times: 2
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "genus:Neotoma specificepithet:angustapalata mappable:1" ; Times: 1
+	Query: "bubalus bubalis" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus locality:alamogordo stateprovince:&#34;new mexico&#34; country:&#34;United States&#34; mappable:1 hastissue:1" ; Times: 1
+	Query: "genus:Nectomys specificepithet:squamipes mappable:1" ; Times: 1
+	Query: "UMMZ 168362" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 5
+	Query: "gbifdatasetid:6d2cfc0a-9903-40b8-802b-403398218e4a" ; Times: 5
+	Query: "Leopardus wiedii" ; Times: 2
+	Query: "Caracal caracal mappable:1" ; Times: 1
+	Query: "Cebus capucinus mappable:1" ; Times: 1
+	Query: "microtus montanus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "sigmodon hispidus eremicus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:97532 institutioncode:UMMZ" ; Times: 3
+	Query: "Panthera pardus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Philander andersoni " ; Times: 1
+	Query: "genus:Alouatta specificepithet:caraya mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Cebus capucinus " ; Times: 1
+	Query: "genus:Thomasomys specificepithet:erro mappable:1" ; Times: 2
+	Query: "104565" ; Times: 1
+	Query: "genus:Sciurus specificepithet:yucatanensis mappable:1" ; Times: 2
+	Query: "Leopardus pardalis mappable:1" ; Times: 1
+	Query: "genus:Mazama specificepithet:rufina mappable:1" ; Times: 2
+	Query: "genus:Akodon specificepithet:spegazzinii mappable:1" ; Times: 1
+	Query: "genus:Akodon specificepithet:fumeus mappable:1" ; Times: 1
+	Query: "genus:Mindomys specificepithet:hammondi mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:canicaudus mappable:1" ; Times: 1
+	Query: "catalognumber:118751 institutioncode:UMMZ" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "catagonus wagneri" ; Times: 1
+	Query: "genus:Sorex specificepithet:bendirii mappable:1" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;paraguay&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "UMMZ 157164" ; Times: 1
+	Query: "genus:Tamias specificepithet:rufus mappable:1" ; Times: 2
+	Query: "genus:Andinomys specificepithet:edax mappable:1" ; Times: 1
+	Query: "genus:Oxymycterus specificepithet:delator mappable:1" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Bolivia)" ; Times: 1
+	Query: "country:Ecuador scientificname:Neusticomys monticolus " ; Times: 2
+	Query: "order:artiodactyla stateprovince:&#34;michigan&#34; year &gt;= 1900 year &lt;= 1940 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:fulviventer mappable:1" ; Times: 2
+	Query: "genus:Tapirus specificepithet:bairdii mappable:1" ; Times: 2
+	Query: "genus:Akodon specificepithet:toba mappable:1" ; Times: 1
+	Query: "genus:Caenolestes " ; Times: 2
+	Query: "genus:Parascalops specificepithet:breweri mappable:1" ; Times: 1
+	Query: "genus:Tlacuatzin specificepithet:canescens mappable:1" ; Times: 2
+	Query: "genus:Thylamys specificepithet:sponsorius mappable:1" ; Times: 2
+	Query: "genus:Akodon specificepithet:mollis mappable:1" ; Times: 1
+	Query: "tamiasciurus hudsonicus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Oecomys superans " ; Times: 4
+	Query: "genus:Proechimys specificepithet:brevicauda mappable:1" ; Times: 2
+	Query: "genus:Lemmiscus specificepithet:curtatus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Mazama gualea " ; Times: 2
+	Query: "29110" ; Times: 1
+	Query: "genus:Sorex specificepithet:hoyi mappable:1" ; Times: 2
+	Query: "Orthogeomys hispidus mappable:1" ; Times: 1
+	Query: "genus:Notiosorex specificepithet:crawfordi mappable:1" ; Times: 1
+	Query: "specificepithet:nigrescens genus:cryptotis country:&#34;costa rica&#34;" ; Times: 1
+	Query: "cynomys gunnisoni stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:brasiliensis mappable:1" ; Times: 2
+	Query: "genus:Liomys specificepithet:irroratus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(47.12823,-99.24136))&lt;50000" ; Times: 2
+	Query: "genus:Thomasomys specificepithet:aureus mappable:1" ; Times: 2
+	Query: "Marmosa mexicana" ; Times: 1
+	Query: "iowa Eptesicus" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:alleni mappable:1" ; Times: 2
+	Query: "genus:Sorex stateprovince:&#34;Idaho&#34;" ; Times: 2
+	Query: "Lasiurus intermedius mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus fraterculus " ; Times: 3
+	Query: "specificepithet:reevesi genus:Muntiacus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Microsciurus simonsi " ; Times: 2
+	Query: "class:Mammalia catalognumber:99305 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Calomys specificepithet:fecundus mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:157862 institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:67971 institutioncode:UMMZ" ; Times: 1
+	Query: "eastern michigan university" ; Times: 1
+	Query: "genus:Cebus specificepithet:albifrons mappable:1" ; Times: 1
+	Query: "genus:Abrocoma specificepithet:cinerea mappable:1" ; Times: 16
+	Query: "genus:Sorex specificepithet:haydeni mappable:1" ; Times: 2
+	Query: "specificepithet:thous genus:Cerdocyon year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "specificepithet:virginianus texanus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "family:Nycteridae preparations:fluid" ; Times: 1
+	Query: "class:Mammalia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.16340342422401,-117.94921875))&lt;71900" ; Times: 1
+	Query: "country:Ecuador scientificname:Artibeus lituratus " ; Times: 1
+	Query: "genus:Sigmodon specificepithet:mascotensis mappable:1" ; Times: 2
+	Query: "genus:Oligoryzomys specificepithet:chacoensis mappable:1" ; Times: 1
+	Query: "genus:Lepus specificepithet:arcticus mappable:1" ; Times: 1
+	Query: "genus:mustela specificepithet:nigripes" ; Times: 6
+	Query: "genus:Clyomys specificepithet:laticeps mappable:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:pernix mappable:1" ; Times: 1
+	Query: "genus:Dactylomys specificepithet:boliviensis mappable:1" ; Times: 1
+	Query: "genus:Marmosops specificepithet:parvidens mappable:1" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;michigan&#34; (skin) year &gt;= 2000 year &lt;= 2018" ; Times: 2
+	Query: "genus:Oligoryzomys specificepithet:magellanicus mappable:1" ; Times: 1
+	Query: "Neotoma fuscipes county:&#34;santa cruz&#34;" ; Times: 1
+	Query: "genus:Euphractus family:Dasypodidae country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "genus:Conepatus specificepithet:semistriatus mappable:1" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:notatus mappable:1" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; (skin) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "genus:Myrmecophaga specificepithet:tridactyla mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Tremarctos ornatus " ; Times: 2
+	Query: "parnell" ; Times: 3
+	Query: "genus:Caluromys specificepithet:lanatus mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 4
+	Query: "genus:Pan preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Bradypus specificepithet:tridactylus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Caenolestes fuliginosus " ; Times: 1
+	Query: "genus:Catagonus specificepithet:wagneri mappable:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 6
+	Query: "genus:Sigmodon specificepithet:ochrognathus mappable:1" ; Times: 2
+	Query: "genus:Pseudoryzomys specificepithet:simplex mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:hooperi mappable:1" ; Times: 1
+	Query: "specificepithet:creper genus:reithrodontomys" ; Times: 7
+	Query: "sigmodon hispidus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Akodon specificepithet:albiventer mappable:1" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "specificepithet:polionotus genus:Peromyscus" ; Times: 5
+	Query: "Thomasomys cinnameus" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:stephani mappable:1" ; Times: 1
+	Query: "3777 institutioncode:UMMZ" ; Times: 1
+	Query: "iowa lasiurus cinereus" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:furvus mappable:1" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 1
+	Query: "genus:Cryptotis specificepithet:mexicana mappable:1" ; Times: 1
+	Query: "genus:Neofiber specificepithet:alleni mappable:1" ; Times: 1
+	Query: "genus:Dicrostonyx specificepithet:hudsonius mappable:1" ; Times: 1
+	Query: "UMMZ 177280" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:beecheyi mappable:1" ; Times: 2
+	Query: "genus:Mephitis specificepithet:macroura mappable:1" ; Times: 1
+	Query: "catalognumber:85279 institutioncode:UMMZ" ; Times: 2
+	Query: "class:Mammalia catalognumber:102199 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Tapirus specificepithet:terrestris mappable:1" ; Times: 2
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Otero&#34; stateprovince:&#34;New Mexico&#34; country:&#34;United States&#34; continent:North America mappable:1 hastissue:1" ; Times: 1
+	Query: "specificepithet:canadensis genus:Cervus mappable:1" ; Times: 1
+	Query: "genus:Didelphis specificepithet:aurita mappable:1" ; Times: 1
+	Query: "UMMZ 157201" ; Times: 1
+	Query: "specificepithet:gouazoubira genus:Mazama mappable:1" ; Times: 1
+	Query: "genus:Dicrostonyx specificepithet:richardsoni mappable:1" ; Times: 1
+	Query: "UMMZ 60533" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:obscurus mappable:1" ; Times: 2
+	Query: "genus:Cryptotis specificepithet:goodwini mappable:1" ; Times: 1
+	Query: "genus:Oxymycterus specificepithet:inca mappable:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:rubra mappable:1" ; Times: 1
+	Query: "Eumops underwoodi mappable:1" ; Times: 2
+	Query: "mammalia (marthas vineyard)" ; Times: 1
+	Query: "genus:Didelphis specificepithet:marsupialis mappable:1" ; Times: 1
+	Query: "genus:Habromys specificepithet:lophurus mappable:1" ; Times: 2
+	Query: "UMMZ 176891" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys baeops " ; Times: 5
+	Query: "UMMZ 157850" ; Times: 2
+	Query: "genus:panthera tigris preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Thomomys specificepithet:mazama mappable:1" ; Times: 2
+	Query: "genus:Cynomys specificepithet:ludovicianus mappable:1" ; Times: 1
+	Query: "Microtus guatemalensis mappable:1" ; Times: 1
+	Query: "genus:Ctenomys specificepithet:conoveri mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "microtus longicaudus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:megalops mappable:1" ; Times: 1
+	Query: "genus:Aplodontia specificepithet:rufa mappable:1" ; Times: 1
+	Query: "16232" ; Times: 1
+	Query: "genus:Tamandua specificepithet:tetradactyla mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:winkelmanni mappable:1" ; Times: 1
+	Query: "genus:Alouatta specificepithet:seniculus mappable:1" ; Times: 1
+	Query: "Galictis vittata mappable:1" ; Times: 1
+	Query: "genus:Pithecia specificepithet:monachus mappable:1" ; Times: 1
+	Query: "genus:Geomys specificepithet:arenarius mappable:1" ; Times: 1
+	Query: "Reithrodontomys brevirostris mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:114227 institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ 75505" ; Times: 1
+	Query: "UMMZ 124691" ; Times: 1
+	Query: "specificepithet:Americana genus:Mazama mappable:1" ; Times: 1
+	Query: "Tamandua mexicana mappable:1" ; Times: 3
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1861 year &lt;= 1880" ; Times: 1
+	Query: "genus:Akodon specificepithet:mimus mappable:1" ; Times: 1
+	Query: "genus:Okapia preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Oligoryzomys specificepithet:destructor mappable:1" ; Times: 1
+	Query: "genus:Cebus specificepithet:capucinus mappable:1" ; Times: 1
+	Query: "specificepithet:thous genus:Cerdocyon year &gt;= 1921 year &lt;= 1940" ; Times: 1
+	Query: "specificepithet:musculus genus:mus continent:africa" ; Times: 1
+	Query: "genus:Dasyprocta specificepithet:leporina mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:colliaei mappable:1" ; Times: 2
+	Query: "genus:Philander specificepithet:andersoni mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:aztecus mappable:1" ; Times: 1
+	Query: "Rheomys underwoodi mappable:1" ; Times: 1
+	Query: "genus:Heteromys specificepithet:australis mappable:1" ; Times: 2
+	Query: "beagle canis familiaris" ; Times: 1
+	Query: "genus:Holochilus specificepithet:sciureus mappable:1" ; Times: 1
+	Query: "reithrodontomys rodriguezi" ; Times: 1
+	Query: "genus:Orthogeomys specificepithet:heterodus mappable:1" ; Times: 1
+	Query: "genus:Proechimys specificepithet:guyannensis mappable:1" ; Times: 2
+	Query: "genus:Andalgalomys specificepithet:pearsoni mappable:1" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:oreas mappable:1" ; Times: 2
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;puerto rico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:crocidura country:&#34;egypt&#34; institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Felis margarita mappable:1" ; Times: 1
+	Query: "genus:Sciurus specificepithet:variegatoides mappable:1" ; Times: 2
+	Query: "specificepithet:underwoodi genus:rheomys" ; Times: 8
+	Query: "genus:Sorex specificepithet:veraepacis mappable:1" ; Times: 2
+	Query: "UMMZ 104504" ; Times: 1
+	Query: "UMMZ 119529" ; Times: 1
+	Query: "specificepithet:gracilis genus:cryptotis" ; Times: 5
+	Query: "specificepithet:macrotis genus:Vulpes year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "Microsciurus alfari mappable:1" ; Times: 1
+	Query: "Eumops perotis" ; Times: 2
+	Query: "genus:Caenolestes specificepithet:fuliginosus mappable:1" ; Times: 1
+	Query: "&#34;Pteronotus davyi davyi&#34;" ; Times: 1
+	Query: "catalognumber:175882 institutioncode:UMMZ" ; Times: 1
+	Query: "Tamandua mappable:1" ; Times: 1
+	Query: "genus:ovibos preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys simonsi " ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis year &gt;= 1901 year &lt;= 1920" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:gratus mappable:1" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:ingens mappable:1" ; Times: 1
+	Query: "58831" ; Times: 1
+	Query: "artibeus aztecus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Taxidea specificepithet:taxus mappable:1" ; Times: 2
+	Query: "genus:Phyllotis specificepithet:osilae mappable:1" ; Times: 1
+	Query: "genus:lama preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "catalognumber:56889 institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Gracilinanus specificepithet:agilis mappable:1" ; Times: 1
+	Query: "Thomasomys paramorum" ; Times: 3
+	Query: "genus:Ammospermophilus specificepithet:nelsoni mappable:1" ; Times: 1
+	Query: "genus:Vulpes specificepithet:velox mappable:1" ; Times: 2
+	Query: "class:Mammalia catalognumber:93127 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Leopardus specificepithet:tigrinus mappable:1" ; Times: 1
+	Query: "tamias gunnison" ; Times: 2
+	Query: "sciurus aberti stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Chibchanomys specificepithet:trichotis mappable:1" ; Times: 1
+	Query: "genus:Nyctomys specificepithet:sumichrasti mappable:1" ; Times: 1
+	Query: "genus:Thylamys specificepithet:pallidior mappable:1" ; Times: 2
+	Query: "genus:Euryoryzomys specificepithet:nitidus mappable:1" ; Times: 1
+	Query: "genus:didelphis stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "myotis evotis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Philander specificepithet:opossum mappable:1" ; Times: 1
+	Query: "genus:Phyllotis specificepithet:darwini mappable:1" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris continent:North America month &gt;= 1 month &lt;= 3" ; Times: 2
+	Query: "10760" ; Times: 2
+	Query: "genus:Akodon specificepithet:latebricola mappable:1" ; Times: 1
+	Query: "Euphractus sexcinctus" ; Times: 22
+	Query: "catalognumber:68045 institutioncode:UMMZ" ; Times: 2
+	Query: "Tragulus napu" ; Times: 1
+	Query: "Lontra canadensis mappable:1" ; Times: 3
+	Query: "class:Mammalia catalognumber:75505 institutioncode:UMMZ" ; Times: 1
+	Query: "Myotis septentrionalis mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:103537 institutioncode:UMMZ" ; Times: 2
+	Query: "133784" ; Times: 1
+	Query: "genus:Hylaeamys specificepithet:laticeps mappable:1" ; Times: 1
+	Query: "Nyctomys sumichrasti mappable:1" ; Times: 1
+	Query: "genus:Mazama specificepithet:americana mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:simulus mappable:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:eremicus mappable:1" ; Times: 1
+	Query: "UMMZ 176275" ; Times: 1
+	Query: "genus:Sciurus specificepithet:oculatus mappable:1" ; Times: 2
+	Query: "genus:Monodelphis specificepithet:sorex mappable:1" ; Times: 1
+	Query: "tenrec" ; Times: 1
+	Query: "country:Ecuador scientificname:Thomasomys erro " ; Times: 3
+	Query: "country:Ecuador scientificname:Handleyomys alfaroi " ; Times: 4
+	Query: "(mustela nivalis OR mustela erminea)" ; Times: 2
+	Query: "catalognumber:138502 institutioncode:UMMZ" ; Times: 2
+	Query: "UMMZ 61515" ; Times: 1
+	Query: "genus:Dicrostonyx specificepithet:groenlandicus mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:chrotorrhinus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Leopardus pardalis " ; Times: 1
+	Query: "class:Mammalia county:&#34;Abbeville&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 5
+	Query: "Panthera onca mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(47.16165,-99.10656))&lt;50000" ; Times: 3
+	Query: "genus:Chaetodipus specificepithet:goldmani mappable:1" ; Times: 1
+	Query: "family:Cercopithecidae preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "mccarley" ; Times: 1
+	Query: "genus:Erethizon specificepithet:dorsatum mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:oregoni mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:gymnotis mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:senex mappable:1" ; Times: 2
+	Query: "genus:Melanomys specificepithet:caliginosus mappable:1" ; Times: 1
+	Query: "osoyoos" ; Times: 2
+	Query: "genus:Cryptotis specificepithet:phillipsii mappable:1" ; Times: 1
+	Query: "genus:Oryzomys specificepithet:couesi mappable:1" ; Times: 1
+	Query: "UMMZ 101782" ; Times: 1
+	Query: "UMMZ 157852" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "genus:Saguinus specificepithet:midas mappable:1" ; Times: 1
+	Query: "genus:Panthera specificepithet:onca mappable:1" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:baeops mappable:1" ; Times: 2
+	Query: "genus:Isthmomys specificepithet:pirrensis mappable:1" ; Times: 1
+	Query: "genus:Hippopotamus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Equus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "75309" ; Times: 1
+	Query: "genus:Osgoodomys specificepithet:banderanus mappable:1" ; Times: 1
+	Query: "MVZ 5868" ; Times: 1
+	Query: "genus:Metachirus specificepithet:nudicaudatus mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:guatemalensis mappable:1" ; Times: 1
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "specificepithet:muntjak genus:Muntiacus mappable:1" ; Times: 1
+	Query: "Sylvilagus vntype:specimen (Venezuela)" ; Times: 1
+	Query: "genus:Sciurus specificepithet:deppei mappable:1" ; Times: 2
+	Query: "class:Mammalia catalognumber:157850 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Myrmecophaga family:Myrmecophagidae country:&#34;Paraguay&#34;" ; Times: 4
+	Query: "genus:Bubalus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "UMMZ-90400" ; Times: 1
+	Query: "34929" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:mekisturus mappable:1" ; Times: 1
+	Query: "genus:Rhipidomys specificepithet:latimanus mappable:1" ; Times: 1
+	Query: "109416" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:melanophrys mappable:1" ; Times: 1
+	Query: "genus:Auliscomys specificepithet:pictus mappable:1" ; Times: 1
+	Query: "genus:Ototylomys specificepithet:phyllotis mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:sonomae mappable:1" ; Times: 2
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1840 year &lt;= 1860" ; Times: 1
+	Query: "Ummz 178426" ; Times: 1
+	Query: "genus:Ovibos specificepithet:moschatus mappable:1" ; Times: 1
+	Query: "genus:Scapteromys specificepithet:tumidus mappable:1" ; Times: 3
+	Query: "genus:Thomasomys specificepithet:daphne mappable:1" ; Times: 2
+	Query: "genus:Lepus specificepithet:alleni mappable:1" ; Times: 1
+	Query: "genus:Alouatta specificepithet:pigra mappable:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:lepida mappable:1" ; Times: 1
+	Query: "genus:Microtus specificepithet:quasiater mappable:1" ; Times: 1
+	Query: "genus:Tamandua family:Myrmecophagidae country:&#34;Paraguay&#34;" ; Times: 2
+	Query: "UMMZ 157860" ; Times: 2
+	Query: "family:Procaviidae preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "genus:odocoileus stateprovince:&#34;michigan&#34; institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Cabassous specificepithet:centralis mappable:1" ; Times: 1
+	Query: "genus:Oecomys specificepithet:mamorae mappable:1" ; Times: 1
+	Query: "Orthogeomys cavator mappable:1" ; Times: 1
+	Query: "36218" ; Times: 1
+	Query: "132507" ; Times: 1
+	Query: "genus:Marmosops specificepithet:creightoni mappable:1" ; Times: 1
+	Query: "genus:Handleyomys specificepithet:rostratus mappable:1" ; Times: 2
+	Query: "genus:Saimiri specificepithet:sciureus mappable:1" ; Times: 1
+	Query: "marmota monax massachusetts" ; Times: 1
+	Query: "genus:Sciurus specificepithet:nayaritensis mappable:1" ; Times: 2
+	Query: "29688" ; Times: 1
+	Query: "genus:Martes specificepithet:pennanti mappable:1" ; Times: 3
+	Query: "class:Mammalia catalognumber:134014 institutioncode:UMMZ" ; Times: 1
+	Query: "class:Mammalia distance(location,geopoint(42.386951440524854,-119.64385986328125))&lt;24272.24628818408" ; Times: 1
+	Query: "sciurus arizonensis stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "class:Mammalia catalognumber:112377 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:laniger mappable:1" ; Times: 2
+	Query: "specificepithet:watsoni genus:tylomys country:&#34;costa rica&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1860 year &lt;= 1869" ; Times: 1
+	Query: "akodon mimus" ; Times: 3
+	Query: "genus:Myrmecophaga preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Neotoma specificepithet:magister mappable:1" ; Times: 1
+	Query: "Ateles geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Chaetodipus specificepithet:arenarius mappable:1" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1930 year &lt;= 1939" ; Times: 1
+	Query: "specificepithet:paludinosus genus:Atilax" ; Times: 1
+	Query: "genus:Brachylagus specificepithet:idahoensis mappable:1" ; Times: 1
+	Query: "Procyon lotor institutioncode:UMMZ" ; Times: 3
+	Query: "class:Mammalia catalognumber:109343 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Ateles specificepithet:fusciceps mappable:1" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Michigan&#34; year &gt;= 1946 year &lt;= 1948" ; Times: 1
+	Query: "microtus montanus arizonensis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Chironectes specificepithet:minimus mappable:1" ; Times: 1
+	Query: "genus:Saguinus specificepithet:fuscicollis mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Dasyprocta punctata " ; Times: 1
+	Query: "Tolypeutes" ; Times: 3
+	Query: "72648" ; Times: 1
+	Query: "genus:Trichechus preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Marmosops specificepithet:incanus mappable:1" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1981 year &lt;= 2000" ; Times: 1
+	Query: "genus:Perognathus specificepithet:fasciatus mappable:1" ; Times: 1
+	Query: "UMMZ 124065" ; Times: 1
+	Query: "genus:Ammospermophilus specificepithet:interpres mappable:1" ; Times: 1
+	Query: "genus:Mustela specificepithet:nivalis mappable:1" ; Times: 1
+	Query: "mummy" ; Times: 7
+	Query: "genus:Sylvilagus specificepithet:aquaticus mappable:1" ; Times: 2
+	Query: "UMMZ 104507" ; Times: 1
+	Query: "Myotis albescens Paraguay" ; Times: 2
+	Query: "nelsonia neotomodon" ; Times: 2
+	Query: "genus:Akodon specificepithet:aerosus mappable:1" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;California&#34; continent:North America" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:leucotis mappable:1" ; Times: 2
+	Query: "genus:Sylvilagus specificepithet:palustris mappable:1" ; Times: 2
+	Query: "genus:Sciurus specificepithet:spadiceus mappable:1" ; Times: 2
+	Query: "genus:Romerolagus specificepithet:diazi mappable:1" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;michigan&#34; year &gt;= 1900 year &lt;= 1940 institutioncode:UMMZ" ; Times: 1
+	Query: "134173" ; Times: 1
+	Query: "specificepithet:pennanti genus:Martes" ; Times: 23
+	Query: "genus:Cynomys specificepithet:parvidens mappable:1" ; Times: 1
+	Query: "Thomasomys baeops" ; Times: 1
+	Query: "genus:Heteromys specificepithet:gaumeri mappable:1" ; Times: 2
+	Query: "peromyscus merriami stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "class:Mammalia distance(location,geopoint(42.50855241552863,-118.53424072265625))&lt;30899" ; Times: 1
+	Query: "2479 Dipodomys" ; Times: 2
+	Query: "specificepithet:xerampelinus genus:scotinomys country:&#34;costa rica&#34;" ; Times: 3
+	Query: "genus:Dipodomys specificepithet:gravipes mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Didelphis pernigra " ; Times: 1
+	Query: "bubalus mindorensis" ; Times: 3
+	Query: "genus:Dolichotis specificepithet:salinicola mappable:1" ; Times: 1
+	Query: "genus:Marmosops specificepithet:fuscatus mappable:1" ; Times: 1
+	Query: "genus:Saguinus specificepithet:geoffroyi mappable:1" ; Times: 1
+	Query: "genus:Sooretamys specificepithet:angouya mappable:1" ; Times: 2
+	Query: "genus:alcelaphus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Oxymycterus specificepithet:rufus mappable:1" ; Times: 1
+	Query: "catalognumber:109050 institutioncode:UMMZ" ; Times: 1
+	Query: "neotoma stephensi stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Thomomys specificepithet:bulbivorus mappable:1" ; Times: 2
+	Query: "genus:Thaptomys specificepithet:nigrita mappable:1" ; Times: 2
+	Query: "sciurus nayaritensis chiricahuae stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Marmosa specificepithet:murina mappable:1" ; Times: 1
+	Query: "specificepithet:watsoni genus:tylomys" ; Times: 4
+	Query: "country:Ecuador scientificname:Chilomys instans " ; Times: 2
+	Query: "specificepithet:devius genus:nephelomys" ; Times: 2
+	Query: "class:Mammalia distance(location,geopoint(42.50855241552863,-119.74273681640625))&lt;24272" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis year &gt;= 1890 year &lt;= 1899" ; Times: 1
+	Query: "Habromys lophurus mappable:1" ; Times: 1
+	Query: "peromyscus nudipes" ; Times: 2
+	Query: "UMMZ 87773" ; Times: 1
+	Query: "genus:Ochotona specificepithet:collaris mappable:1" ; Times: 1
+	Query: "scientificname:panthera onca " ; Times: 5
+	Query: "country:Ecuador scientificname:Sylvilagus brasiliensis " ; Times: 1
+	Query: "genus:Alcelaphus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "Cephalophus" ; Times: 2
+	Query: "specificepithet:Lateralis genus:Spermophilus mappable:1" ; Times: 7
+	Query: "genus:sus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Tennessee&#34;" ; Times: 3
+	Query: "microtus richardsoni" ; Times: 1
+	Query: "genus:Spermophilus specificepithet:mexicanus mappable:1" ; Times: 2
+	Query: "genus:Giraffa preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Condylura specificepithet:cristata mappable:1" ; Times: 1
+	Query: "genus:Geomys specificepithet:pinetis mappable:1" ; Times: 1
+	Query: "UMMZ 167199" ; Times: 1
+	Query: "genus:Cryptonanus specificepithet:chacoensis mappable:1" ; Times: 1
+	Query: "genus:Sylvilagus specificepithet:cunicularius mappable:1" ; Times: 2
+	Query: "91909" ; Times: 1
+	Query: "cryptotis mayensis" ; Times: 2
+	Query: "catalognumber:69358 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Sciurus specificepithet:arizonensis mappable:1" ; Times: 2
+	Query: "Choloepus hoffmanni mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Phyllostomus hastatus " ; Times: 1
+	Query: "Thomasomys erro" ; Times: 2
+	Query: "genus:Heteromys specificepithet:oresterus mappable:1" ; Times: 2
+	Query: "genus:bubalus bubalis preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Taurotragus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Baiomys specificepithet:taylori mappable:1" ; Times: 1
+	Query: "pentalagus" ; Times: 3
+	Query: "genus:Marmota specificepithet:flaviventris mappable:1" ; Times: 1
+	Query: "genus:Tamias specificepithet:canipes mappable:1" ; Times: 2
+	Query: "catalognumber:166855 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Heteromys specificepithet:anomalus mappable:1" ; Times: 2
+	Query: "genus:Lestoros specificepithet:inca mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Microryzomys altissimus " ; Times: 3
+	Query: "genus:Neacomys specificepithet:spinosus mappable:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:tenuirostris mappable:1" ; Times: 1
+	Query: "Ummz 60533" ; Times: 1
+	Query: "specificepithet:lupus genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "genus:Euphractus specificepithet:sexcinctus mappable:1" ; Times: 1
+	Query: "genus:Sigmodon specificepithet:toltecus mappable:1" ; Times: 2
+	Query: "genus:Ctenomys specificepithet:steinbachi mappable:1" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon year &gt;= 2001 year &lt;= 2018" ; Times: 1
+	Query: "Reithrodontomys creper mappable:1" ; Times: 1
+	Query: "UMMZ 176886" ; Times: 1
+	Query: "sciurus nayaritensis stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "class:Mammalia catalognumber:157164 institutioncode:UMMZ" ; Times: 1
+	Query: "skeleton of bear institutioncode:UMMZ" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Guayas&#34; country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:(mustela) stateprovince:(virginia)" ; Times: 1
+	Query: "genus:Synaptomys specificepithet:cooperi mappable:1" ; Times: 2
+	Query: "genus:Spilogale specificepithet:putorius mappable:1" ; Times: 2
+	Query: "genus:Peromyscus specificepithet:zarhynchus mappable:1" ; Times: 1
+	Query: "genus:Nephelomys specificepithet:devius mappable:1" ; Times: 1
+	Query: "genus:Proechimys specificepithet:semispinosus mappable:1" ; Times: 2
+	Query: "genus:Spermophilus specificepithet:tereticaudus mappable:1" ; Times: 2
+	Query: "specificepithet:lotor genus:Procyon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Ummz 75505" ; Times: 2
+	Query: "genus:Saguinus specificepithet:tripartitus mappable:1" ; Times: 1
+	Query: "Mammals Illinois Cook" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:humulis mappable:1" ; Times: 1
+	Query: "genus:Thomasomys specificepithet:ladewi mappable:1" ; Times: 2
+	Query: "genus:Cynomys specificepithet:gunnisoni mappable:1" ; Times: 1
+	Query: "genus:Calomys specificepithet:sorellus mappable:1" ; Times: 1
+	Query: "Dickey Collection mammals" ; Times: 1
+	Query: "class:Mammalia catalognumber:146508 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:americana genus:Antilocapra" ; Times: 2
+	Query: "genus:Monodelphis specificepithet:glirina mappable:1" ; Times: 1
+	Query: "genus:Galictis specificepithet:vittata mappable:1" ; Times: 1
+	Query: "genus:Sus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Spilogale specificepithet:gracilis mappable:1" ; Times: 2
+	Query: "class:Mammalia catalognumber:157201 institutioncode:UMMZ" ; Times: 1
+	Query: "sigmodon ochrognathus stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "Sciurus granatensis mappable:1" ; Times: 1
+	Query: "Parnell" ; Times: 5
+	Query: "89909" ; Times: 1
+	Query: "catalognumber:133784 institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Reithrodontomys specificepithet:microdon mappable:1" ; Times: 1
+	Query: "genus:Bison specificepithet:bison mappable:1" ; Times: 2
+	Query: "genus:Marmosops specificepithet:noctivagus mappable:1" ; Times: 1
+	Query: "genus:Proechimys specificepithet:simonsi mappable:1" ; Times: 2
+	Query: "genus:taurotragus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "Sigmodon hispidus stateprovince:&#34;arizona&#34;" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes year &gt;= 1881 year &lt;= 1900" ; Times: 2
+	Query: "specificepithet:cinereus genus:lasiurus continent:North America month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "genus:cryptotis country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "genus:Megadontomys specificepithet:thomasi mappable:1" ; Times: 1
+	Query: "genus:Proechimys specificepithet:steerei mappable:1" ; Times: 2
+	Query: "country:Ecuador scientificname:Microryzomys minutus " ; Times: 1
+	Query: "microtus longicaudus leucophaeus stateprovince:Arizona mappable:1" ; Times: 1
+	Query: "genus:Marmota specificepithet:caligata mappable:1" ; Times: 1
+	Query: "genus:Scotinomys specificepithet:teguina mappable:1" ; Times: 2
+	Query: "genus:canis preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Sigmodontomys specificepithet:alfari mappable:1" ; Times: 2
+	Query: "specificepithet:borealis genus:lasiurus month &gt;= 1 month &lt;= 3" ; Times: 1
+	Query: "mammals of grenada" ; Times: 1
+	Query: "class:Mammalia catalognumber:162722 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Neotoma specificepithet:goldmani mappable:1" ; Times: 1
+	Query: "Desmana" ; Times: 2
+	Query: "&#34;Ursus Americanus&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Mammalia catalognumber:106206 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:interparietalis mappable:1" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 4
+	Query: "genus:Rhipidomys specificepithet:leucodactylus mappable:1" ; Times: 1
+	Query: "genus:Panthera preparations:skeleton institutioncode:UMMZ" ; Times: 2
+	Query: "genus:Sorex specificepithet:jacksoni mappable:1" ; Times: 2
+	Query: "ammospermophilus harrisii stateprovince:Arizona mappable:1" ; Times: 16
+	Query: "Bear preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Alabama&#34;" ; Times: 1
+	Query: "class:Mammalia catalognumber:130418 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Thylamys specificepithet:pusillus mappable:1" ; Times: 2
+	Query: "UMMZ 104508" ; Times: 1
+	Query: "genus:Sorex specificepithet:merriami mappable:1" ; Times: 2
+	Query: "choeronycteris mexicana stateprovince:Arizona mappable:1" ; Times: 2
+	Query: "genus:Anotomys specificepithet:leander mappable:1" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:zacatecae mappable:1" ; Times: 1
+	Query: "genus:Peromyscus specificepithet:melanocarpus mappable:1" ; Times: 1
+	Query: "specificepithet:hemionus sitkensis genus:Odocoileus mappable:1" ; Times: 1
+	Query: "genus:Hydrochoerus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "79965" ; Times: 1
+	Query: "genus:Alces preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:nuttalli genus:Ochrotomys stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:vulpes genus:Vulpes year &gt;= 1920 year &lt;= 1929" ; Times: 1
+	Query: "genus:hippopotamus preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;michigan&#34; year &gt;= 1950 year &lt;= 1995" ; Times: 1
+	Query: "genus:Sciurus specificepithet:aestuans mappable:1" ; Times: 2
+	Query: "Peromyscus gymnotis mappable:1" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 1
+	Query: "UMMZ 176280" ; Times: 1
+	Query: "genus:Dipodomys specificepithet:nitratoides mappable:1" ; Times: 1
+	Query: "genus:Hodomys specificepithet:alleni mappable:1" ; Times: 1
+	Query: "19122" ; Times: 1
+	Query: "UMMZ 124066" ; Times: 1
+	Query: "class:Mammalia catalognumber:115514 institutioncode:UMMZ" ; Times: 1
+	Query: "genus:Reithrodontomys specificepithet:mexicanus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Rhipidomys leucodactylus " ; Times: 1
+	Query: "Marthas Vineyard" ; Times: 1
+	Query: "genus:Elephas preparations:skeleton institutioncode:UMMZ" ; Times: 5
+	Query: "Orthogeomys heterodus mappable:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "genus:Caluromys specificepithet:philander mappable:1" ; Times: 1
+	Query: "genus:Sorex specificepithet:oreopolus mappable:1" ; Times: 2
+	Query: "genus:pan preparations:skeleton institutioncode:UMMZ" ; Times: 1
+	Query: "country:Ecuador scientificname:Proechimys decumanus " ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 142 (out of 1359 download events in this period)
+Total number of records downloaded: 71781
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Mexico ; Times: 14
+	Country: Poland ; Times: 1
+	Country: Finland ; Times: 2
+	Country: India ; Times: 1
+	Country: United States ; Times: 112
+	Country: Uruguay ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-04-23 ; Times: 1
+	Date: 2018-04-22 ; Times: 1
+	Date: 2018-04-21 ; Times: 1
+	Date: 2018-04-26 ; Times: 1
+	Date: 2018-04-25 ; Times: 7
+	Date: 2018-04-24 ; Times: 7
+	Date: 2018-04-01 ; Times: 1
+	Date: 2018-04-03 ; Times: 7
+	Date: 2018-04-02 ; Times: 3
+	Date: 2018-04-05 ; Times: 7
+	Date: 2018-04-04 ; Times: 2
+	Date: 2018-04-07 ; Times: 2
+	Date: 2018-04-06 ; Times: 2
+	Date: 2018-04-09 ; Times: 11
+	Date: 2018-04-08 ; Times: 12
+	Date: 2018-04-30 ; Times: 2
+	Date: 2018-04-12 ; Times: 14
+	Date: 2018-04-13 ; Times: 11
+	Date: 2018-04-10 ; Times: 9
+	Date: 2018-04-11 ; Times: 2
+	Date: 2018-04-16 ; Times: 7
+	Date: 2018-04-17 ; Times: 1
+	Date: 2018-04-15 ; Times: 28
+	Date: 2018-04-18 ; Times: 2
+	Date: 2018-04-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Rutilus rutilus" ; Times: 2
+	Query: "Holochilus" ; Times: 1
+	Query: "order:Rodentia county:&#34;Fresno&#34;" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "family:Tenrecidae" ; Times: 1
+	Query: "order:Rodentia county:&#34;kings&#34;" ; Times: 1
+	Query: "genus:bison mappable:1" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; (skin) year &gt;= 2000 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;paraguay&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Rodentia county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;San Bernardino&#34;" ; Times: 2
+	Query: "specificepithet:hemionus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "order:artiodactyla stateprovince:&#34;michigan&#34; year &gt;= 1900 year &lt;= 1940 institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Sciurus institutioncode:UMMZ" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;argentina&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:myotis family:vespertilionidae" ; Times: 1
+	Query: "distance(location,geopoint(46.76972,-100.91535))&lt;50000" ; Times: 1
+	Query: "genus:ochotona" ; Times: 1
+	Query: "New Guinea" ; Times: 1
+	Query: "specificepithet:canadensis genus:Castor" ; Times: 2
+	Query: "distance(location,geopoint(46.23388,-89.53725))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(45.998269,-89.704767))&lt;50000" ; Times: 1
+	Query: "specificepithet:tarandus genus:Rangifer mappable:1" ; Times: 1
+	Query: "specificepithet:reevesi genus:Muntiacus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(65.15401,-147.50258))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(44.95011,-110.58715))&lt;50000" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "specificepithet:virginianus texanus genus:Odocoileus mappable:1" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;michigan&#34; year &gt;= 1900 year &lt;= 1940 institutioncode:UMMZ" ; Times: 1
+	Query: "distance(location,geopoint(45.49369,-89.58571))&lt;50000" ; Times: 2
+	Query: "distance(location,geopoint(46.21111,-89.47825))&lt;50000" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Tolypeutes" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Speothos" ; Times: 1
+	Query: "sciurus aberti" ; Times: 1
+	Query: "Dipodidae hasmass:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Ursus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "order:rodentia stateprovince:&#34;michigan&#34; year &gt;= 1910 year &lt;= 1940 institutioncode:UMMZ" ; Times: 1
+	Query: "oryctolagus" ; Times: 1
+	Query: "distance(location,geopoint(38.89332,-78.14678))&lt;50000" ; Times: 1
+	Query: "&#34;Ursus Americanus&#34; vntype:specimen stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(47.12823,-99.24136))&lt;50000" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus" ; Times: 9
+	Query: "distance(location,geopoint(35.41059,-99.05879))&lt;50000" ; Times: 1
+	Query: "specificepithet:alces genus:Alces mappable:1" ; Times: 1
+	Query: "specificepithet:tarandus caribou genus:Rangifer mappable:1" ; Times: 1
+	Query: "genus:mus country:&#34;canada&#34;" ; Times: 1
+	Query: "specificepithet:canadensis genus:Cervus mappable:1" ; Times: 1
+	Query: "specificepithet:heermanni genus:dipodomys county:&#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "country:&#34;brazil&#34;" ; Times: 1
+	Query: "specificepithet:gouazoubira genus:Mazama mappable:1" ; Times: 1
+	Query: "agouti paca" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "distance(location,geopoint(39.10506,-96.60336))&lt;50000" ; Times: 1
+	Query: "distance(location,geopoint(44.95348,-110.53914))&lt;50000" ; Times: 1
+	Query: "genus:mus continent:North America" ; Times: 1
+	Query: "distance(location,geopoint(18.02125,-67.0769))&lt;50000" ; Times: 1
+	Query: "order:chiroptera stateprovince:&#34;Sinaloa&#34; country:&#34;mexico&#34;" ; Times: 1
+	Query: "order:Rodentia stateprovince:&#34;Campeche&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "distance(location,geopoint(45.50894,-89.58637))&lt;50000" ; Times: 1
+	Query: "Asuncion (Mus OR Rattus OR Suncus)" ; Times: 1
+	Query: "genus:Lasiurus" ; Times: 1
+	Query: "Platyrrhinus lineatus" ; Times: 3
+	Query: "specificepithet:lupus genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1995 year &lt;= 2018" ; Times: 1
+	Query: "distance(location,geopoint(39.10077,-96.56309))&lt;50000" ; Times: 1
+	Query: "order:Rodentia county:&#34;inyo&#34;" ; Times: 1
+	Query: "distance(location,geopoint(47.15909,-99.11388))&lt;50000" ; Times: 1
+	Query: "genus:vulpes stateprovince:&#34;michigan&#34; year &gt;= 1950 year &lt;= 1995" ; Times: 1
+	Query: "specificepithet:Americana genus:Mazama mappable:1" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "rhogeessa major" ; Times: 1
+	Query: "family:Soricidae country:&#34;egypt&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lepus europaeus" ; Times: 1
+	Query: "specificepithet:latrans genus:canis stateprovince:&#34;michigan&#34; year &gt;= 1960 year &lt;= 1995" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;Mexico&#34;" ; Times: 1
+	Query: "order:Rodentia county:&#34;Monterey&#34;" ; Times: 1
+	Query: "Mammals Illinois Cook" ; Times: 4
+	Query: "specificepithet:hemionus sitkensis genus:Odocoileus mappable:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "distance(location,geopoint(33.40123,-97.57))&lt;50000" ; Times: 1
+	Query: "specificepithet:etruscus genus:suncus continent:africa" ; Times: 1
+	Query: "specificepithet:lotor genus:Procyon country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:muntjak genus:Muntiacus mappable:1" ; Times: 1
+	Query: "specificepithet:brasiliensis genus:tadarida country:&#34;puerto rico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:crocidura country:&#34;egypt&#34; institutioncode:UMMZ basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "lasionycteris year &gt;= 1977 year &lt;= 2016 month &gt;= 1 month &lt;= 2" ; Times: 2
+	Query: "genus:peromyscus stateprovince:&#34;michigan&#34; year &gt;= 2005 year &lt;= 2018 institutioncode:UMMZ" ; Times: 1
+	Query: "vntype:specimen family:Cervidae hastissue:1" ; Times: 1
+	Query: "Leopardus pajeros" ; Times: 1
+	Query: "distance(location,geopoint(38.24833,-109.38827))&lt;50000" ; Times: 1
+	Query: "chrysocyon" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "distance(location,geopoint(63.87569,-149.21334))&lt;50000" ; Times: 1
+	Query: "class:Mammalia county:&#34;Harney&#34; stateprovince:&#34;Oregon&#34; distance(location,geopoint(42.293564192170095,-117.861328125))&lt;100000" ; Times: 1
+	Query: "distance(location,geopoint(40.4619,-103.0293))&lt;50000" ; Times: 1
+	Query: "Enhydra lutris stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "distance(location,geopoint(47.12999,-99.25055))&lt;50000" ; Times: 1
+	Query: "order:Rodentia county:&#34;tulare&#34;" ; Times: 1
+	Query: "genus:myodes stateprovince:&#34;michigan&#34; year &gt;= 2000 year &lt;= 2018 institutioncode:UMMZ" ; Times: 1
+	Query: "peromyscus truei" ; Times: 1
+	Query: "distance(location,geopoint(39.75825,-102.4471))&lt;50000" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "distance(location,geopoint(65.15306,-147.50246))&lt;50000" ; Times: 1
+	Query: "Rangifer tarandus caribou" ; Times: 2
+	Query: "distance(location,geopoint(18.11352,-66.98676))&lt;50000" ; Times: 1
+	Query: "specificepithet:cinereus genus:lasiurus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "distance(location,geopoint(29.67647,-82.00909))&lt;50000" ; Times: 1
+	Query: "specificepithet:leucopus genus:peromyscus continent:North America" ; Times: 2
+	Query: "Artibeus intermedius" ; Times: 1
+	Query: "distance(location,geopoint(47.16165,-99.10656))&lt;50000" ; Times: 1
+	Query: "order:Rodentia county:&#34;Kern&#34;" ; Times: 1
+	Query: "genus:Tapirus" ; Times: 1
+	Query: "Reithrodontomys mexicanus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "distance(location,geopoint(63.88112,-145.75136))&lt;50000" ; Times: 1
+	Query: "stateprovince:&#34;Pernambuco&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:noctivagans genus:lasionycteris stateprovince:&#34;New Mexico&#34;" ; Times: 1
+
+
+End of report.
